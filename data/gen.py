@@ -20,20 +20,23 @@ COLUMNS = 6
 HEADER = "Topic,Question,Answer,Distractor1,Distractor2,Distractor3"
 
 
-#openai.api_key = <INSERT OPEN_API_KEY STRING HERE> # Not needed anymore?
+# Either place the API key here or paste it in a '.openai' file in this directory.
+# openai.api_key = <INSERT OPEN_API_KEY STRING HERE>
+openai.api_key_path = ".openai"
 
 
 def print_error(line, comment):
     print("ERROR:", line)
-    print("      ", "^" * len(line))
-    print(comment + "\n")
+    print(f"      ", "^", comment, "\n")
 
 
 def verify(output):
     try:
         # Try to read output into a CSV -- this *should* verify the output's validity
         # as a CSV
-        return pd.read_csv(StringIO(output))
+        #
+        # Strip output to remove unnecessary whitespace at start/end
+        return pd.read_csv(StringIO(output.strip()))
     except Exception as err:
         print("-" * 80)
         print(f"Exception encountered:\n{err}")
@@ -44,9 +47,9 @@ def verify(output):
         # We want to identify a line with extra commas -- this could be indicative of
         # text containing commas, or of a missing newline -- highlight for manual
         # intervention.
-        for i, line in enumerate(output.lines()):
+        for i, line in enumerate(output.splitlines()):
             error_detected = False
-            if i == 0 and "".join(line.split()) != HEADER:
+            if i == 0 and line != HEADER:
                 print_error(line, "Header may be incorrect.")
                 error_detected = True
 
@@ -80,12 +83,10 @@ def main():
     print(f'Text output:\n{text_output}')
     print(f'Total response token cost: {total_token_cost}')
 
-    print(text_output)
-
     df = verify(text_output)
     file_id = uuid.uuid4()
 
-    if df:
+    if df is not None:
         # TODO: better directory management; this should be ran in "data" directory
         filename = f"{file_id}.csv"
         print(f"Saving to {filename}")
