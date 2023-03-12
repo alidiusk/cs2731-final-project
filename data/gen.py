@@ -35,4 +35,4 @@ print(textOutput)
 # TODO: error handling
 df = pd.read_csv(StringIO(textOutput))
 # TODO: better directory management; this should be ran in "data" directory
-df.to_csv('./{}'.format(uuid.uuid4())) 
+df.to_csv('./{}.csv'.format(uuid.uuid4())) 
