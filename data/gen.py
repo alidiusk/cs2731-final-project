@@ -14,10 +14,12 @@ from io import StringIO
 
 import openai
 import pandas as pd
+import sys
 
 
 COLUMNS = 6
 HEADER = "Topic,Question,Answer,Distractor1,Distractor2,Distractor3"
+COLUMNS = ["Topic","Question","Answer","Distractor1","Distractor2","Distractor3"]
 
 
 # Either place the API key here or paste it in a '.openai' file in this directory.
@@ -35,8 +37,13 @@ def verify(output):
         # Try to read output into a CSV -- this *should* verify the output's validity
         # as a CSV
         #
-        # Strip output to remove unnecessary whitespace at start/end
-        return pd.read_csv(StringIO(output.strip()))
+        
+        # Replace pipes with commas and commas with pipes, triggering of the error below
+        # is indicitive of an extra pipe operator somewhere in the output. 
+        print("\nOUTPUT\n", StringIO(output.strip()).read())
+        trans_output = ''.join([',' if char == '|' else '|' if char == ',' else char for char in output.strip()])
+        print("\nTRANS_OUTPUT\n", StringIO(trans_output.strip()).read())
+        return pd.read_csv(StringIO(trans_output), sep=",", header=None, names=COLUMNS)
     except Exception as err:
         print("-" * 80)
         print(f"Exception encountered:\n{err}")
@@ -47,30 +54,28 @@ def verify(output):
         # We want to identify a line with extra commas -- this could be indicative of
         # text containing commas, or of a missing newline -- highlight for manual
         # intervention.
-        for i, line in enumerate(output.splitlines()):
-            error_detected = False
-            if i == 0 and line != HEADER:
+        for i, line in enumerate(output.lines()):
+            if i == 0 and "".join(line.split()) != HEADER:
                 print_error(line, "Header may be incorrect.")
-                error_detected = True
 
             if line.count(",") != COLUMNS - 1:
-                # TODO: point out exact errors -- the extra commas?
                 print_error(line, "Extra commas found -- unescaped commas in output or missing newline.")
-                error_detected = True
 
         print("-" * 80)
         return None
 
-
+# Specify number of questions to generate as first command line argument
+# Ex. $ python3 gen.py fifty
 def main():
     output = openai.ChatCompletion.create(
       model="gpt-3.5-turbo",
       messages=[
           #{"role": "system", "content": "You are a helpful assistant that <generates X>."},
           {"role": "user", "content": \
-                    "Please provide ten multiple choice science questions, in CSV format \
-                        with newlines at the end of each row, formatted into columns \
-                            Topic,Question,Answer,Distractor1,Distractor2,Distractor3"}
+                    "Provide {} multiple choice science questions, in CSV format \
+                      replacing the comma separator \",\" with a pipe \"|\" separator \
+                        and with newlines at the end of each row, formatted into columns \
+                          Topic|Question|Answer|Distractor1|Distractor|Distractor3".format(sys.argv[1])}
       ]
     )
 
@@ -87,7 +92,7 @@ def main():
         # TODO: better directory management; this should be ran in "data" directory
         filename = f"{file_id}.csv"
         print(f"Saving to {filename}")
-        df.to_csv(filename)
+        df.to_csv(filename, index=False)
     else:
         # Save file for review
         filename = f"REVIEW-{file_id}.csv"
