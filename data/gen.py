@@ -54,12 +54,9 @@ def verify(output):
                 error_detected = True
 
             if line.count(",") != COLUMNS - 1:
+                # TODO: point out exact errors -- the extra commas?
                 print_error(line, "Extra commas found -- unescaped commas in output or missing newline.")
                 error_detected = True
-
-            if not error_detected:
-                # TODO: consider adding previous and next line as context?
-                print_error(line, "Unknown error in line -- please review.")
 
         print("-" * 80)
         return None
