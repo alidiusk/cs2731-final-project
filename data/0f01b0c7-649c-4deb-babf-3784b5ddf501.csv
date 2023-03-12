@@ -1,0 +1,61 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Astronomy,Which planet in our Solar System is the largest?,Jupiter,Venus,Uranus,Neptune
+Biology,What is the process by which cells produce energy called?,Cellular respiration,Photosynthesis,Fermentation,Glycolysis
+Chemistry,What is the most common element found in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Physics,What is the SI unit of force?,Newton,Meter,Watt,Joule
+Astronomy,What is the name of the nearest star to Earth?,Proxima Centauri,Alpha Centauri A,Alpha Centauri B,Sirius
+Biology,What is the name of the process used by plants to convert sunlight into energy?,Photosynthesis,Cellular respiration,Fermentation,Glycolysis
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Physics,What is the speed of light in a vacuum?,299|792|458 meters per second,100|000 meters per second,1|000 meters per second,10|000 meters per second
+Astronomy,What is the name of the biggest asteroid in our Solar System?,Ceres,Vesta,Pallas,Hygiea
+Biology,What is the name of the part of the cell responsible for producing protein?,Ribosome,Nucleus,Mitochondria,Endoplasmic reticulum
+Chemistry,What is the chemical symbol for oxygen?,O,N,C,H
+Physics,What is the formula for calculating work?,Work = force × distance,Work = mass × acceleration,Work = power × time,Work = energy × time
+Astronomy,What is the name of the brightest star in the constellation Orion?,Rigel,Betelgeuse,Bellatrix,Saiph
+Biology,What is the name of the pigment responsible for photosynthesis in plants?,Chlorophyll,Carotene,Melanin,Anthocyanin
+Chemistry,What is the most abundant gas in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Physics,What is the formula for calculating power?,Power = work ÷ time,Power = force × distance,Power = energy × time,Power = mass × acceleration
+Astronomy,What is the name of the planet known as the Red planet?,Mars,Venus,Jupiter,Saturn
+Biology,What is the name of the process through which a plant loses water through its leaves?,Transpiration,Photosynthesis,Respiration,Digestion
+Chemistry,What is the chemical symbol for helium?,He,H,O,C
+Physics,What is the force that opposes motion called?,Friction,Gravity,Momentum,Inertia
+Astronomy,What is the name of the brightest star in the constellation Ursa Major?,Alioth,Dubhe,Merak,Alkaid
+Biology,What is the name of the molecule that stores genetic information in cells?,DNA,RNA,Protein,Carbohydrate
+Chemistry,What is the chemical symbol for sodium?,Na,K,Ca,Fe
+Physics,What is the formula for calculating acceleration?,Acceleration = change in velocity ÷ time taken,Acceleration = force × mass,Acceleration = distance ÷ time taken,Acceleration = work ÷ time taken
+Astronomy,What is the name of the planet known as the Blue planet?,Earth,Venus,Mars,Jupiter
+Biology,What is the name of the process by which living organisms break down food to produce energy?,Cellular respiration,Photosynthesis,Fermentation,Glycolysis
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Cu
+Physics,What is the force that causes objects to fall towards the Earth called?,Gravity,Friction,Momentum,Inertia
+Astronomy,What is the name of the nearest galaxy to our Milky Way?,Andromeda,Triangulum,Irregular Dwarf,Large Magellanic Cloud
+Biology,What is the name of the protein fibers that help cells maintain their shape?,Cytoskeleton,Nucleus,Mitocondria,Endoplasmic reticulum
+Chemistry,What is the chemical symbol for carbon?,C,O,Fe,K
+Physics,What is the formula for calculating momentum?,Momentum = mass × velocity,Momentum = force × acceleration,Momentum = energy ÷ time,Momentum = work ÷ time
+Astronomy,What is the name of the first man to walk on the Moon?,Neil Armstrong,Buzz Aldrin,Michael Collins,Yuri Gagarin
+Biology,What is the name of the process used by bacteria to exchange genetic information?,Conjugation,Transformation,Transduction,Replication
+Chemistry,What is the chemical symbol for silver?,Ag,Au,Fe,Cu
+Physics,What is the formula for calculating velocity?,Velocity = distance ÷ time taken,Velocity = force ÷ mass,Velocity = power × time,Velocity = acceleration × time taken
+Astronomy,What is the name of the region in space where gravitational forces are so strong nothing can escape?,Black hole,Event Horizon,Neutron Star,Singularity
+Biology,What is the name of the structure that carries genetic information from the nucleus to the ribosome?,mRNA,tRNA,rRNA,DNA
+Chemistry,What is the chemical symbol for calcium?,Ca,K,Na,Fe
+Physics,What is the formula for calculating energy?,Energy = power × time,Energy = force × distance,Energy = mass × acceleration,Energy = work ÷ time
+Astronomy,What is the name of the planet referred to as the Morning Star or the Evening Star?,Venus,Mercury,Jupiter,Mars
+Biology,What is the name of the process used by plants to produce seeds?,Pollination,Fertilization,Germination,Photosynthesis
+Chemistry,What is the chemical symbol for nitrogen?,N,O,C,H
+Physics,What is the formula for calculating force?,Force = mass × acceleration,Force = power ÷ time,Force = energy ÷ time,Force = work ÷ distance
+Astronomy,What is the name of the biggest moon in our Solar System?,Ganymede,Titan,Io,Europa
+Biology,What is the name of the process by which cells divide into two identical daughter cells?,Mitosis,Meiosis,Fermentation,Glycolysis
+Chemistry,What is the chemical symbol for potassium?,K,Ca,Na,Fe
+Physics,What is the principle of conservation of energy?,Energy cannot be created or destroyed| only transferred or transformed,Energy can be created or destroyed,Energy can only be transferred,Energy can only be transformed
+Astronomy,What is the name of the star closest to the North Pole?,Polaris,Vega,Betelgeuse,Sirius
+Biology,What is the name of the molecule responsible for storing excess glucose in the liver and muscles?,Glycogen,Cellulose,Chitin,Starch
+Chemistry,What is the chemical symbol for hydrogen?,H,He,O,C
+Physics,What is the formula for calculating pressure?,Pressure = force ÷ area,Pressure = power ÷ time,Pressure = energy ÷ time,Pressure = work ÷ distance
+Astronomy,What is the name of the phenomenon caused by the bending of light around an object in space?,Gravitational lensing,Redshift,Black hole,Singularity
+Biology,What is the name of the molecule responsible for carrying oxygen in red blood cells?,Hemoglobin,Chlorophyll,Carotene,Melanin
+Chemistry,What is the chemical symbol for copper?,Cu,Ag,Au,Fe
+Physics,What is the formula for calculating density?,Density = mass ÷ volume,Density = force ÷ acceleration,Density = work ÷ distance,Density = energy ÷ time
+Astronomy,What is the name of the formerly-ninth planet in our Solar System?,Pluto,Eris,Haumea,Makemake
+Biology,What is the name of the process used by plants to produce their own food?,Photosynthesis,Cellular respiration,Fermentation,Glycolysis
+Chemistry,What is the chemical symbol for lead?,Pb,Ag,Au,Fe
+Physics,What is the formula for calculating time taken?,Time taken = distance ÷ velocity,Time taken = energy ÷ power,Time taken = force ÷ acceleration,Time taken = work ÷ power

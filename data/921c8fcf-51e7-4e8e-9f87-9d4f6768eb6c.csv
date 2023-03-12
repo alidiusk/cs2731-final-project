@@ -1,0 +1,52 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Pt
+Biology,What is the largest organ in the human body?,Skin,Heart,Brain,Liver
+Physics,What is the formula for force?,F=ma,E=mc^2,P=mv,a=v/t
+Chemistry,What is the chemical symbol for iron?,Fe,Ag,Na,Cu
+Biology,What is the function of ribosomes?,Protein synthesis,Energy production,Cell division,Transportation
+Physics,What is the formula for kinetic energy?,KE=1/2mv^2,PE=mgh,W=Fd,P=V/I
+Chemistry,What is the chemical formula for water?,H2O,H2O2,H3O,HO
+Biology,What is the general name for the process by which plants convert sunlight into energy?,Photosynthesis,Respiration,Digestion,Transpiration
+Physics,What is the formula for acceleration?,a=v/t,a=F/m,a=P/V,a=W/t
+Chemistry,What is the chemical symbol for sodium?,Na,K,Cl,H
+Biology,What is the function of mitochondria?,Energy production,Protein synthesis,Cell division,Transportation
+Physics,What is the formula for work?,W=Fd,F=ma,P=V/I,E=mc^2
+Chemistry,What is the chemical symbol for oxygen?,O,N,He,C
+Biology,What is the function of chloroplasts?,Photosynthesis,Respiration,Digestion,Transpiration
+Physics,What is the formula for power?,P=W/t,P=V/I,P=Fv,P=mv^2
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,CO,O2,C2H6
+Biology,What is the function of the nucleus?,Genetic control,Energy production,Cell division,Transportation
+Physics,What is the formula for pressure?,P=F/A,P=V/I,P=mv^2,P=W/t
+Chemistry,What is the chemical symbol for hydrogen?,H,He,O,N
+Biology,What is the largest organ in the plant kingdom?,Leaves,Stems,Roots,Flowers
+Physics,What is the formula for density?,D=m/v,D=F/A,D=P/T,D=T/m
+Chemistry,What is the chemical formula for methane?,CH4,C2H6,CO2,H2O
+Biology,What is the function of the cell membrane?,Transportation,Energy production,Cell division,Genetic control
+Physics,What is the formula for frequency?,f=1/T,f=W/t,f=v/d,f=P/V
+Chemistry,What is the chemical symbol for carbon?,C,H,O,N
+Biology,What is the function of the cytoplasm?,Holds organelles,Energy production,Cell division,Transportation
+Physics,What is the formula for wavelength?,λ=c/f,λ=p/m,λ=W/F,λ=v^2/a
+Chemistry,What is the chemical formula for table salt?,NaCl,NaHCO3,NaOH,Na2CO3
+Biology,What is the function of the Golgi apparatus?,Packaging and modification of proteins,Energy production,Cell division,Transportation
+Physics,What is the formula for Ohm's Law?,V=IR,V=P/I,V=F/d,V=W/t
+Chemistry,What is the chemical formula for ammonia?,NH3,NH4,NH2,NH
+Biology,What is the function of the ribosome?,Protein synthesis,Energy production,Cell division,Transportation
+Physics,What is the formula for resistance?,R=V/I,R=F/d,R=mv^2/P,R=P/V
+Chemistry,What is the chemical symbol for helium?,He,H,O,N
+Biology,What is the function of the lysosome?,Digestion,Energy production,Cell division,Transportation
+Physics,What is the formula for current?,I=V/R,I=P/V,I=F/d,I=W/t
+Chemistry,What is the chemical formula for iron oxide?,Fe2O3,FeO,Fe3O4,FeCl2
+Biology,What is the function of the vacuole?,Storage,Energy production,Cell division,Transportation
+Physics,What is the formula for voltage?,V=IR,V=P/I,V=W/t,V=F/d
+Chemistry,What is the chemical symbol for nitrogen?,N,O,H,He
+Biology,What is the function of the endoplasmic reticulum?,Protein synthesis and transportation,Energy production,Cell division,Transportation
+Physics,What is the formula for electric power?,P=VI,P=W/t,P=Fv,P=mv^2
+Chemistry,What is the chemical formula for carbon monoxide?,CO,CO2,O2,C3H8
+Biology,What is the function of the cell wall?,Support and protection,Energy production,Cell division,Transportation
+Physics,What is the formula for electric field?,E=F/q,E=W/t,E=P/V,E=v^2/a
+Chemistry,What is the chemical symbol for calcium?,Ca,Cu,C,Cl
+Biology,What is the function of the flagella?,Movement,Energy production,Cell division,Transportation
+Physics,What is the formula for magnetic flux?,Φ=B×A,Φ=W/t,Φ=P/V,Φ=F/d
+Chemistry,What is the chemical formula for hydrochloric acid?,HCl,H3PO4,H2SO4,HNO3
+Biology,What is the function of the centrosome?,Cell division,Energy production,Genetic control,Transportation
+Physics,What is the formula for electromagnetic wave velocity?,c=fλ,c=v/a,c=F/m,c=P/V

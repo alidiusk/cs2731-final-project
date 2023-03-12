@@ -1,0 +1,53 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the powerhouse of the cell?,Mitochondria,Golgi apparatus,Nucleus,Ribosomes
+Chemistry,What is the symbol for gold on the periodic table?,Au,Ag,Cu,Pt
+Physics,What is the formula for Newton's Second Law of Motion?,F=ma,E=mc²,P=mv,W=Fd
+Biology,What is the process by which plants make their own food?,Photosynthesis,Respiration,Digestion,Fermentation
+Chemistry,What element has the atomic number 1?,Hydrogen,Oxygen,Carbon,Nitrogen
+Physics,What is the unit of measurement for force?,Newton,Kilogram,Meter,Second
+Biology,What is the function of the heart?,Pump blood,Digest food,Filter waste,Produce hormones
+Chemistry,What is the chemical formula for water?,H₂O,CO₂,NaCl,HCl
+Physics,What is the speed of light?,299|792|458 m/s,2|997|924|580 m/s,29|979|245.8 m/s,299|792.458 m/s
+Biology,What is the largest organ in the human body?,Skin,Liver,Lungs,Brain
+Chemistry,What is the most abundant element in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Physics,What is the formula for work?,W=Fd,F=ma,E=mc²,P=mv
+Biology,What is the function of the lungs?,Exchange gases,Pump blood,Filter waste,Produce hormones
+Chemistry,What is the name of the bond that holds two hydrogen atoms together in a molecule of hydrogen gas?,Covalent bond,Ionic bond,Hydrogen bond,Van der Waals forces
+Physics,What is the formula for potential energy?,PE=mgh,KE=1/2mv²,F=ma,W=Fd
+Biology,What is the process by which animals release energy from the food they eat?,Respiration,Photosynthesis,Digestion,Fermentation
+Chemistry,What is the symbol for sodium on the periodic table?,Na,Ni,Nb,N
+Physics,What is the formula for kinetic energy?,KE=1/2mv²,PE=mgh,F=ma,W=Fd
+Biology,What is the function of the liver?,Filter blood,Digest food,Exchange gases,Produce hormones
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Cu
+Physics,What is the formula for acceleration?,a=(v-u)/t,F=ma,P=mv,W=Fd
+Biology,What is the process by which the body fights off infection?,Immune response,Digestion,Respiration,Fermentation
+Chemistry,What gas makes up the majority of the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Physics,What is the formula for pressure?,P=F/A,F=ma,W=Fd,KE=1/2mv²
+Biology,What is the process by which DNA is copied?,Replication,Transcription,Translation,Mutation
+Chemistry,What is the symbol for oxygen on the periodic table?,O,Na,Ni,Nb
+Physics,What is the formula for force?,F=ma,a=(v-u)/t,P=mv,W=Fd
+Biology,What is the function of the kidneys?,Filter waste,Digest food,Exchange gases,Produce hormones
+Chemistry,What is the process by which a solid turns directly into a gas| without passing through the liquid state called?,Sublimation,Evaporation,Condensation,Melting
+Physics,What is the formula for velocity?,v=s/t,F=ma,P=mv,W=Fd
+Biology,What is the process by which cells divide?,Mitosis,Meiosis,Replication,Transcription
+Chemistry,What is the symbol for carbon on the periodic table?,C,O,Na,Ni
+Physics,What is the formula for displacement?,s=v₀t+1/2at²,F=ma,P=mv,W=Fd
+Biology,What is the function of the pancreas?,Regulate blood sugar,Digest food,Exchange gases,Produce hormones
+Chemistry,What is the process by which plants respire?,Cellular respiration,Photosynthesis,Fermentation,Transpiration
+Physics,What is the formula for power?,P=W/t,F=ma,P=mv,W=Fd
+Biology,What is the process by which cells convert glucose into cell energy?,Cellular respiration,Photosynthesis,Fermentation,Transpiration
+Chemistry,What is the name for the process of changing a liquid into a gas?,Evaporation,Condensation,Freezing,Combustion
+Physics,What is the formula for momentum?,p=mv,F=ma,P=W/t,W=Fd
+Biology,What is the function of insulin in the body?,Regulate blood sugar,Digest food,Exchange gases,Produce hormones
+Chemistry,What is the opposite of an acid?,Base,Salt,Metal,Non-metal
+Physics,What is the formula for the period of a pendulum?,T=2π√(L/g),F=ma,P=mv,W=Fd
+Biology,What is the function of the small intestine?,Absorb nutrients,Digest food,Exchange gases,Produce hormones
+Chemistry,What is the name of a compound made from carbon| hydrogen| and oxygen| that is a major source of energy for the body?,Carbohydrate,Protein,Lipid,Nucleic acid
+Physics,What is the formula for centripetal force?,F=mv²/r,F=ma,P=mv,W=Fd
+Biology,What is the process by which blood clots when you get a cut?,Coagulation,Digestion,Respiration,Fermentation
+Chemistry,What is the name of the substance that is doing the dissolving in a solution?,Solvent,Solute,Solution,Concentration
+Physics,What is the formula for gravitational potential energy?,PE=mgh,KE=1/2mv²,F=ma,W=Fd
+Biology,What is the function of the large intestine?,Absorb water,Digest food,Exchange gases,Produce hormones
+Chemistry,What is the name of a substance that has a pH greater than 7?,Base,Acid,Salt,Metal
+Physics,What is the formula for work done by a gas in a closed system?,W=-PΔV,F=ma,P=mv,W=Fd

@@ -1,0 +1,50 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor,Distractor3
+Biology,What is the largest organ in the human body?,Skin,Liver,Heart,Lungs
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the formula for calculating velocity?,Velocity = Distance/Time,Velocity = Speed x Time,Velocity = Force x Mass,Velocity = Acceleration x Distance
+Astronomy,What is the closest planet to the Sun?,Mercury,Venus,Earth,Mars
+Biology,What is the name of the fluid that surrounds the brain and spinal cord?,Cerebrospinal Fluid,Lymphatic Fluid,Amniotic Fluid,Synovial Fluid
+Chemistry,Which gas makes up the majority of Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Physics,What is the SI unit for measuring electric current?,Ampere,Volt,Ohm,Watt
+Astronomy,What is the Kuiper Belt?,A region of icy bodies beyond the orbit of Neptune,A region of asteroids located between Mars and Jupiter,A region of gas and dust in the center of the Milky Way,A region of rocky planets closest to the Sun
+Biology,What type of muscle is found in the heart?,Cardiac muscle,Skeletal muscle,Smooth muscle,Facial muscles
+Chemistry,What is the process by which a gas turns into a liquid?,Condensation,Evaporation,Sublimation,Melting
+Physics,What is Newton's Second Law of Motion?,F = ma,v = d/t,E = mc²,P = F/A
+Astronomy,What is an asteroid?,A small| rocky body that orbits the Sun,A large| gaseous planet,A burning ball of gas,A moon that orbits a planet
+Biology,What is the name for a group of cells that work together to perform a specific function?,Tissue,Organ,Organism,System
+Chemistry,What is the pH level of a neutral substance?,7,1,14,5
+Physics,What is the formula for calculating force?,Force = Mass x Acceleration,Force = Distance/Time,Force = Energy/Voltage,Force = Pressure x Area
+Astronomy,What is the largest planet in our solar system?,Jupiter,Saturn,Mars,Uranus
+Biology,What is the name for the process by which plants make their food?,Photosynthesis,Respiration,Fermentation,Digestion
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,O2
+Physics,What is the formula for calculating work?,Work = Force x Distance,Work = Mass x Acceleration,Work = Energy/Voltage,Work = Pressure x Area x Distance
+Astronomy,What is a galaxy?,A collection of stars| gas| and dust held together by gravity,A large| gaseous planet,A comet that orbits the Sun,A moon that orbits a planet
+Biology,What is the smallest unit of life?,Cell,Molecule,Atom,Organism
+Chemistry,What is the process by which a solid turns into a gas?,Sublimation,Deposition,Condensation,Crystallization
+Physics,What is the formula for calculating power?,Power = Work/Time,Power = Force x Distance,Power = Energy/Voltage,Power = Pressure x Area
+Astronomy,What is a black hole?,A region of space with a gravitational pull so strong that nothing can escape from it,A region of space where stars are born,A region of space that is completely empty,A region of space where galaxies collide
+Biology,What is the name for the system that controls and coordinates the body's activities?,Nervous system,Circulatory system,Digestive system,Respiratory system
+Chemistry,What is the process by which a liquid turns into a gas?,Evaporation,Condensation,Melting,Sublimation
+Physics,What is the formula for calculating pressure?,Pressure = Force/Area,Pressure = Energy/Voltage,Pressure = Work/Time,Pressure = Mass x Acceleration
+Astronomy,What is a comet?,A small| icy body that orbits the Sun,A large| rocky planet,A burning ball of gas,A moon that orbits a planet
+Biology,What is the name for the process by which the body breaks down food and absorbs nutrients?,Digestion,Photosynthesis,Respiration,Fermentation
+Chemistry,What is the chemical symbol for carbon?,C,Ca,Co,Cu
+Physics,What is the formula for calculating acceleration?,Acceleration = (Final Velocity - Initial Velocity)/Time,Acceleration = Speed x Time,Acceleration = Force x Mass,Acceleration = Distance/Time
+Astronomy,What is a supernova?,A powerful explosion that occurs when a star runs out of fuel,A region of space where stars are born,A region of space where black holes are found,A region of space that is completely empty
+Biology,What is the name for the system that transports blood and nutrients throughout the body?,Circulatory system,Nervous system,Digestive system,Respiratory system
+Chemistry,What is the process by which a gas turns into a solid?,Deposition,Sublimation,Condensation,Crystallization
+Physics,What is the formula for calculating energy?,Energy = Power x Time,Energy = Force x Distance,Energy = Mass x Acceleration,Energy = Pressure x Area x Distance
+Astronomy,What is the name for the group of stars that form a pattern or shape in the sky?,Constellation,Galaxy,Star Cluster,Orbit
+Biology,What is the name for the pigment responsible for giving skin its color?,Melanin,Hemoglobin,Chlorophyll,Keratin
+Chemistry,What is the process by which a gas turns into a liquid without going through the liquid state?,Condensation,Evaporation,Sublimation,Melting
+Physics,What is the formula for calculating kinetic energy?,Kinetic Energy = 1/2 x Mass x Velocity²,Kinetic Energy = Force x Distance,Kinetic Energy = Power x Time,Kinetic Energy = Pressure x Area x Distance²
+Astronomy,What is a light year?,The distance light travels in one year,The distance between the Sun and Earth,The distance between the Milky Way and Andromeda galaxies,The distance from the Sun to the nearest star
+Biology,What is the name for the hormone responsible for regulating blood sugar levels?,Insulin,Epinephrine,Testosterone,Estrogen
+Chemistry,What is the process by which a liquid turns into a solid?,Freezing,Melting,Evaporation,Condensation
+Physics,What is the formula for calculating potential energy?,Potential Energy = Mass x Gravity x Height,Potential Energy = Force x Distance,Potential Energy = Power x Time,Potential Energy = Pressure x Area x Height
+Astronomy,What is the name for a group of stars| gas| and dust held together by gravity?,Galaxy,Constellation,Star Cluster,Nebula
+Biology,What is the name for the process by which cells use oxygen to produce energy?,Cellular Respiration,Photosynthesis,Fermentation,Digestion
+Chemistry,What is the chemical symbol for sodium?,Na,K,Hg,Sn
+Physics,What is the formula for calculating force of gravity?,Force of Gravity = (G x Mass₁ x Mass₂)/Distance²,Force of Gravity = Mass x Acceleration,Force of Gravity = Pressure x Area,Force of Gravity = Energy/Voltage x Distance
+Astronomy,What is a pulsar?,A rapidly spinning neutron star that emits beams of electromagnetic radiation,A star that is about to explode as a supernova,A black hole that emits powerful jets of radiation,A galaxy with a high rate of star formation

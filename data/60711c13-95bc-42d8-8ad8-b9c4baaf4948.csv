@@ -1,0 +1,50 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,Which of the following is a scalar quantity?,Time,Velocity,Acceleration,Force
+Biology,What is the function of DNA?,Store genetic information,Fuel the cell,Create proteins,Produce energy
+Physics,What is the SI unit for force?,Newton,Meter,Second,Ampere
+Chemistry,What is the process of converting a liquid into a gas called?,Evaporation,Melting,Condensation,Sublimation
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Vacuole,Cytoplasm
+Physics,Which law states that for every action there is an equal and opposite reaction?,Newton's third law,Newton's first law,Newton's second law,Einstein's theory of relativity
+Chemistry,What is the pH range for acid?,0-6,7-14,0-14,6-8
+Biology,What is the process by which plants convert sunlight to energy called?,Photosynthesis,Cellular respiration,Fermentation,Digestion
+Physics,What is the velocity formula?,Velocity = distance/time,Velocity = time/distance,Velocity = force/mass,Velocity = mass/force
+Chemistry,What are the three states of matter?,Solid| liquid| gas,Solid| liquid| air,Solid| liquid| plasma,Solid| liquid| energy
+Biology,What is the largest organ in the human body?,Skin,Heart,Liver,Lung
+Physics,What is the formula for work?,Work = force x distance,Work = distance/force,Work = force/time,Work = mass x velocity
+Chemistry,What is the process of converting a gas into a liquid called?,Condensation,Evaporation,Melting,Sublimation
+Biology,What is the process by which cells break down glucose to produce energy?,Cellular respiration,Photosynthesis,Fermentation,Digestion
+Physics,What is the density formula?,Density = mass/volume,Density = volume/mass,Density = force/mass,Density = force/volume
+Chemistry,What is the chemical symbol for hydrogen?,H,He,C,O
+Biology,What is the process by which cells divide called?,Mitosis,Meiosis,Cytokinesis,Apoptosis
+Physics,What is the formula for acceleration?,Acceleration = (final velocity - initial velocity)/time,Acceleration = (initial velocity - final velocity)/time,Acceleration = force/mass,Acceleration = mass/force
+Chemistry,What is the process of converting a solid into a gas called?,Sublimation,Melting,Condensation,Evaporation
+Biology,What is the process by which DNA is copied called?,Replication,Translation,Transcription,Mutation
+Physics,What is the formula for power?,Power = work/time,Power = time/work,Power = force/mass,Power = mass/force
+Chemistry,What is the chemical symbol for oxygen?,O,H,He,C
+Biology,What is the structure of DNA?,Double helix,Single strand,Triple helix,Quadruple helix
+Physics,What is the formula for gravitational potential energy?,Gravitational potential energy = mass x gravity x height,Gravitational potential energy = mass + gravity + height,Gravitational potential energy = force x distance,Gravitational potential energy = mass x velocity
+Chemistry,What is the process of breaking down a compound into its component elements called?,Decomposition,Combustion,Synthesis,Replacement
+Biology,What is the powerhouse of the plant cell?,Chloroplasts,Nucleus,Vacuole,Cytoplasm
+Physics,What is the formula for kinetic energy?,Kinetic energy = 1/2 x mass x velocity^2,Kinetic energy = mass x velocity,Kinetic energy = mass x gravity x height,Kinetic energy = force x distance
+Chemistry,What is the chemical symbol for carbon?,C,O,H,He
+Biology,What is the process by which RNA is made from DNA called?,Transcription,Translation,Replication,Mutation
+Physics,What is the formula for potential energy?,Potential energy = mass x gravity x height,Potential energy = force x distance,Potential energy = 1/2 x mass x velocity^2,Potential energy = mass x velocity
+Chemistry,What is the process of combining two or more elements to form a compound called?,Synthesis,Combustion,Decomposition,Replacement
+Biology,What is the process of converting nitrogen into ammonia called?,Nitrogen fixation,Photosynthesis,Respiration,Fermentation
+Physics,What is the formula for weight?,Weight = mass x gravity,Weight = force x distance,Weight = 1/2 x mass x velocity^2,Weight = mass x velocity
+Chemistry,What is the chemical symbol for iron?,Fe,Cu,Ag,Au
+Biology,What is the process by which proteins are made from RNA called?,Translation,Transcription,Replication,Mutation
+Physics,What is the formula for force?,Force = mass x acceleration,Force = mass/acceleration,Force = work/time,Force = power/time
+Chemistry,What is the process of combining oxygen with another substance called?,Combustion,Decomposition,Synthesis,Replacement
+Biology,What is the process by which cells produce offspring with half the number of chromosomes called?,Meiosis,Mitosis,Cytokinesis,Apoptosis
+Physics,What is the formula for pressure?,Pressure = force/area,Pressure = force x volume,Pressure = mass x acceleration,Pressure = power/time
+Chemistry,What is the chemical symbol for helium?,He,O,C,H
+Biology,What is the process by which cells self-destruct called?,Apoptosis,Mitosis,Meiosis,Cytokinesis
+Physics,What is the formula for momentum?,Momentum = mass x velocity,Momentum = force x time,Momentum = power/force,Momentum = density x volume
+Chemistry,What is the process of combining two substances to form a single compound called?,Replacement,Synthesis,Decomposition,Combustion
+Biology,What is the process by which RNA is converted into proteins called?,Translation,Transcription,Replication,Mutation
+Physics,What is the formula for impulse?,Impulse = force x time,Impulse = mass x velocity,Impulse = power/force,Impulse = density x volume
+Chemistry,What is the chemical symbol for silver?,Ag,Au,Cu,Fe
+Biology,What is the process by which food is broken down and converted into energy called?,Digestion,Photosynthesis,Respiration,Fermentation
+Physics,What is the formula for torque?,Torque = force x distance,Torque = mass x acceleration,Torque = power/time,Torque = density x volume

@@ -1,0 +1,55 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newton,Joule,Watt,Pascal
+Biology,Which of the following is not an organelle?,Ribosome,Mitochondria,Nucleus,Cytoplasm
+Chemistry,What is the chemical symbol for sodium?,Na,S,O,Cu
+Physics,What is the speed of light?,299|792|458 m/s,100|000 m/s,1|000|000 m/s,500|000 m/s
+Biology,What is the smallest unit of life?,Cell,Organism,Tissue,Atom
+Chemistry,What is the formula for water?,H2O,CO2,NO2,NaCl
+Physics,What is the force that opposes motion?,Friction,Gravity,Momentum,Inertia
+Biology,Which of the following is a vertebrate?,Fish,Insect,Worm,Snail
+Chemistry,Which element is a gas at room temperature?,Oxygen,Sulfur,Nitrogen,Mercury
+Physics,What is the energy of motion?,Kinetic energy,Potential energy,Thermal energy,Radiant energy
+Biology,Which of the following is a characteristic of a mammal?,Breathes air,Lays eggs,Has scales,Nurse their young
+Chemistry,What is the symbol for iron?,Fe,I,Au,Ag
+Physics,What is the force that holds the nucleus of an atom together?,Strong nuclear force,Weak nuclear force,Electromagnetic force,Gravitational force
+Biology,What is the function of the circulatory system?,Transport nutrients and oxygen,Remove waste,Protect the body,Regulate body temperature
+Chemistry,Which element is used to make computer chips?,Silicon,Carbon,Gold,Platinum
+Physics,What is Newton's first law of motion?,An object at rest stays at rest| an object in motion stays in motion with the same speed and direction| unless acted upon by a force.,F = ma,For every action there is an equal and opposite reaction,The force of gravity between two objects depends on their masses and the distance between them
+Biology,What is the function of the respiratory system?,Exchange gases with the environment,Remove waste,Transport nutrients and oxygen,Protect the body
+Chemistry,What is the formula for methane?,CH4,H2O,CO2,O2
+Physics,What is Newton's second law of motion?,F = ma,An object at rest stays at rest| an object in motion stays in motion with the same speed and direction| unless acted upon by a force.,For every action there is an equal and opposite reaction,The force of gravity between two objects depends on their masses and the distance between them
+Biology,Which of the following is a characteristic of an insect?,Six legs,Two pairs of wings,Warm-blooded,Has a backbone
+Chemistry,Which element is used in fluorescent lighting?,Mercury,Argon,Neon,Helium
+Physics,What is Newton's third law of motion?,For every action there is an equal and opposite reaction.,F = ma,An object at rest stays at rest| an object in motion stays in motion with the same speed and direction| unless acted upon by a force.,The force of gravity between two objects depends on their masses and the distance between them
+Biology,What is the function of the nervous system?,Coordinate and control body functions,Remove waste,Transport nutrients and oxygen,Protect the body
+Chemistry,What is the formula for glucose?,C6H12O6,H2O,CO2,O2
+Physics,What is the force of gravity on Earth?,9.8 m/s^2,1 m/s^2,5 m/s^2,20 m/s^2
+Biology,What is the function of the immune system?,Protect the body from infection,Remove waste,Transport nutrients and oxygen,Regulate body temperature
+Chemistry,Which element is essential for plant growth?,Carbon,Nitrogen,Oxygen,Calcium
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transformed from one form to another.,F = ma,For every action there is an equal and opposite reaction,The force of gravity between two objects depends on their masses and the distance between them
+Biology,Which of the following is a characteristic of a reptile?,Has scales,Lays eggs,Warm-blooded,Hair or fur
+Chemistry,What is the formula for sulfuric acid?,H2SO4,HCl,NaOH,HNO3
+Physics,What is the formula for work?,W = Fd,F = ma,P = W/t,E = mc^2
+Biology,Which of the following is a characteristic of a bird?,Has feathers,Lays eggs,Cold-blooded,Gives birth to live young
+Chemistry,Which element is used to make glass?,Silicon,Carbon,Gold,Aluminum
+Physics,What is the formula for power?,P = W/t,F = ma,P = Fd/t,E = mc^2
+Biology,What is the function of the digestive system?,Break down and absorb nutrients,Remove waste,Transport nutrients and oxygen,Protect the body
+Chemistry,Which element is used in batteries?,Lithium,Sodium,Potassium,Magnesium
+Physics,What is the formula for kinetic energy?,KE = 1/2mv^2,PE = mgh,F = ma,E = mc^2
+Biology,Which of the following is a characteristic of a fish?,Breathes through gills,Has fur,Nurse their young,Have four legs
+Chemistry,What is the formula for hydrochloric acid?,HCl,H2SO4,NaOH,HNO3
+Physics,What is the formula for momentum?,p = mv,F = ma,P = W/t,E = mc^2
+Biology,What is the function of the excretory system?,Remove waste,Transport nutrients and oxygen,Protect the body,Regulate body temperature
+Chemistry,Which element is used in fertilizer?,Nitrogen,Carbon,Oxygen,Sodium
+Physics,What is the formula for potential energy?,PE = mgh,KE = 1/2mv^2,F = ma,E = mc^2
+Biology,Which of the following is a characteristic of a mammal?,Nurse their young,Lays eggs,Has scales,Breathes through gills
+Chemistry,Which element is used in matches?,Phosphorus,Carbon,Oxygen,Helium
+Physics,What is the formula for acceleration?,a = (vf - vi) / t,F = ma,P = W/t,E = mc^2
+Biology,Which of the following is a characteristic of a plant?,Produces oxygen,Has fur,Breathes through lungs,Has a backbone
+Chemistry,Which element is used in toothpaste?,Fluorine,Carbon,Oxygen,Potassium
+Physics,What is the formula for force?,F = ma,P = W/t,E = mc^2,KE = 1/2mv^2
+Biology,What is the function of the endocrine system?,Regulate body functions with hormones,Remove waste,Transport nutrients and oxygen,Protect the body
+Chemistry,Which element is used in marbles and limestone?,Calcium,Carbon,Oxygen,Sodium
+Physics,What is the formula for electric power?,P = IV,F = ma,P = W/t,E = mc^2
+Biology,What is the function of the skeletal system?,Protects organs and provides support for the body,Remove waste,Transport nutrients and oxygen,Regulate body temperature
+Chemistry,Which element is used in light bulbs?,Tungsten,Carbon,Oxygen,Sodium

@@ -1,0 +1,55 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newton,Meter,Second,Kilogram
+Physics,What is the unit of electric current?,Ampere,Ohm,Watt,Volt
+Physics,What is the unit of resistance?,Ohm,Ampere,Coulomb,Volt
+Physics,What is the unit of power?,Watt,Joule,Newton,Hertz
+Physics,What is the speed of light in vacuum?,299|792|458 m/s,300|000|000 m/s,290|000|000 m/s,310|000|000 m/s
+Physics,What is the momentum of an object with mass 2 kg moving at a velocity of 3 m/s?,6 kg⋅m/s,2 kg⋅m/s,3 kg⋅m/s,5 kg⋅m/s
+Physics,What is the speed of an object with momentum 10 kg⋅m/s and mass 2 kg?,5 m/s,20 m/s,2.5 m/s,40 m/s
+Physics,What is the equation for velocity?,v = d/t,v = m×g,h = 0.5 g t^2,v = a t
+Physics,What is the equation for acceleration?,a = (v_f - v_i)/t,a = F/m,a = d/t^2,a = v^2/r
+Physics,What is the kinetic energy of a 2 kg object moving at 4 m/s?,16 J,4 J,32 J,8 J
+Chemistry,What is the symbol for iron?,Fe,Fr,Fl,Fi
+Chemistry,What is the symbol for sodium?,Na,N,No,Ni
+Chemistry,What is the symbol for gold?,Au,Ag,Al,As
+Chemistry,What is the symbol for silver?,Ag,Au,Ar,Ac
+Chemistry,What is the atomic number of carbon?,6,4,8,2
+Chemistry,What is the atomic number of oxygen?,8,6,10,12
+Chemistry,What is the atomic number of nitrogen?,7,5,3,9
+Chemistry,What is the atomic number of hydrogen?,1,2,0,-1
+Chemistry,What is an isotope?,Atoms of the same element with different numbers of neutrons,Atoms of different elements with the same number of neutrons,Atoms with different numbers of protons and neutrons,Atoms with different numbers of protons and electrons
+Chemistry,What is the state of matter of a substance that has a definite shape and volume?,Solid,Liquid,Gas,Plasma
+Biology,What is the smallest unit of life?,Cell,Molecule,Atom,Tissue
+Biology,What is DNA?,A molecule that carries genetic information,A hormone that regulates growth,A protein that provides structure to cells,A chemical that controls metabolism
+Biology,What is the process by which cells divide?,Mitosis,Diffusion,Osmosis,Photosynthesis
+Biology,What is the function of the heart?,Pumping blood,Digestion,Respiration,Vision
+Biology,What is the function of the lungs?,Gas exchange,Pumping blood,Digestion,Respiration
+Biology,What is the function of the liver?,Filtering blood,Digestion,Respiration,Vision
+Biology,What is the function of the kidneys?,Filtering waste from blood,Digestion,Respiration,Vision
+Biology,What is the largest bone in the human body?,Femur,Humerus,Tibia,Radius
+Biology,What is the name of the protein that gives skin| hair| and nails their strength?,Keratin,Collagen,Elastin,Fibrinogen
+Biology,What is the process by which plants convert sunlight into energy?,Photosynthesis,Respiration,Fermentation,Osmosis
+Astronomy,What is the name of the planet closest to the sun?,Mercury,Venus,Mars,Earth
+Astronomy,What is the name of the largest planet in our solar system?,Jupiter,Saturn,Uranus,Neptune
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Triangulum,Whirlpool
+Astronomy,What is a black hole?,A region of space with a gravitational pull so strong that nothing can escape,A star that has exploded,A galaxy without any stars,A planet with a thick atmosphere that traps heat
+Astronomy,What is the name of the force that holds planets in orbit around the sun?,Gravity,Magnetism,Electricity,Friction
+Astronomy,What is a light year?,The distance light travels in one year,The time it takes for light to travel one meter,The weight of a beam of light,The temperature of a beam of light
+Astronomy,What is the name of the phenomenon where the moon blocks the sun's light| causing a shadow to fall on the earth?,Solar eclipse,Lunar eclipse,Transit,Occultation
+Astronomy,What is the name of the closest star to our solar system?,Proxima Centauri,Alpha Centauri A,Alpha Centauri B,Barnard's Star
+Geology,What is the most abundant gas in the atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Geology,What is the hardest mineral on the Mohs scale?,Diamond,Quartz,Feldspar,Calcite
+Geology,What is the name of the process by which rocks are broken down into smaller pieces?,Weathering,Erosion,Magma,Metamorphism
+Geology,What is the name of the supercontinent that existed millions of years ago?,Pangaea,Laurasia,Gondwana,Rodinia
+Geology,What is the name of the scale used to measure the strength of earthquakes?,Richter scale,Mercalli scale,Moment magnitude scale,Seismic scale
+Geology,What is the name of the process by which rocks are changed by heat and pressure?,Metamorphism,Magma,Erosion,Weathering
+Geology,What is the name of the layer of Earth's atmosphere where weather occurs?,Troposphere,Stratosphere,Mesosphere,Thermosphere
+Geology,What is the name of the process by which rocks are melted into magma?,Melting,Subduction,Accretion,Deposition
+Botany,What is the name of the process by which plants make their own food?,Photosynthesis,Respiration,Fermentation,Osmosis
+Botany,What is the name of the male reproductive part of a flower?,Stamen,Pistil,Sepal,Petal
+Botany,What is the name of the female reproductive part of a flower?,Pistil,Stamen,Sepal,Petal
+Botany,What is a seed?,A mature ovule containing an embryo plant,A mature ovary containing seeds,A mature fruit containing seeds,A mature stem containing seeds
+Botany,What is the process by which pollen is transferred from the male to the female part of a plant?,Pollination,Fertilization,Germination,Seed dispersal
+Botany,What is a fruit?,The mature ovary of a flowering plant,The mature ovule of a flowering plant,The mature seed of a flowering plant,The mature stem of a flowering plant
+Botany,What is a leaf?,The main organ of photosynthesis in a plant,The main organ of respiration in a plant,The main organ of reproduction in a plant,The main organ of digestion in a plant
+Botany,What is the process by which water moves through a plant?,Transpiration,Photosynthesis,Respiration,Fermentation

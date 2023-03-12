@@ -1,0 +1,55 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Chemistry,What is the atomic number of carbon?,6,8,2,4
+Physics,What is the formula for force?,F = ma,F = mv,F = Ed,F = Pd
+Biology,What is the function of the mitochondria?,To produce energy,To transport molecules,To support signals,To store waste
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Al,Fe
+Physics,What does the law of conservation of energy state?,Energy cannot be created or destroyed| only transformed,Energy moves from low to high concentrations,Energy can be created or destroyed,Energy comes from sources like the sun
+Biology,Which organelle is responsible for protein synthesis?,Ribosomes,Nucleus,Mitchondria,Lysosomes
+Chemistry,What is the chemical formula for water?,H2O,HO,O2H,O2
+Physics,What is the formula for acceleration?,a = (v2 - v1) / t,a = vt,a = mv,a = Fd
+Biology,What is the function of the ribosomes?,To synthesize proteins,To regulate cell growth,To produce ATP,To secrete hormones
+Chemistry,What is the atomic number for nitrogen?,7,3,11,15
+Physics,What is the formula for work?,W = Fd,W = mv,W = Ed,W = Pd
+Biology,What is the function of the endoplasmic reticulum?,To synthesize lipids and proteins,To produce ATP,To regulate the cell cycle,To store waste
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,CO,C2O,OC
+Physics,What is the formula for momentum?,p = mv,p = Fd,p = Ed,p = Pt
+Biology,What is the function of the Golgi apparatus?,To modify| sort| and package proteins,To produce enzymes,To generate ATP,To store waste
+Chemistry,What is the atomic number for oxygen?,8,3,11,15
+Physics,What is the formula for pressure?,P = F/A,P = D/V,P = Fd,P = Et
+Biology,What is the function of the lysosomes?,To break down and digest cellular waste,To synthesize proteins,To store genetic material,To produce ATP
+Chemistry,What is the chemical symbol for iron?,Fe,Ag,Au,Al
+Physics,What is the formula for density?,D = m/v,D = v/m,D = Pd,D = Et
+Biology,What is the function of the chloroplasts?,To conduct photosynthesis,To synthesize proteins,To produce ATP,To metabolize lipids
+Chemistry,What is the chemical formula for glucose?,C6H12O6,C4H6O4,C2H4O2,C8H10O4
+Physics,What is the formula for power?,P = W/t,P = Ed,P = Fd,P = mv
+Biology,What is the function of the vacuole?,To store water and nutrients,To synthesize proteins,To produce ATP,To break down waste
+Chemistry,What is the atomic number for helium?,2,3,11,15
+Physics,What is the formula for electric power?,P = IV,P = Et,P = Fd,P = mv
+Biology,What is the function of the cytoplasm?,To support and suspend organelles,To generate ATP,To store energy for later use,To synthesize proteins
+Chemistry,What is the chemical formula for table salt?,NaCl,ClNa,NaF,KF
+Physics,What does the law of inertia state?,An object at rest will remain at rest| and an object in motion will remain in motion,Energy cannot be created or destroyed| only transformed,Energy moves from low to high concentrations,Energy comes from sources like the sun
+Biology,What is the function of the cell membrane?,To regulate the movement of molecules in and out of the cell,To generate ATP,To synthesize proteins,To store waste
+Chemistry,What is the atomic number for calcium?,20,3,11,15
+Physics,What is the formula for electric current?,I = Q/t,I = Fd,I = Ed,I = Pt
+Biology,What is the function of the nucleus?,To store genetic material,To produce ATP,To synthesize proteins,To break down waste
+Chemistry,What is the chemical formula for sulfuric acid?,H2SO4,HCl,NaOH,KOH
+Physics,What is the formula for electric potential energy?,U = qV,U = Pt,U = Fd,U = mv
+Biology,What is the function of the cell wall?,To provide structure and support for the cell,To synthesize proteins,To generate ATP,To transport materials in and out of the cell
+Chemistry,What is the atomic number for sodium?,11,3,20,15
+Physics,What is the formula for torque?,T = r x F,T = mv,T = Ed,T = Pt
+Biology,What is the function of the nucleolus?,To make ribosomes,To synthesize proteins,To generate ATP,To store waste
+Chemistry,What is the chemical formula for ammonia?,NH3,N2H4,NO2,NO
+Physics,What is the formula for electric resistance?,R = V/I,R = mv,R = Et,R = Pt
+Biology,What is the function of the centrosomes?,To organize microtubules in cell division,To synthesize proteins,To generate ATP,To break down waste
+Chemistry,What is the atomic number for neon?,10,3,11,15
+Physics,What is the formula for kinetic energy?,KE = 1/2mv^2,KE = Fd,KE = Et,KE = Pt
+Biology,What is the function of the nucleoid?,To contain genetic material in prokaryotic cells,To synthesize proteins,To generate ATP,To store waste
+Chemistry,What is the chemical formula for hydrochloric acid?,HCl,H2SO4,NaOH,KOH
+Physics,What is the formula for electric field strength?,E = F/q,E = Et,E = mv,E = Pt
+Biology,What is the function of the peroxisomes?,To break down fatty acids and produce hydrogen peroxide,To synthesize proteins,To generate ATP,To store waste
+Chemistry,What is the atomic number for fluorine?,9,3,11,15
+Physics,What is the formula for electric potential?,V = W/q,V = Ed,V = Fd,V = mv
+Biology,What is the function of the microfilaments?,To provide structural support for the cell,To synthesize proteins,To generate ATP,To transport materials in and out of the cell
+Chemistry,What is the chemical formula for hydrofluoric acid?,HF,HCl,NaOH,KOH
+Physics,What is the formula for electric field intensity?,E = F/q,E = Et,E = mv,E = Pt
+Biology,What is the function of the microtubules?,To provide structural support and aid in cell movement,To synthesize proteins,To generate ATP,To store waste

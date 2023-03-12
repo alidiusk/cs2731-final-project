@@ -1,0 +1,61 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the formula for time?,t=d/s,t=s/d,t=s+d,t=d-s
+Physics,What is the formula for speed?,s=d/t,s=t/d,s=d+t,s=d-t
+Physics,What is the formula for velocity?,v=d/t,v=t/d,v=d+t,v=d-t
+Physics,What is the formula for acceleration?,a=(vfinal-vinitial)/t,a=(vfinal+vinitial)/t,a=vfinal-vinitial,a=vfinal*vinitial/t
+Physics,What is the formula for force?,F=ma,F=m+a,F=m/a,F=a/m
+Physics,What is the SI unit of force?,Newton,Watt,Joule,Pascal
+Physics,What is the formula for work?,W=F*d,W=F/d,W=F-d,W=F+d
+Physics,What is the SI unit of work?,Joule,Watt,Newton,Pascal
+Physics,What is the formula for power?,P=W/t,P=t/W,P=W*t,P=W-t
+Physics,What is the SI unit of power?,Watt,Newton,Joule,Pascal
+Physics,What is the formula for kinetic energy?,KE=0.5mv^2,KE=m/0.5v^2,KE=v/m,KE=m+v^2
+Physics,What is the SI unit of kinetic energy?,Joule,Watt,Newton,Pascal
+Physics,What is the formula for potential energy?,PE=mgh,PE=mg/h,PE=g/mh,PE=gmh
+Physics,What is the SI unit of potential energy?,Joule,Watt,Newton,Pascal
+Physics,What is the formula for electric current?,I=Q/t,I=t/Q,I=Q+t,I=Q-t
+Physics,What is the SI unit of electric current?,Ampere,Watt,Joule,Pascal
+Physics,What is the formula for electric potential difference?,V=W/Q,V=Q/W,V=W-Q,V=W+Q
+Physics,What is the SI unit of electric potential difference?,Volt,Watt,Joule,Pascal
+Physics,What is the formula for resistance?,R=V/I,R=I/V,R=V+I,R=V*I
+Physics,What is the SI unit of resistance?,Ohm,Watt,Joule,Pascal
+Physics,What is the formula for Ohm's law?,V=IR,V=R/I,V=I/R,V=I+R
+Physics,What is the formula for capacitance?,C=Q/V,C=V/Q,C=Q+V,C=Q*V
+Physics,What is the SI unit of capacitance?,Farad,Watt,Joule,Pascal
+Physics,What is the formula for frequency?,f=1/T,f=T/1,f=2T,f=1/2T
+Physics,What is the SI unit of frequency?,Hertz,Watt,Joule,Pascal
+Chemistry,What is the formula for water?,H2O,HO,OH,H3O
+Chemistry,What is the formula for carbon dioxide?,CO2,CO,O2,C2O
+Chemistry,What is the symbol for sodium?,Na,Mg,Na2,N
+Chemistry,What is the symbol for chlorine?,Cl,C,Cr,Co
+Chemistry,What is the formula for methane?,CH4,CH3,C4H4,C4H10
+Chemistry,What is the formula for ethanol?,C2H5OH,CH3OH,C6H12O6,C2H6O2
+Chemistry,What is the formula for glucose?,C6H12O6,C12H22O11,C2H5OH,CH3COOH
+Chemistry,What is the formula for sucrose?,C12H22O11,C6H12O6,CH3COOH,C2H5OH
+Chemistry,What is the formula for hydrochloric acid?,HCl,H2SO4,NaOH,HNO3
+Chemistry,What is the formula for sulfuric acid?,H2SO4,HCl,NaOH,HNO3
+Chemistry,What is the formula for ammonia?,NH3,NH2,N2H4,N3H3
+Chemistry,What is the formula for nitric acid?,HNO3,HCl,H2SO4,NaOH
+Chemistry,What is the formula for oxygen?,O2,O3,O,CO2
+Chemistry,What is the formula for hydrogen?,H2,H,He,HCl
+Chemistry,What is the formula for carbon monoxide?,CO,CO2,C2O,CH4
+Chemistry,What is the formula for acetic acid?,CH3COOH,H2SO4,HCl,NaOH
+Chemistry,What is the formula for sodium hydroxide?,NaOH,H2SO4,HCl,CH3COOH
+Chemistry,What is the formula for calcium carbonate?,CaCO3,CaO,CaSO4,CaCl2
+Chemistry,What is the formula for magnesium chloride?,MgCl2,MgCO3,MgSO4,MgO
+Chemistry,What is the formula for potassium hydroxide?,KOH,H2SO4,HCl,CH3COOH
+Biology,What is the formula for photosynthesis?,6CO2 + 6H2O -> C6H12O6 + 6O2,6O2 + 6H2O -> 6CO2 + 6H2O,C6H12O6 + 6O2 -> 6CO2 + 6H2O,C6H12O6 + 6CO2 -> 6O2 + 6H2
+Biology,What is the formula for cellular respiration?,C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy,6CO2 + 6H2O -> C6H12O6 + 6O2,6O2 + 6H2O -> 6CO2 + 6H2O,C6H12O6 + 6CO2 -> 6O2 + 6H2O
+Biology,What is the process by which DNA makes a copy of itself?,Replication,Transcription,Translation,Mutation
+Biology,What is the process by which DNA is turned into RNA?,Transcription,Replication,Translation,Mutation
+Biology,What is the process by which RNA is turned into a protein?,Translation,Transcription,Replication,Mutation
+Biology,What is the basic unit of life?,Cell,Atom,Molecule,Organism
+Biology,What is the largest organ in the human body?,Skin,Liver,Lungs,Heart
+Biology,What is the powerhouse of the cell?,Mitochondria,Chloroplasts,Nucleus,Ribosomes
+Biology,What is the name for a group of cells that perform a specific function?,Tissue,Organ,Organism,Cell
+Biology,What is the name for a group of organs that work together to perform a specific function?,Organ system,Tissue,Organ,Cell
+Biology,What is the name for an organism that can produce its own food?,Autotroph,Heterotroph,Omnivore,Herbivore
+Biology,What is the name for an organism that cannot produce its own food?,Heterotroph,Autotroph,Omnivore,Herbivore
+Biology,What is the name for the process by which cells break down food to release energy?,Cellular respiration,Photosynthesis,Replication,Translation
+Biology,What is the name for the process by which cells use sunlight to make food?,Photosynthesis,Cellular respiration,Replication,Translation
+Biology,What is the difference between a eukaryotic cell and a prokaryotic cell?,Eukaryotic cells have a nucleus and organelles; prokaryotic cells do not.,Prokaryotic cells have a nucleus and organelles; eukaryotic cells do not.,Eukaryotic cells are larger; prokaryotic cells are smaller.,Prokaryotic cells are more complex; eukaryotic cells are less complex.

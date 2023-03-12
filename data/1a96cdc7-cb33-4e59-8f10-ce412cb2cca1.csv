@@ -1,0 +1,49 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newton,Pascal,Joule,Meter
+Biology,What is the smallest unit of life?,Cell,Organism,Tissue,Nucleus
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Astronomy,What is the closest planet to the sun?,Mercury,Venus,Earth,Mars
+Physics,What is the formula for acceleration?,a = (v_f - v_i) / t,a = F/m,a = p/v,a = d/t
+Biology,What is the process by which plants make energy?,Photosynthesis,Cellular respiration,Fermentation,Digestion
+Chemistry,What is the pH of pure water?,7,6,8,9
+Astronomy,What is the largest planet in our solar system?,Jupiter,Saturn,Uranus,Neptune
+Physics,What is the force of gravity equal to on Earth?,9.8 m/s^2,8.8 m/s^2,10.8 m/s^2,7.8 m/s^2
+Biology,What is the function of the mitochondria?,Produce ATP,Produce proteins,Store DNA,Transport materials
+Chemistry,What is the chemical symbol for potassium?,K,P,C,S
+Astronomy,What is a supernova?,The explosion of a star,The collision of two galaxies,The formation of a black hole,The birth of a star
+Physics,What is the formula for momentum?,p = mv,p = F*d,p = F/m,p = a*t
+Biology,What is the purpose of DNA?,Store genetic information,Produce proteins,Transport materials,Produce ATP
+Chemistry,What is the chemical symbol for iron?,Fe,Mg,Ca,Na
+Astronomy,What is the name of our galaxy?,Milky Way,Andromeda,Triangulum,Orion
+Physics,What is the formula for work?,W = F*d,W = m/v,W = p/t,W = a*t^2
+Biology,What is the function of the nucleus?,Store genetic information,Produce ATP,Produce proteins,Transport materials
+Chemistry,What is the formula for water?,H2O,C6H12O6,CO2,N2
+Astronomy,What is a black hole?,An area in space with strong gravity,A star with a low temperature,A planet with no atmosphere,A galaxy without stars
+Physics,What is the formula for power?,P = W/t,P = F*d/t,P = F/a,P = m/v^2
+Biology,What is the function of the ribosomes?,Produce proteins,Produce ATP,Store genetic information,Transport materials
+Chemistry,What is the chemical symbol for sodium?,Na,K,C,S
+Astronomy,What is a comet?,A small| icy object in space,A large| gaseous planet,A type of star,A black hole
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transferred,Energy can be created or destroyed,Energy can only be transferred within a system,Energy is constant throughout the universe
+Biology,What is the function of the endoplasmic reticulum?,Transport materials,Produce proteins,Store genetic information,Produce ATP
+Chemistry,What is the chemical symbol for oxygen?,O,N,F,C
+Astronomy,What is a planet?,A celestial body that orbits a star and is spherical in shape,A type of star,A small| rocky object in space,A black hole
+Physics,What is the formula for kinetic energy?,KE = 1/2mv^2,KE = mgh,KE = W/t,KE = F*d
+Biology,What is the function of the Golgi apparatus?,Packaging of proteins,Produce proteins,Transport materials,Produce ATP
+Chemistry,What is the chemical symbol for carbon?,C,H,O,N
+Astronomy,What is a nebula?,A cloud of gas and dust in space,A type of star,A small| rocky object in space,A black hole
+Physics,What is the formula for potential energy?,PE = mgh,PE = 1/2mv^2,PE = W/t,PE = F*d
+Biology,What is the function of the cell membrane?,Regulate materials entering and leaving the cell,Produce proteins,Store genetic information,Produce ATP
+Chemistry,What is the chemical symbol for helium?,He,O,C,H
+Astronomy,What is a galaxy?,A large group of stars| gas| and dust bound together by gravity,A type of star,A small| rocky object in space,A black hole
+Physics,What is the formula for force?,F = ma,F = W/d,F = P/t,F = KE/m
+Biology,What is the function of the cytoplasm?,Contains organelles and cell fluids,Produce proteins,Store genetic information,Produce ATP
+Chemistry,What is the chemical symbol for nitrogen?,N,O,C,H
+Astronomy,What is a constellation?,A group of stars that form a recognizable pattern,A type of star,A small| rocky object in space,A black hole
+Physics,What is the formula for torque?,T = Fd,T = ma,T = P/t,T = KE/m
+Biology,What is the function of the lysosomes?,Digest and break down cellular waste,Produce proteins,Store genetic information,Produce ATP
+Chemistry,What is the chemical symbol for chlorine?,Cl,O,C,H
+Astronomy,What is a satellite?,An object that orbits a planet or other body in space,A type of star,A small| rocky object in space,A black hole
+Physics,What is the formula for pressure?,P = F/A,P = W/d^2,P = KE/m,P = T/d
+Biology,What is the function of the vacuole?,Stores water and nutrients,Produce proteins,Store genetic information,Produce ATP
+Chemistry,What is the chemical symbol for neon?,Ne,O,C,H
+Astronomy,What is a meteor?,A piece of rock that enters Earth's atmosphere,A type of star,A small| rocky object in space,A black hole.

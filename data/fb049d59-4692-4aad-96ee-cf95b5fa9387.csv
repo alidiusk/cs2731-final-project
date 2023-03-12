@@ -1,0 +1,56 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the speed of light?,299|792|458 m/s,250|000|000 m/s,350|000|000 m/s,450|000|000 m/s
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Biology,What is the powerhouse of the cell called?,Mitochondria,Golgi Apparatus,Lysosome,Endoplasmic Reticulum
+Physics,What is the formula for gravitational force?,F = G * (m1 * m2)/r^2,F = m*a,F = m*g,F = k*x
+Chemistry,What is the pH scale used to measure?,Acidity,Alkalinity,Density,Viscosity
+Biology,What is the largest organ in the human body?,Skin,Brain,Liver,Heart
+Physics,What is the SI unit for pressure?,Pascal,Watt,Joule,Newton
+Chemistry,What is the process called when a solid turns into a gas without going through the liquid phase?,Sublimation,Condensation,Evaporation,Melting
+Biology,What is the process called when a cell divides into two identical daughter cells?,Mitosis,Meiosis,Fermentation,Respiration
+Physics,What is the formula for kinetic energy?,KE = (1/2) * m * v^2,KE = m * g * h,KE = F * d,KE = (1/2) * k * x^2
+Chemistry,What do you call a substance that cannot be broken down into simpler substances by chemical reactions?,Element,Molecule,Compound,Ion
+Biology,What is the cell membrane made of?,Phospholipids,Proteins,Carbohydrates,Nucleic Acids
+Physics,What is the formula for work?,W = F * d * cos(theta),W = m * g * h,W = P * t,W = E * t
+Chemistry,What is the chemical symbol for oxygen?,O,H,C,N
+Biology,What is the process called when DNA is used to make RNA?,Transcription,Translation,Replication,Mutation
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transformed from one form to another.,Force equals mass times acceleration.,Every action has an equal and opposite reaction.,Acceleration is directly proportional to the force applied.
+Chemistry,What do you call a homogeneous mixture of two or more substances?,Solution,Mixture,Compound,Element
+Biology,What do you call the organelles that are responsible for protein synthesis?,Ribosomes,Golgi Apparatus,Mitochondria,Lysosome
+Physics,What is the formula for acceleration?,a = (v2 - v1)/t,a = F/m,a = v/t,a = d/t
+Chemistry,What is the process called when a gas turns into a liquid?,Condensation,Sublimation,Evaporation,Melting
+Biology,What is the process called when RNA is used to make a protein?,Translation,Transcription,Replication,Mutation
+Physics,What is the formula for force?,F = m * a,F = m * g,F = P * A,F = E/t
+Chemistry,What is the chemical symbol for nitrogen?,N,O,H,C
+Biology,What is the process called when one species give rise to multiple species over time?,Speciation,Adaptation,Migration,Mutation
+Physics,What is the formula for potential energy?,PE = m * g * h,PE = (1/2) * m * v^2,PE = F * d,PE = (1/2) * k * x^2
+Chemistry,What do you call a substance made up of two or more atoms joined by chemical bonds?,Molecule,Element,Compound,Ion
+Biology,What is the process called when DNA copies itself?,Replication,Transcription,Translation,Mutation
+Physics,What is the law of conservation of momentum?,In the absence of an external force| the momentum of a system remains unchanged.,Every action has an equal and opposite reaction.,The force of an object is directly proportional to its acceleration.,Energy cannot be created or destroyed| only transformed from one form to another.
+Chemistry,What do you call a negatively charged particle that orbits the nucleus of an atom?,Electron,Proton,Neutron,Ion
+Biology,What is the process called when two different species mate and produce offspring?,Hybridization,Speciation,Adaptation,Migration
+Physics,What is the formula for period of a pendulum?,T = 2*pi*sqrt(L/g),T = m*L,T = F*L,T = k*L
+Chemistry,What do you call a positively charged particle found in the nucleus of an atom?,Proton,Electron,Neutron,Ion
+Biology,What is the process called when the genetic information in DNA is changed?,Mutation,Transcription,Translation,Replication
+Physics,What is the difference between speed and velocity?,Velocity has a direction| while speed does not.,Speed has a direction| while velocity does not.,They are the same thing.,Velocity is the rate of change of distance| while speed is the rate of change of time.
+Chemistry,What is the process called when a liquid turns into a gas?,Evaporation,Condensation,Sublimation,Melting
+Biology,What is the name of the molecule that carries genetic information?,DNA,RNA,Protein,Carbohydrate
+Physics,What is Newton's second law?,F = m * a,Every action has an equal and opposite reaction.,Energy cannot be created or destroyed| only transformed from one form to another.,The force of an object is directly proportional to its acceleration.
+Chemistry,What is the process called when different substances are combined| but can be easily separated?,Mixture,Compound,Element,Ion
+Biology,What is the process called when a species becomes better suited to its environment over time?,Adaptation,Speciation,Hybridization,Migration
+Physics,What is the formula for power?,P = W/t,P = F*v,P = E/t,P = F*d
+Chemistry,What is the process called when a liquid turns into a solid?,Freezing,Melting,Evaporation,Condensation
+Biology,What is the process called when one species moves into a new area?,Migration,Speciation,Adaptation,Hybridization
+Physics,What is the formula for electric power?,P = V*I,P = V/R,P = I^2*R,P = V^2/R
+Chemistry,What is the process called when two different substances combine to form a new substance?,Chemical Reaction,Physical Change,Mixture,Compound
+Biology,What is the process called when a species splits into two or more species?,Speciation,Hybridization,Adaptation,Migration
+Physics,What is the formula for frequency?,f = 1/T,f = m*g,f = P/t,f = E/t
+Chemistry,What is the process called when a gas turns into a solid?,Deposition,Sublimation,Condensation,Melting
+Biology,What is the process called when a species evolves similar traits due to similar environmental pressures?,Convergent Evolution,Divergent Evolution,Hybridization,Migration
+Physics,What is Ohm's law?,V = I*R,P = V*I,F = m*a,E = m*c^2
+Chemistry,What is the process called when a solid turns into a liquid?,Melting,Freezing,Evaporation,Condensation
+Biology,What is the process called when a species evolves different traits due to different environmental pressures?,Divergent Evolution,Convergent Evolution,Hybridization,Migration
+Physics,What is the formula for electric current?,I = V/R,I = V*t,I = P/t,I = F/d
+Chemistry,What is the process called when a substance reacts with oxygen to produce energy| carbon dioxide| and water?,Combustion,Oxidation,Reduction,Neutralization
+Biology,What do you call the change in frequency of a gene in a population over time?,Genetic Drift,Natural Selection,Mutation,Gene Flow

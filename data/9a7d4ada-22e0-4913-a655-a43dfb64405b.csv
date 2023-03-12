@@ -1,0 +1,52 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor,Distractor3
+Chemistry,What is the atomic number of carbon?,6,8,12,14
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Endoplasmic reticulum
+Physics,What is the formula for force?,F=ma,F=mv,F=mv2,F=mc2
+Geology,What type of rock is formed from cooling magma?,Igneous rock,Sedimentary rock,Metamorphic rock,None of the above
+Astronomy,"What planet is known as the ""Red Planet""?",Mars,Venus,Mercury,Uranus
+Biology,What is the function of the white blood cells in the body?,Fight off infections,Transport oxygen,Digest food,Control blood sugar levels
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Hg,Cu
+Physics,What is the SI unit for measuring electric current?,Ampere,Watt,Ohm,Volt
+Geology,What type of rock is formed from layers of sediment?,Sedimentary rock,Igneous rock,Metamorphic rock,None of the above
+Biology,What is the name of the sac that stores bile in the body?,Gallbladder,Pancreas,Liver,Small intestine
+Chemistry,What is the pH of a neutral solution?,7,1,14,0
+Physics,What is the formula for kinetic energy?,KE=1/2mv2,KE=mv2,KE=mc2,KE=1/2mv
+Astronomy,What is the name of the largest moon in our solar system?,Ganymede,Titan,Europa,Callisto
+Geology,What is the scale used to measure the strength of earthquakes?,Richter scale,Kilometer scale,Fahrenheit scale,Celsius scale
+Biology,What is the function of the small intestine in the body?,Absorb nutrients,Produce enzymes,Remove waste products,Fight off infections
+Chemistry,What is the chemical symbol for helium?,He,Ne,Ar,Kr
+Physics,What is the formula for work?,W=Fd,W=F/v,W=mv2,W=mc2
+Astronomy,What is the name of the largest planet in our solar system?,Jupiter,Saturn,Uranus,Neptune
+Geology,What is the name of the supercontinent that existed millions of years ago?,Pangaea,Laurasia,Gondwana,Eurasia
+Biology,What is the function of the pancreas in the body?,Produce insulin,Produce bile,Produce enzymes for digestion,Absorb nutrients
+Chemistry,What is the pH of an acidic solution?,Less than 7,7,More than 7,10
+Physics,What is the formula for power?,P=W/t,P=Fd,P=mv2,P=mc2
+Astronomy,What is the name of the closest star to our solar system?,Proxima Centauri,Alpha Centauri A,Alpha Centauri B,Barnard's Star
+Geology,What is the name of the longest mountain range in the world?,The Andes,The Rockies,The Himalayas,The Alps
+Biology,What is the function of the liver in the body?,Produces bile,Stores nutrients,Digests food,Regulates blood sugar levels
+Chemistry,What is the chemical symbol for oxygen?,O,S,N,P
+Physics,What is the SI unit for measuring temperature?,Kelvin,Fahrenheit,Celsius,Rankine
+Astronomy,What is the name of the largest asteroid in our solar system?,Ceres,Vesta,Pallas,Hygiea
+Geology,What is the name of the layer of the earth below the crust?,Mantle,Core,Asthenosphere,Lithosphere
+Biology,What is the function of the thyroid gland in the body?,Regulate metabolism,Produce bile,Digest food,Store nutrients
+Chemistry,What is the chemical symbol for sodium?,Na,Mg,Ca,Fe
+Physics,What is the formula for pressure?,P=F/A,P=F/d,P=mv2,P=mc2
+Astronomy,What is the name of the largest moon of Saturn?,Titan,Rhea,Dione,Tethys
+Geology,What is the name of the process by which rocks are broken down into smaller pieces?,Weathering,Erosion,Deposition,Plate tectonics
+Biology,What is the function of the large intestine in the body?,Absorb water,Produce bile,Digest food,Produce enzymes
+Chemistry,What is the chemical symbol for nitrogen?,N,O,S,P
+Physics,What is the formula for acceleration?,a=F/m,a=v/t,a=F/d,a=Fv
+Astronomy,What is the name of the brightest star in the night sky?,Sirius,Arcturus,Vega,Betelgeuse
+Geology,What is the name of the type of rock that forms from the cooling of lava?,Basalt,Granite,Sandstone,Limestone
+Biology,What is the function of the spleen in the body?,Filter blood,Produce bile,Digest food,Regulate blood sugar levels
+Chemistry,What is the chemical symbol for potassium?,K,Na,Ca,Fe
+Physics,What is the formula for velocity?,v=d/t,v=F/m,v=a*t,v=mc2
+Astronomy,What is the name of the largest volcano in our solar system?,Olympus Mons,Mauna Loa,Mount Everest,Mount Vesuvius
+Geology,What is the name of the process by which new oceanic crust is formed?,Seafloor spreading,Subduction,Collisions,Melting
+Biology,What is the function of the adrenal glands in the body?,Produce hormones,Produce bile,Digest food,Regulate blood sugar levels
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Cu
+Physics,What is the formula for frequency?,f=1/T,f=F/m,f=a/t,f=mc2
+Astronomy,What is the name of the closest galaxy to our Milky Way?,Andromeda,Canis Major Dwarf,Small Magellanic Cloud,Large Magellanic Cloud
+Geology,What is the name of the process by which one tectonic plate moves below another?,Subduction,Seafloor spreading,Collisions,Melting
+Biology,What is the function of the pituitary gland in the body?,Regulate hormones,Produce bile,Digest food,Store nutrients

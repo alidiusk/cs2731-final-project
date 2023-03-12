@@ -1,0 +1,56 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newtons,Kilograms,Watts,Meters
+Biology,What type of joint allows for circular movement?,Ball and Socket,Hinge,Pivot,Saddle
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the acceleration due to gravity on Earth?,9.8 m/s²,10 m/s²,8.5 m/s²,12 m/s²
+Biology,What is the powerhouse of the cell?,Mitochondria,Ribosomes,Golgi Apparatus,Nucleus
+Chemistry,What substance is commonly used to disinfect wounds?,Hydrogen Peroxide,Alcohol,Vinegar,Bleach
+Physics,What is Newton's first law of motion?,An object at rest will remain at rest| and an object in motion will remain in motion with a constant velocity| unless acted upon by a net external force.,Force is equal to mass times acceleration.,For every action| there is an equal and opposite reaction.,The acceleration of an object is directly proportional to the net external force acting on it and inversely proportional to its mass.
+Biology,What is the name of the process by which plants convert sunlight to energy?,Photosynthesis,Cellular Respiration,Fermentation,Digestion
+Chemistry,What is the most abundant gas in Earth's atmosphere?,Nitrogen,Oxygen,Carbon Dioxide,Helium
+Physics,What is the formula for kinetic energy?,KE = 1/2mv^2,mgh,F=ma,P=mv
+Biology,What is the name of the muscle found in the upper arm?,Biceps,Triceps,Deltoid,Rectus Femoris
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,C6H12O6
+Physics,What is the formula for gravitational potential energy?,PE = mgh,KE = 1/2mv^2,F=ma,P=mv
+Biology,What is the largest organ in the human body?,Skin,Brain,Heart,Liver
+Chemistry,What is the pH range of a neutral solution?,7,1-6,8-14,0
+Physics,What is the formula for work?,W = Fd,KE = 1/2mv^2,P=mv,F=ma
+Biology,What is the name of the sac that surrounds the heart?,Pericardium,Pleura,Peritoneum,Epithelium
+Chemistry,What is the chemical formula for ethanol?,C2H5OH,CO2,NaCl,C6H12O6
+Physics,What is the formula for power?,P = W/t,W = Fd,v = d/t,F = ma
+Biology,What is the process through which cells divide?,Mitosis,Meiosis,Respiration,Photosynthesis
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,NaCl,C6H12O6
+Physics,What is the formula for density?,D=m/v,P=mv,F=ma,KE = 1/2mv^2
+Biology,What is the name of the protein found in hair and nails?,Keratin,Collagen,Elastin,Actin
+Chemistry,What is the formula for photosynthesis?,6CO2+6H2O -> C6H12O6+6O2,C6H12O6+6O2 -> 6CO2+6H2O,NaCl+H2O -> Na+ + Cl-,CH4 + 2O2 -> CO2 + 2H2O
+Physics,What is the formula for pressure?,P = F/A,v = d/t,W = Fd,F = ma
+Biology,What is the name of the smallest type of blood vessel?,Capillary,Artery,Vein,Ventricle
+Chemistry,What is the chemical formula for table salt?,NaCl,CO2,H2O,C6H12O6
+Physics,What is the formula for impulse?,J = Ft,mgh,P = W/t,v = d/t
+Biology,What is the name of the process that breaks down glucose to release energy?,Cellular Respiration,Photosynthesis,Fermentation,Digestion
+Chemistry,What is the chemical symbol for oxygen?,O,H,C,N
+Physics,What is the formula for torque?,t = Fr,KE = 1/2mv^2,F=ma,P=mv
+Biology,What is the name of the hormone that regulates blood sugar levels?,Insulin,Glucagon,Estrogen,Testosterone
+Chemistry,What is the chemical formula for table sugar?,C12H22O11,CO2,NaCl,H2O
+Physics,What is the formula for centripetal force?,Fc = mv²/r,P = W/t,F = ma,W = Fd
+Biology,What is the name of the process by which organisms produce offspring?,Reproduction,Metabolism,Respiration,Photosynthesis
+Chemistry,What is the chemical symbol for sodium?,Na,H,O,C
+Physics,What is the formula for impulse-momentum?,J = Δp,KE = 1/2mv^2,F=ma,P=mv
+Biology,What is the name of the hormone that regulates salt levels in the body?,Aldosterone,Testosterone,Estrogen,Insulin
+Chemistry,What is the chemical formula for hydrochloric acid?,HCl,CO2,NaCl,H2O
+Physics,What is the formula for angular velocity?,ω = θ/t,P = W/t,F = ma,mgh
+Biology,What is the name of the process by which an organism breaks down food?,Digestion,Respiration,Photosynthesis,Metabolism
+Chemistry,What is the chemical formula for calcium carbonate?,CaCO3,CO2,NaCl,H2O
+Physics,What is the formula for period of a pendulum?,T = 2π√(L/g),P = W/t,F = ma,W = Fd
+Biology,What is the name of the hormone that regulates sleep?,Melatonin,Insulin,Glucagon,Adrenaline
+Chemistry,What is the chemical formula for ammonia?,NH3,CO2,NaCl,H2O
+Physics,What is the formula for period of a spring?,T = 2π√(m/k),P = W/t,F = ma,W = Fd
+Biology,What is the name of the process by which DNA is replicated?,Replication,Transcription,Translation,Mutation
+Chemistry,What is the chemical formula for methane?,CH4,CO2,H2O,NaCl
+Physics,What is the formula for centripetal acceleration?,ac = v²/r,P = W/t,F = ma,W = Fd
+Biology,What is the name of the hormone that regulates stress?,Cortisol,Testosterone,Estrogen,Insulin
+Chemistry,What is the chemical formula for sulfuric acid?,H2SO4,CO2,NaCl,H2O
+Physics,What is the formula for centripetal force for circular motion?,Fc = (mv²)/r,P = W/t,F = ma,W = Fd
+Biology,What is the name of the hormone that regulates hunger?,Ghrelin,Leptin,Insulin,Glucagon
+Chemistry,What is the chemical formula for potassium chloride?,KCl,CO2,NaCl,H2O
+Physics,What is the formula for centripetal acceleration due to gravity?,ac = GM/r²,P = W/t,F = ma,W = Fd

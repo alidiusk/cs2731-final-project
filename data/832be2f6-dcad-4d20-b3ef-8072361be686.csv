@@ -1,0 +1,51 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newton,Joule,Watt,Ampere
+Physics,Which law of motion states that for every action| there is an equal and opposite reaction?,Third law,First law,Second law,Fourth law
+Physics,What is the formula for calculating work done?,Force x distance,Power x time,Velocity x acceleration,Mass x acceleration
+Physics,What is the term used to describe the amount of matter in an object?,Mass,Weight,Volume,Density
+Physics,Which type of energy is stored in an object due to its position or state?,Potential energy,Kinetic energy,Thermal energy,Chemical energy
+Chemistry,Which element has the symbol Na?,Sodium,Nitrogen,Neon,Nickel
+Chemistry,What is the formula for sulfuric acid?,H2SO4,NaOH,HCl,HNO3
+Chemistry,What type of bonding occurs when electrons are shared between atoms?,Covalent,Ionic,Metallic,Van der Waals
+Chemistry,What is the pH range of an acid?,0-6,7-14,8-12,2-10
+Chemistry,What is the chemical formula for water?,H2O,CO2,O2,CH4
+Biology,Which system is responsible for exchanging gases between the body and the environment?,Respiratory system,Circulatory system,Digestive system,Nervous system
+Biology,Which organ produces insulin in the body?,Pancreas,Liver,Kidney,Stomach
+Biology,What is the function of red blood cells?,Transport oxygen,Fight infection,Produce hormones,Digest food
+Biology,What is the name of the smallest unit of life?,Cell,Organ,Tissue,Organism
+Biology,Which type of muscle is responsible for involuntary movements| like the beating of the heart?,Cardiac muscle,Skeletal muscle,Smooth muscle,Striated muscle
+Geology,What type of rock is formed by the cooling and solidification of lava?,Igneous rock,Sedimentary rock,Metamorphic rock,Molten rock
+Geology,What is the Earth's outermost layer called?,Crust,Mantle,Core,Plate
+Geology,What process is responsible for the movement of tectonic plates?,Plate tectonics,Erosion,Weathering,Deposition
+Geology,What type of rock is formed by the compaction and cementation of sediment?,Sedimentary rock,Igneous rock,Metamorphic rock,Molten rock
+Geology,What is the name of the boundary between two tectonic plates that are sliding past each other?,Transform boundary,Divergent boundary,Convergent boundary,Subduction zone
+Astronomy,What is the largest planet in our solar system?,Jupiter,Saturn,Uranus,Neptune
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Whirlpool,Triangulum
+Astronomy,What is the name of the star at the center of our solar system?,Sun,Moon,Venus,Mars
+Astronomy,"Which planet is nicknamed the ""Red Planet""?",Mars,Venus,Mercury,Jupiter
+Astronomy,What is the name of the phenomenon that occurs when the moon passes in front of the sun| blocking its light?,Solar eclipse,Lunar eclipse,Asteroid impact,Comet sighting
+Anatomy,Which bone is commonly referred to as the kneecap?,Patella,Femur,Tibia,Fibula
+Anatomy,What is the name of the tube that connects the throat to the stomach?,Esophagus,Trachea,Bronchi,Larynx
+Anatomy,What is the name of the muscle that separates the chest cavity from the abdominal cavity?,Diaphragm,Abdominus,Latissimus dorsi,Pectoralis major
+Anatomy,What is the name of the joint that connects the upper arm bone to the shoulder blade?,Ball and socket joint,Hinge joint,Pivot joint,Cartilaginous joint
+Anatomy,Which organ is responsible for filtering waste products from the blood?,Kidney,Liver,Gallbladder,Bladder
+Ecology,What is the term used to describe the relationship between two species where both benefit?,Mutualism,Commensalism,Parasitism,Predation
+Ecology,What is the name of the process where plants convert carbon dioxide and water into glucose and oxygen?,Photosynthesis,Cellular respiration,Fermentation,Transpiration
+Ecology,What is the name of the process where glucose is broken down in the presence of oxygen to release energy?,Cellular respiration,Photosynthesis,Fermentation,Transpiration
+Ecology,What is the name of the process where energy is transferred between organisms in a food chain?,Trophic transfer,Biomass transfer,Energy pyramid,Predator-prey cycle
+Ecology,What is the term used to describe the number of different species in an ecosystem?,Biodiversity,Biome,Habitat,Niche
+Meteorology,What is the layer of the atmosphere closest to the Earth's surface called?,Troposphere,Stratosphere,Mesosphere,Thermosphere
+Meteorology,What is the name of the tool used to measure atmospheric pressure?,Barometer,Thermometer,Anemometer,Hygrometer
+Meteorology,What is the name of the temperature scale that uses the boiling and freezing points of water as reference points?,Celsius,Fahrenheit,Kelvin,Rankine
+Meteorology,What is the term used to describe the process where water changes from a liquid to a gas?,Evaporation,Condensation,Precipitation,Sublimation
+Meteorology,What is the term used to describe the movement of air due to differences in pressure?,Wind,Breeze,Gale,Storm
+Computer Science,What is the name of the binary digit used in computing?,Bit,Byte,Megabyte,Gigabyte
+Computer Science,What is the name of the protocol used to transfer files over the internet?,FTP,HTTP,SMTP,POP
+Computer Science,What is the term used to describe malicious software that can harm your computer?,Virus,Spyware,Adware,Malware
+Computer Science,What is the name of the language used to create web pages?,HTML,CSS,JavaScript,PHP
+Computer Science,What is the name of the operating system used on Apple computers?,macOS,Windows,Linux,Android
+Mathematics,What is the value of pi?,3.14159265359,2.71828182846,1.61803398875,0.69314718056
+Mathematics,What is the formula for calculating the area of a circle?,pi x radius squared,2 x pi x radius,pi x diameter,4 x pi x radius
+Mathematics,What is the formula for calculating the slope of a linear equation?,rise over run,y equals mx plus b,y equals ax squared plus bx plus c,quadratic formula
+Mathematics,What is the name of the operation used to find the inverse of a function?,Inverse function,Logarithm,Exponential,Derivative
+Mathematics,What is the term used to describe a number that can only be divided by itself and one?,Prime number,Composite number,Square number,Cube number

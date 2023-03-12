@@ -1,0 +1,53 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newton,Pascal,Joule,Volt
+Biology,What is the function of the mitochondria?,Produce energy,Store DNA,Filter waste,Transport nutrients
+Chemistry,What is the formula for water?,H2O,CO2,NaCl,C6H12O6
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,343 m/s,10 m/s,1000 m/s
+Biology,What is the name of the smallest unit of life?,Cell,Atom,Molecule,Organism
+Chemistry,What is the atomic number of Oxygen?,8,1,3,20
+Physics,What is the force that opposes motion called?,Friction,Gravity,Magnetism,Tension
+Biology,What is the name of the process by which plants use sunlight to make food?,Photosynthesis,Cellular respiration,Digestion,Excretion
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Physics,What is the formula for work?,W=Fd,W=P/t,W=mv,W=Fv
+Biology,What is the name of the pigment that gives plants their green color?,Chlorophyll,Melanin,Hemoglobin,Carotene
+Chemistry,What is the formula for table salt?,NaCl,MgSO4,HCl,KCl
+Physics,What is the first law of motion called?,Newton's first law,Boyle's law,Charles's law,Archimedes' principle
+Biology,What is the name of the process by which animals convert food into energy?,Cellular respiration,Photosynthesis,Digestion,Excretion
+Chemistry,What is the difference between an acid and a base?,Acids have a pH less than 7| bases have a pH greater than 7,Acids have a pH greater than 7| bases have a pH less than 7,Acids and bases have the same pH,None of the above
+Physics,What is the formula for acceleration?,a=F/m,a=v/t,a=p/t,a=F*d
+Biology,What is the name of the process by which organisms make more of their own kind?,Reproduction,Growth,Development,Adaptation
+Chemistry,What is the formula for methane?,CH4,C2H5OH,H2O,CO2
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transformed from one form to another,Energy can be created or destroyed,Energy can only be transformed from one form to another under certain conditions,None of the above
+Biology,What is the name of the blood vessels that carry blood away from the heart?,Arteries,Veins,Capillaries,Aorta
+Chemistry,What is the chemical formula for baking soda?,NaHCO3,NaCl,NaOH,HCl
+Physics,What is the formula for power?,P=W/t,P=F*d,P=mv,P=F*v
+Biology,What is the name of the hormone that regulates blood sugar levels?,Insulin,Adrenaline,Estrogen,Testosterone
+Chemistry,What is the formula for sulfuric acid?,H2SO4,HCl,HNO3,H3PO4
+Physics,What is the law of universal gravitation?,Every object in the universe attracts every other object with a force proportional to the product of their masses and inversely proportional to the square of the distance between them,The force of gravity only applies to objects on Earth,The force of gravity is determined by an object's mass alone,None of the above
+Biology,What is the name of the process by which an organism becomes better suited to its environment?,Adaptation,Evolution,Reproduction,Growth
+Chemistry,What is the formula for nitric acid?,HNO3,H2SO4,HCl,H3PO4
+Physics,What is the second law of motion called?,Newton's second law,Boyle's law,Charles's law,Archimedes' principle
+Biology,What is the name of the smallest unit of matter?,Atom,Molecule,Cell,Organism
+Chemistry,What is the formula for hydrochloric acid?,HCl,H2SO4,HNO3,H3PO4
+Physics,What is the law of reflection?,The angle of incidence equals the angle of reflection,The angle of incidence is greater than the angle of reflection,The angle of incidence is less than the angle of reflection,None of the above
+Biology,What is the name of the hormone that regulates the sleep-wake cycle?,Melatonin,Insulin,Adrenaline,Estrogen
+Chemistry,What is the formula for acetic acid?,CH3COOH,NaCl,NaOH,HCl
+Physics,What is the formula for momentum?,p=mv,p=F*t,p=W/t,p=F*d
+Biology,What is the name of the fatty substance that forms a protective sheath around the axon of a neuron?,Myelin,Cholesterol,Adipose tissue,Collagen
+Chemistry,What is the formula for ammonia?,NH3,H2O,CO2,CH4
+Physics,What is the third law of motion called?,Newton's third law,Boyle's law,Charles's law,Archimedes' principle
+Biology,What is the name of the hormone that stimulates milk production in mammals?,Prolactin,Insulin,Adrenaline,Estrogen
+Chemistry,What is the formula for calcium carbonate?,CaCO3,NaCl,NaOH,HCl
+Physics,What is the formula for electric power?,P=IV,P=V^2/R,P=I^2R,P=W/t
+Biology,What is the name of the hormone that regulates the menstrual cycle in females?,Estrogen,Progesterone,Testosterone,Adrenaline
+Chemistry,What is the formula for sulfur dioxide?,SO2,CO2,H2SO4,Na2SO4
+Physics,What is the law of electric charges?,Like charges repel| opposite charges attract,Like charges attract| opposite charges repel,All charges attract each other,None of the above
+Biology,What is the name of the hormone that regulates the fight or flight response?,Adrenaline,Insulin,Estrogen,Testosterone
+Chemistry,What is the formula for nitrous oxide?,N2O,H2O,CO2,NH3
+Physics,What is the formula for electric potential energy?,PE=qV,PE=mgh,PE=1/2kx^2,PE=kq1q2/r
+Biology,What is the name of the hormone that stimulates ovulation in females?,Luteinizing hormone,Insulin,Adrenaline,Estrogen
+Chemistry,What is the formula for sodium hydroxide?,NaOH,NaCl,HCl,H2SO4
+Physics,What is Ohm's law?,V=IR,P=IV,F=kq1q2/r^2,PE=mgh
+Biology,What is the name of the hormone that stimulates testosterone production in males?,Luteinizing hormone,Insulin,Adrenaline,Estrogen
+Chemistry,What is the formula for hydrofluoric acid?,HF,HCl,NaCl,H2SO4
+Physics,What is the formula for electric charge?,q=It,q=CV,q=NE,q=F/d

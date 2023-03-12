@@ -1,0 +1,53 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the SI unit of force?,Newton,Watt,Joule,Ampere
+Astronomy,What is the largest planet in our solar system?,Jupiter,Mars,Venus,Saturn
+Biology,What is the process by which plants make their own food?,Photosynthesis,Cellular respiration,Transpiration,Fermentation
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Cu
+Physics,What is the formula for calculating work?,W = Fd,W = Q/V,W = mgh,W = pt
+Astronomy,What is the nearest star to Earth?,Proxima Centauri,Alpha Centauri,Sirius,Polaris
+Biology,What is the process by which cells divide into two identical daughter cells?,Mitosis,Meiosis,Fertilization,Differentiation
+Chemistry,What is the chemical symbol for sodium?,Na,K,Ca,Fe
+Physics,What is the formula for calculating power?,P = W/t,P = Q/V,P = Fd/t,P = mv
+Astronomy,What is the name of the farthest object in our solar system?,Eris,Pluto,Haumea,Sedna
+Biology,What is the name for the ball of cells that forms after fertilization but before implantation in the uterus?,Blastocyst,Embryo,Zygote,Fetus
+Chemistry,What is the chemical symbol for potassium?,K,Na,Ca,Mg
+Physics,What is the formula for calculating acceleration?,a = (v_f - v_i)/t,a = F/m,a = W/t,a = p/v
+Astronomy,What is the name of the largest known star in the universe?,UY Scuti,Betelgeuse,VY Canis Majoris,Antares
+Biology,What is the name for the process by which cells break down glucose to produce energy?,Cellular respiration,Photosynthesis,Fermentation,Glycolysis
+Chemistry,What is the chemical formula for water?,H2O,CO2,O2,CH4
+Physics,What is the formula for calculating pressure?,P = F/A,P = W/t,P = Q/V,P = mgh
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Triangulum,Sombrero
+Biology,What is the name for the process by which cells become specialized and take on specific functions?,Differentiation,Mitosis,Meiosis,Fertilization
+Chemistry,What is the chemical symbol for carbon?,C,O,H,N
+Physics,What is the formula for calculating potential energy?,PE = mgh,PE = 1/2mv^2,PE = Fd,PE = Q/t
+Astronomy,What is the name of the force that keeps planets in orbit around the Sun?,Gravity,Electromagnetism,Strong nuclear force,Weak nuclear force
+Biology,What is the name for the process by which sperm and egg unite?,Fertilization,Implantation,Differentiation,Meiosis
+Chemistry,What is the chemical symbol for oxygen?,O,C,H,N
+Physics,What is the formula for calculating kinetic energy?,KE = 1/2mv^2,KE = mgh,KE = Fd,KE = pt
+Astronomy,What is the name of the theory that explains the origin of the universe in a big bang?,Big Bang Theory,Steady State Theory,Panspermia,String Theory
+Biology,What is the name for the process by which organisms produce offspring?,Reproduction,Photosynthesis,Cellular respiration,Fermentation
+Chemistry,What is the chemical symbol for nitrogen?,N,O,C,H
+Physics,What is the formula for calculating velocity?,v = d/t,v = F/m,v = W/t,v = p/A
+Astronomy,What is the name of the process by which a star dies in a massive explosion?,Supernova,Nebula,Black hole,White dwarf
+Biology,What is the name for the process by which organisms adapt to their environment over time?,Evolution,Natural selection,Mutation,Variation
+Chemistry,What is the chemical formula for methane?,CH4,H2O,CO2,O2
+Physics,What is the formula for calculating frequency?,f = 1/T,f = E/h,f = pt,h = mc
+Astronomy,What is the name of the point in space where the gravitational pull is so strong that nothing can escape it?,Black hole,Singularity,Event horizon,Wormhole
+Biology,What is the name for the process by which DNA is copied?,Replication,Transcription,Translation,Mutation
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,O2,CH4
+Physics,What is the formula for calculating electric power?,P = IV,P = Q/t,P = W/t,P = mv^2
+Astronomy,What is the name of the phenomenon that causes the sun to appear to be moving across the sky?,Apparent motion,Diurnal motion,Retrograde motion,Celestial motion
+Biology,What is the name for the process by which a cell takes in nutrients from its environment?,Endocytosis,Exocytosis,Osmosis,Diffusion
+Chemistry,What is the chemical formula for glucose?,C6H12O6,CO2,H2O,O2
+Physics,What is the formula for calculating electric potential energy?,PE = qV,PE = mgh,PE = Fd,PE = Q/t
+Astronomy,What is the name of the process by which stars produce energy by fusing hydrogen into helium?,Nuclear fusion,Nuclear fission,Nucleosynthesis,Molecular bonding
+Biology,What is the name for the process by which cells break down glucose without oxygen to produce energy?,Fermentation,Cellular respiration,Photosynthesis,Glycolysis
+Chemistry,What is the chemical formula for ethanol?,C2H5OH,CO2,H2O,O2
+Physics,What is the formula for calculating electric current?,I = Q/t,I = W/t,I = F/m,I = pt
+Astronomy,What is the name of the process by which stars convert helium into heavier elements?,Nucleosynthesis,Nuclear fusion,Nuclear fission,Radioactivity
+Biology,What is the name for the process by which DNA is transcribed into RNA?,Transcription,Replication,Translation,Mutation
+Chemistry,What is the chemical formula for calcium carbonate?,CaCO3,CO2,H2O,O2
+Physics,What is the formula for calculating electric resistance?,R = V/I,R = W/t,R = F/m,R = pt
+Astronomy,What is the name of the region in space where comets originate?,Oort cloud,Kuiper belt,Main asteroid belt,Trans-Neptunian objects
+Biology,What is the name for the process by which RNA is translated into proteins?,Translation,Transcription,Replication,Mutation

@@ -1,0 +1,53 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Chloroplast,Cytoplasm
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,300|000|000 m/s,299|999|999 m/s,299|794|458 m/s
+Chemistry,What element has the symbol Fe?,Iron,Gold,Silicon,Copper
+Biology,What is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll?,Photosynthesis,Respiration,Fermentation,Digestion
+Physics,Which fundamental force is responsible for holding the nucleus of an atom together?,Strong Nuclear Force,Weak Nuclear Force,Gravity,Electromagnetic Force
+Chemistry,What is the chemical symbol for water?,H2O,O2,CO2,N2
+Biology,What is the name of the process through which organisms produce offspring that are similar to themselves?,Reproduction,Mitosis,Meiosis,Fertilization
+Physics,What is the SI unit of force?,Newton,Joule,Watt,Pascal
+Chemistry,What is the molecular formula for glucose?,C6H12O6,H2O,CO2,NaCl
+Biology,What is the largest organ in the human body (by surface area)?,Skin,Liver,Brain,Heart
+Physics,What is the acceleration due to gravity on Earth?,9.8 m/s^2,9.2 m/s^2,10 m/s^2,8 m/s^2
+Chemistry,What kind of chemical bonds are responsible for holding the two strands of DNA together?,Hydrogen Bonds,Ionic Bonds,Covalent Bonds,Metallic Bonds
+Biology,What anatomical structure connects the stomach to the small intestine?,Duodenum,Jejunum,Ileum,Colon
+Physics,What is the formula for calculating work?,W=F*d*cos(theta),W=F*d*sin(theta),W=F*d*tan(theta),W=F*d
+Chemistry,What is the name of the process by which a liquid transforms into a gas?,Evaporation,Melting,Solidification,Condensation
+Biology,What is the name of the small| round structures inside a cell that produce proteins?,Ribosomes,Mitochondria,Lysosomes,Golgi Apparatus
+Physics,What is the formula for calculating power?,P=W/t,P=F*d/t,P=F*v,P=F/t
+Chemistry,What is the chemical symbol for carbon?,C,Co,Cu,Cr
+Biology,What is the name of the pigment in red blood cells that is responsible for transporting oxygen?,Hemoglobin,Chlorophyll,Melanin,Anthocyanin
+Physics,What is the formula for calculating electric power?,P=IV,P=I/R,P=V/R,P=V/I
+Chemistry,What is the name of the process by which plants take in carbon dioxide and give out oxygen?,Photosynthesis,Respiration,Fermentation,Digestion
+Biology,What is the name of the sac that stores bile in the human body?,Gallbladder,Pancreas,Liver,Small Intestine
+Physics,What is the formula for calculating voltage?,V=W/Q,V=IR,V=I/R,V=P/I
+Chemistry,What is the chemical symbol for sodium?,Na,Ni,Nb,N
+Biology,What is the name of the muscle in the human body that is responsible for breathing?,Diaphragm,Bicep,Quadricep,Hamstring
+Physics,What is the law that states that every action has an equal and opposite reaction?,Newton's Third Law of Motion,Newton's Second Law of Motion,Newton's First Law of Motion,The Law of Attraction
+Chemistry,What is the name of the bond that is formed when two non-metal atoms share electrons?,Covalent Bond,Ionic Bond,Hydrogen Bond,Metallic Bond
+Biology,What is the name of the hormone that regulates the amount of sugar in the blood?,Insulin,Testosterone,Estrogen,Progesterone
+Physics,What is the formula for calculating acceleration?,a=(vf-vi)/t,a=F/m,a=v/t,a=F*d
+Chemistry,What is the name of the process by which a gas transforms into a liquid?,Condensation,Evaporation,Melting,Solidification
+Biology,What is the name of the protective layer surrounding the brain and spinal cord?,Meninges,Peritoneum,Pericardium,Epithelium
+Physics,What is the law that states that the pressure of a gas is inversely proportional to its volume at a constant temperature?,Boyle's Law,Charles's Law,Gay-Lussac's Law,Avogadro's Law
+Chemistry,What is the pH of a neutral solution?,7,0,1,14
+Biology,What part of the human body is responsible for producing insulin?,Pancreas,Liver,Gallbladder,Small Intestine
+Physics,What is the formula for calculating force?,F=ma,F=p/t,F=d/t,F=mv
+Chemistry,What is the name of the process by which a solid transforms into a gas?,Sublimation,Evaporation,Melting,Condensation
+Biology,What is the name of the hormone that regulates the sleep-wake cycle in the human body?,Melatonin,Cortisol,Adrenaline,Testosterone
+Physics,What is the law that states that the volume of a gas is directly proportional to its temperature at a constant pressure?,Charles's Law,Boyle's Law,Gay-Lussac's Law,Avogadro's Law
+Chemistry,What is the chemical symbol for oxygen?,O,Co,Cu,Cr
+Biology,What is the name of the valve that separates the left atrium and left ventricle in the heart?,Mitral Valve,Tricuspid Valve,Pulmonary Valve,Aortic Valve
+Physics,What is the formula for calculating pressure?,P=F/A,P=F*d,P=F/t,P=F*v
+Chemistry,What is the name of the process by which a liquid transforms into a solid?,Solidification,Melting,Evaporation,Condensation
+Biology,What is the name of the organ responsible for producing sperm in the human body?,Testes,Penis,Prostate,Epididymis
+Physics,What is the equation for calculating density?,p=m/v,p=F/A,p=F*d,p=mv
+Chemistry,What is the name of the process by which two or more atoms combine to form a more complex structure?,Chemical Bonding,Oxidation,Reduction,Combination
+Biology,What is the name of the hormone that regulates the growth and development of bones and muscles in the human body?,Human Growth Hormone (HGH),Estrogen,Testosterone,Adrenaline
+Physics,What is the formula for calculating momentum?,p=mv,p=F/t,p=F*d,p=W/t
+Chemistry,What is the name of the process by which a liquid transforms into a gas at the surface of a liquid?,Evaporation,Condensation,Melting,Solidification
+Biology,What is the name of the structure that carries urine from the kidney to the bladder?,Ureter,Urethra,Bladder,Prostate
+Physics,What is the formula for calculating angular velocity?,w=theta/t,w=d/t,w=F/t,w=p/m
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Si,Cu
+Biology,What is the name of the process by which sperm unite with an egg to form a zygote?,Fertilization,Ovulation,Mitosis,Meiosis

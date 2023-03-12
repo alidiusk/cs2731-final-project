@@ -1,0 +1,46 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the process by which living organisms convert light energy into chemical energy?,Photosynthesis,Respiration,Fermentation,Oxidation
+Biology,What is the function of the ribosome in a cell?,Protein synthesis,Lipid synthesis,DNA replication,Cellular respiration
+Biology,Which organelle is responsible for storing genetic material in a eukaryotic cell?,Nucleus,Mitochondria,Chloroplast,Endoplasmic reticulum
+Biology,What is the primary function of the cell membrane?,Regulates the movement of materials into and out of the cell,Stores genetic material,Produces ATP,Transcribes DNA
+Biology,What is the smallest unit of life?,Cell,Atom,Molecule,Protein
+Chemistry,What is the atomic number of carbon?,6,4,8,12
+Chemistry,What is the symbol for gold on the periodic table?,Au,Ag,Cu,Pt
+Chemistry,What is the most abundant gas in the earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Chemistry,What is the formula for the chemical compound water?,H2O,CO2,NaCl,NH3
+Chemistry,What is the pH of a neutral solution?,7,1,14,0
+Physics,What is the formula for calculating work?,W = F x d,W = m x g,W = P x V,W = Q/t
+Physics,What is the SI unit of force?,Newton,Joule,Watt,Volt
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transformed,Energy always flows from hot to cold,Energy can be created out of nothing,Energy can be destroyed completely
+Physics,What is the acceleration due to gravity at the surface of the earth?,9.8 m/s^2,6.2 m/s^2,4.3 m/s^2,11.4 m/s^2
+Physics,What is the formula for calculating kinetic energy?,KE = 1/2mv^2,KE = mgd,KE = Fd,KE = Pt
+Earth Science,What is the layer of the earth's atmosphere closest to the surface?,Troposphere,Stratosphere,Mesosphere,Thermosphere
+Earth Science,What is the name of the process by which rock is broken down into smaller pieces?,Weathering,Erosion,Deposition,Plate tectonics
+Earth Science,What is the name of the process by which sediment is transported from one location to another?,Erosion,Weathering,Deposition,Plate tectonics
+Earth Science,What is the name of the boundary between tectonic plates that is characterized by earthquakes and volcanoes?,Ring of Fire,Mid-Atlantic Ridge,San Andreas Fault,Himalayan Mountains
+Earth Science,What causes the earth's seasons?,Tilt of the earth's axis,Distance from the sun,Amount of sunlight,Temperature variations
+Anatomy,What is the largest organ in the human body?,Skin,Liver,Lung,Heart
+Anatomy,What is the name of the tube that carries food from the mouth to the stomach?,Esophagus,Trachea,Bronchus,Larynx
+Anatomy,What is the name of the muscle that separates the chest cavity from the abdominal cavity?,Diaphragm,Abdominal rectus,Biceps brachii,Sternocleidomastoid
+Anatomy,What is the name of the process by which oxygen is exchanged for carbon dioxide in the lungs?,Diffusion,Osmosis,Filtration,Active transport
+Anatomy,What is the name of the joint that allows for rotation of the forearm?,Hinge joint,Ball and socket joint,Pivot joint,Saddle joint
+Geology,What is the name of the scale used to measure the magnitude of earthquakes?,Richter scale,Mercalli scale,Magnitude scale,Intensity scale
+Geology,What is the name of the rock that forms from the solidification of magma or lava?,Igneous rock,Sedimentary rock,Metamorphic rock,Mineral rock
+Geology,What is the name of the boundary between two different rock types?,Contact,Fault,Unconformity,Fissure
+Geology,What is the name of the process by which sediment is laid down in a new location?,Deposition,Erosion,Weathering,Transportation
+Geology,What is the name of the process by which rock is transformed into a new type of rock through heat and pressure?,Metamorphism,Melting,Crystallization,Erosion
+Astronomy,What is the name of the largest planet in our solar system?,Jupiter,Saturn,Mars,Venus
+Astronomy,What is the name of the star closest to the earth?,Proxima Centauri,Alpha Centauri A,Alpha Centauri B,Barnard's Star
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Triangulum,Centaurus A
+Astronomy,What is the name of the theory that explains the origin of the universe?,Big Bang theory,Steady state theory,Pulsating universe theory,Inflationary universe theory
+Astronomy,What is the name of the phenomenon by which light is bent as it passes through a gravitational field?,Gravitational lensing,Redshift,Blueshift,Doppler effect
+Meteorology,What is the name of the layer of the atmosphere that contains the ozone layer?,Stratosphere,Troposphere,Mesosphere,Thermosphere
+Meteorology,What is the name of the process by which water changes from a gas to a liquid?,Condensation,Evaporation,Melting,Freezing
+Meteorology,What is the name of the boundary between two different air masses?,Front,Trough,Ridge,Convergence zone
+Meteorology,What is the name of the instrument used to measure wind speed?,Anemometer,Barometer,Thermometer,Hygrometer
+Meteorology,What is the name of the scale used to measure the intensity of hurricanes?,Saffir-Simpson scale,Enhanced Fujita scale,Richter scale,Beaufort scale
+Botany,What is the name of the process by which plants convert sunlight into sugar?,Photosynthesis,Respiration,Fermentation,Oxidation
+Botany,What is the name of the process by which plants release water vapor through small pores in their leaves?,Transpiration,Photosynthesis,Respiration,Fermentation
+Botany,What is the name of the structure in plants that transports water and nutrients from the roots to the rest of the plant?,Xylem,Phloem,Stem,Leaf
+Botany,What is the name of the hormone in plants that regulates growth and development?,Auxin,Gibberellin,Cytokinin,Ethylene
+Botany,What is the name of the process by which seeds germinate?,Germination,Fertilization,Pollination,Photosynthesis
