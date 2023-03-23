@@ -1,0 +1,55 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the process by which plants make their own food?,Photosynthesis,Respiration,Fermentation,Transpiration
+Chemistry,What is the most common gas in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon Dioxide,Argon
+Physics,What is the acceleration due to gravity on Earth?,9.8 m/s^2,8.2 m/s^2,10.5 m/s^2,6.9 m/s^2
+Biology,What is the name of the smallest unit of life?,Cell,Molecule,Atom,DNA
+Chemistry,What is the pH of pure water?,7,6,8,9
+Physics,What is the force that opposes motion between two surfaces in contact?,Friction,Gravity,Momentum,Acceleration
+Biology,What is the name of the process by which animals break down complex molecules for energy?,Cellular respiration,Photosynthesis,Reproduction,Digestion
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Physics,What is the SI unit of force?,Newton,Watt,Joule,Ohm
+Biology,What is the name of the long| coiled structures that carry genes?,DNA,RNA,Ribosomes,Lysosomes
+Chemistry,What is the process by which a liquid turns into a gas?,Evaporation,Condensation,Sublimation,Melting
+Physics,What is the formula for pressure?,Force/Area,Mass x Acceleration,Energy/Time,Distance/Time
+Biology,What is the name of the molecule that provides energy to cells?,ATP,ADP,NADH,FADH
+Chemistry,What is the atomic number of carbon?,6,8,12,14
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed,Energy always flows from hot to cold,The energy of a system is equal to its mass times the speed of light squared,The more mass an object has| the faster it will bring an orbiting object to the ground
+Biology,What is the name of the process by which plants and animals release waste gases?,Respiration,Photosynthesis,Fermentation,Transpiration
+Chemistry,What is the state of matter of a substance with a definite shape and volume?,Solid,Liquid,Gas,Plasma
+Physics,What is the first law of motion?,An object will remain at rest or in uniform motion in a straight line unless acted upon by an external force,Force equals mass times acceleration,For every action| there is an equal and opposite reaction,Energy cannot be created or destroyed
+Biology,What is the name of the process by which plants release water vapor into the air?,Transpiration,Photosynthesis,Respiration,Fermentation
+Chemistry,What is the chemical name for table salt?,Sodium chloride,Calcium carbonate,Potassium nitrate,Magnesium sulfate
+Physics,What is the formula for work?,Force x Distance,Mass x Acceleration,Energy/Time,Distance/Time
+Biology,What is the name of the tiny organelles responsible for making proteins?,Ribosomes,Lysosomes,Mitochondria,Chloroplasts
+Chemistry,What is the process by which a gas turns into a liquid?,Condensation,Evaporation,Sublimation,Deposition
+Physics,What is the law of conservation of mass?,Mass cannot be created or destroyed,Mass always flows from high to low,The mass of a system is equal to its energy times the speed of light squared,The more mass an object has| the faster it will bring an orbiting object to the ground
+Biology,What is the name of the process by which cells reproduce?,Mitosis,Meiosis,Photosynthesis,Respiration
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,CaSO4
+Physics,What is the second law of motion?,Force equals mass times acceleration,An object will remain at rest or in uniform motion in a straight line unless acted upon by an external force,For every action| there is an equal and opposite reaction,Energy cannot be created or destroyed
+Biology,What is the name of the molecule responsible for carrying oxygen in red blood cells?,Hemoglobin,Chlorophyll,Adrenaline,Insulin
+Chemistry,What is the chemical symbol for hydrogen?,H,He,Li,Be
+Physics,What is the third law of motion?,For every action| there is an equal and opposite reaction,An object will remain at rest or in uniform motion in a straight line unless acted upon by an external force,Force equals mass times acceleration,Energy cannot be created or destroyed
+Biology,What is the name of the process by which plants reproduce?,Photosynthesis,Pollination,Fertilization,Germination
+Chemistry,What is the process by which a solid turns into a gas?,Sublimation,Deposition,Condensation,Evaporation
+Physics,What is the formula for power?,Energy/Time,Force x Distance,Mass x Acceleration,Distance/Time
+Biology,What is the name of the molecule responsible for heredity?,DNA,RNA,Protein,Carbohydrate
+Chemistry,What is the chemical symbol for oxygen?,O,H,He,Li
+Physics,What is the formula for momentum?,Mass x Velocity,Force x Distance,Energy/Time,Distance/Time
+Biology,What is the name of the process by which animals reproduce?,Reproduction,Cell division,Fertilization,Pollination
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,NaCl,CaSO4
+Physics,What is the formula for kinetic energy?,1/2 x Mass x Velocity^2,Force x Distance,Energy/Time,Distance/Time
+Biology,What is the name of the macromolecule that stores energy and forms cell membranes?,Lipids,Proteins,Carbohydrates,Nucleic acids
+Chemistry,What is the process by which a gas turns directly into a solid?,Deposition,Sublimation,Condensation,Evaporation
+Physics,What is the formula for gravitational force?,G x (mass1 x mass2)/distance^2,Force x Distance,Mass x Acceleration,Distance/Time
+Biology,What is the name of the process by which cells convert food into energy?,Cellular respiration,Photosynthesis,Digestion,Fermentation
+Chemistry,What is the chemical symbol for calcium?,Ca,C,Cl,Cr
+Physics,What is the formula for potential energy?,Mass x Gravity x Height,Force x Distance,Energy/Time,Distance/Time
+Biology,What is the name of the large organelle that contains the cell's genetic material?,Nucleus,Ribosome,Mitochondria,Lysosome
+Chemistry,What is the process by which a liquid turns into a solid?,Freezing,Melting,Boiling,Condensation
+Physics,What is the formula for electric power?,Voltage x Current,Force x Distance,Mass x Acceleration,Distance/Time
+Biology,What is the name of the process by which cells make copies of themselves?,Replication,Transcription,Translation,Mutation
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Cu
+Physics,What is the formula for electric force?,Charge1 x Charge2/distance^2,Force x Distance,Mass x Acceleration,Distance/Time
+Biology,What is the name of the organelle responsible for breaking down and recycling cell waste?,Lysosome,Mitochondria,Ribosome,Chloroplast
+Chemistry,What is the process by which a gas turns into a liquid and releases heat?,Condensation,Evaporation,Sublimation,Deposition
+Physics,What is the formula for electric current?,Charge/Time,Force x Distance,Mass x Acceleration,Distance/Time

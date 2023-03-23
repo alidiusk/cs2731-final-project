@@ -1,0 +1,49 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What type of energy is stored in a battery?,Chemical Energy,Mechanical Energy,Thermal Energy,Nuclear Energy
+Biology,What is the powerhouse of the cell?,Mitochondria,Ribosomes,Lysosomes,Nucleus
+Chemistry,What element has the symbol C?,Carbon,Calcium,Cesium,Chlorine
+Geology,What type of rock forms from cooled lava or volcanic ash?,Igneous Rock,Sedimentary Rock,Metamorphic Rock,Granite
+Physics,What is the SI unit of force?,Newton,Joule,Watt,Volt
+Biology,What is the job of the red blood cells?,Transport oxygen,Fight infections,Digest food,Produce energy
+Chemistry,What does the pH scale measure?,Acidity,Density,Volume,Pressure
+Geology,What is the thin upper layer of the Earth's surface called?,Crust,Mantle,Core,Plate
+Physics,What is the momentum of an object with a mass of 10kg and a velocity of 5m/s?,50kg*m/s,15kg*m/s,2kg*m/s,25kg*m/s
+Biology,What is the role of DNA in cells?,Store genetic information,Generate energy,Transport materials,Protect the cell
+Chemistry,What gas is necessary for respiration in most living things?,Oxygen,Nitrogen,Carbon Dioxide,Methane
+Geology,What are the three types of rocks?,Igneous| Sedimentary| Metamorphic,Basalt| Granite| Sandstone,Quartz| Gneiss| Marble,Dacite| Shale| Slate
+Physics,What is the primary law of thermodynamics?,Energy cannot be created or destroyed,Heat flows from hot to cold,All objects in motion remain in motion,For every action| there is an equal and opposite reaction
+Biology,What is the basic unit of life?,Cell,Atom,Molecule,Organism
+Chemistry,What is the atomic number of oxygen?,8,6,14,26
+Geology,What is the process whereby rocks are broken down by physical or chemical means?,Weathering,Erosion,Deposition,Compaction
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,186|282 mi/s,76|786 km/s,912|415|781 ft/s
+Biology,What is the name of the smallest type of blood vessel?,Capillary,Artery,Vein,Aorta
+Chemistry,What is the symbol for gold?,Au,Ag,Fe,Cu
+Geology,What is the process whereby rock are rearranged and changed from one type to another by heat and pressure?,Metamorphism,Igneous Intrusion,Lithification,Erosion
+Physics,What is the formula for work?,Work=Force x Distance,Force=Mass x Acceleration,Power=Work/Time,Energy=Mass x Velocity^2
+Biology,What is the name of the pigment that gives leaves their green color?,Chlorophyll,Melanin,Hemoglobin,Carotene
+Chemistry,What is the name of the process whereby a solid turns into a gas?,Sublimation,Condensation,Evaporation,Melting
+Geology,What type of rock is formed by the accumulation of shells and other organic material?,Sedimentary Rock,Igneous Rock,Metamorphic Rock,Granite
+Physics,What is the formula for acceleration?,Acceleration=Change in Velocity/Time,Velocity=Displacement/Time,Force=Mass x Acceleration,Work=Force x Distance
+Biology,What is the name of the cell organelle that is responsible for protein synthesis?,Ribosome,Mitochondria,Lysosome,Nucleus
+Chemistry,What is the name of the process whereby hydrogen and oxygen combine to form water?,Combustion,Photosynthesis,Hydration,Electrolysis
+Geology,What is the process whereby sediment is laid down in a new location?,Deposition,Erosion,Weathering,Transport
+Physics,What is the formula for potential energy?,Potential Energy=Mass x Gravity x Height,Potential Energy=Mass x Velocity,Potential Energy=Work/Time,Potential Energy=Force x Distance
+Biology,What is the name of the tough| fibrous protein that makes up hair and nails?,Keratin,Collagen,Elastin,Fibrin
+Chemistry,What is the name of the process whereby a liquid turns into a gas?,Evaporation,Condensation,Solidification,Sublimation
+Geology,What type of boundary occurs when two tectonic plates slide past each other?,Transform Boundary,Divergent Boundary,Convergent Boundary,Subduction Boundary
+Physics,What is the formula for kinetic energy?,Kinetic Energy=(1/2) x Mass x Velocity^2,Kinetic Energy=Potential Energy/Time,Kinetic Energy=Force x Distance,Kinetic Energy=Mass x Gravity x Height
+Biology,What is the name of the largest organ in the human body?,Skin,Heart,Brain,Liver
+Chemistry,What is the process whereby carbon dioxide is converted into organic compounds?,Photosynthesis,Respiration,Decomposition,Fermentation
+Geology,What is the process whereby solid rock is turned into magma by heat and pressure?,Melting,Solidification,Erosion,Metamorphism
+Physics,What is the formula for power?,Power=Work/Time,Power=Force x Distance,Power=Mass x Velocity,Power=Potential Energy/Time
+Biology,What is the name of the liquid portion of blood?,Plasma,Serum,Lymph,Interstitial Fluid
+Chemistry,What is the process whereby a gas turns into a liquid?,Condensation,Evaporation,Sublimation,Melting
+Geology,What is the process whereby sediment is moved from one location to another?,Erosion,Deposition,Weathering,Transport
+Physics,What is the formula for force?,Force=Mass x Acceleration,Force=Work/Distance,Force=Power/Time,Force=Momentum/Time
+Biology,What is the name of the molecule that stores and carries genetic information?,DNA,RNA,Protein,Lipid
+Chemistry,What is the name of the process whereby a liquid turns into a solid?,Solidification,Melting,Evaporation,Condensation
+Geology,What is the name of the process whereby rocks break into smaller pieces due to physical forces?,Mechanical Weathering,Chemical Weathering,Erosion,Deposition
+Physics,What is the formula for pressure?,Pressure=Force/Area,Pressure=Work/Time,Pressure=Mass x Acceleration,Pressure=Density x Velocity^2
+Biology,What is the name of the organ that produces insulin?,Pancreas,Liver,Stomach,Kidney
+Chemistry,What is the name of the process whereby a solid turns into a liquid?,Melting,Solidification,Evaporation,Condensation
+Geology,What is the name of the process whereby rock is moved from one location to another by water or wind?,Transport,Erosion,Deposition,Weathering

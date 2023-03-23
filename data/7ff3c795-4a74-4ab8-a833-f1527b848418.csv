@@ -1,0 +1,49 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Chemistry,What is the atomic number of carbon?,6,8,12,14
+Physics,What is the SI unit of force?,Newton,Joule,Watt,Meter
+Biology,What is the function of the mitochondria in a cell?,Produce energy,Store genetic information,Produce proteins,Support cell shape
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the acceleration due to gravity at the surface of the Earth?,9.81 m/s^2,7.34 m/s^2,6.67 m/s^2,8.25 m/s^2
+Biology,What is the largest organ of the human body?,Skin,Heart,Liver,Brain
+Chemistry,What is the general formula for an alkane?,CnH2n+2,CnH2n,CnHn,CnHn-2
+Physics,What is the unit of electrical resistance?,Ohm,Watt,Ampere,Volt
+Biology,What gas do humans inhale and exhale?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,HCl
+Physics,What is the distance travelled per unit time called?,Speed,Velocity,Acceleration,Displacement
+Biology,What is the powerhouse of the cell?,Mitochondria,Ribosome,Lysosome,Golgi apparatus
+Chemistry,Which noble gas has the highest atomic number?,Radon,Xenon,Krypton,Argon
+Physics,What is the formula for kinetic energy?,0.5mv^2,mgh,mgh/2,1/2mv^2
+Biology,What is the smallest cell organelle?,Ribosome,Vacuole,Golgi apparatus,Mitochondria
+Chemistry,Which element has the symbol Hg?,Mercury,Hydrogen,Gold,Helium
+Physics,What is the force that opposes motion called?,Friction,Weight,Tension,Normal force
+Biology,What is the function of the ribosome in a cell?,Protein synthesis,Energy production,Storage of materials,Cell division
+Chemistry,What is the chemical symbol for sodium?,Na,Fe,Cl,Hg
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed,Energy cannot be changed from one form to another,Energy can be created by anyone,Energy can be destroyed by anyone
+Biology,What are the building blocks of proteins?,Amino acids,Nucleotides,Glucose molecules,Fatty acids
+Chemistry,What is the atomic number of oxygen?,8,6,10,12
+Physics,What is the force of gravity between two objects proportional to?,Masses and inversely proportional to distance squared,Masses and directly proportional to distance squared,Masses and inversely proportional to distance,Masses and directly proportional to distance
+Biology,What is the function of the mitochondria in a plant cell?,Produce energy,Produce oxygen,Store genetic information,Support cell shape
+Chemistry,What is the chemical formula for methane?,CH4,C2H6,C3H8,C4H10
+Physics,What is the unit of work?,Joule,Watt,Ampere,Second
+Biology,What is the role of the Golgi apparatus in a cell?,Process and package proteins,Mitosis,Energy production,Structure and support
+Chemistry,Which element has the symbol Fe?,Iron,Iodine,Indium,Iridium
+Physics,What is the principle of conservation of momentum?,The total momentum before a collision is equal to the total momentum after the collision,The total momentum before a collision is less than the total momentum after the collision,The total momentum before a collision is greater than the total momentum after the collision,Momentum is not conserved in collisions
+Biology,What is the function of the lysosome in a cell?,Break down waste materials,Synthesize proteins,Store genetic information,Producing energy
+Chemistry,What is the chemical formula for Nitric acid?,HNO3,H2SO4,HCl,H3PO4
+Physics,What is the unit of electrical potential difference?,Volt,Watt,Ampere,Ohm
+Biology,What is the structure that separates the contents of a cell from its environment?,Cell membrane,Cell wall,Nucleus,Mitochondria
+Chemistry,What is the formula for sulphur dioxide?,SO2,CO2,HCl,H2SO4
+Physics,What is the formula for density?,Mass/volume,Volume/mass,Mass*volume,Mass-volume
+Biology,What is the function of the cytoplasm in a cell?,Organize the cell structure,Pump blood,Digest food,Produce energy
+Chemistry,What is the difference between an acid and a base?,Acids donate protons and bases accept protons,Acids accept protons and bases donate protons,Acids are sour and bases are bitter,Acids are solid and bases are liquid
+Physics,What is the formula for electric power?,IV,VI,IR,VR
+Biology,What is the function of the chloroplast in a plant cell?,Photosynthesis,Protein synthesis,Energy production,Cell division
+Chemistry,Which element has the symbol Cl?,Chlorine,Carbon,Calcium,Copper
+Physics,What is the speed of sound in air at room temperature?,343m/s,295m/s,420m/s,257m/s
+Biology,What is the function of the vacuole in plant cells?,Storage of water and nutrients,Energy production,Synthesizing proteins,Cell division
+Chemistry,What is the formula for copper sulfate?,CuSO4,CuCO3,CuCl2,Cu(NO3)2
+Physics,What is the law of reflection?,The angle of incidence equals the angle of reflection,The angle of incidence is greater than the angle of reflection,The angle of incidence is less than the angle of reflection,The angle of incidence has no relation to the angle of reflection
+Biology,What is the process by which cells release energy called?,Cellular respiration,Photosynthesis,Metabolism,Mitosis
+Chemistry,What is the formula for hydrochloric acid?,HCl,HNO3,H2SO4,H3PO4
+Physics,What is Newton's second law of motion?,Force is equal to mass times acceleration,The sum of the forces acting on an object is zero,For every action there is an equal and opposite reaction,An object at rest will stay at rest unless acted upon by a force
+Biology,What is the function of the nucleus in a cell?,Store genetic information,Produce energy,Produce proteins,Structure and support.

@@ -1,0 +1,65 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Astronomy,What is the largest planet in our solar system?,Jupiter,Mercury,Venus,Saturn
+Chemistry,What is the symbol for gold on the periodic table?,Au,Ag,Pb,G
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Lysosome
+Physics,What is Newton's first law of motion?,An object at rest will remain at rest,Force equals mass times acceleration,For every action| there is an equal and opposite reaction,An object in motion will remain in motion
+Astronomy,What is the closest star to Earth?,Proxima Centauri,Alpha Centauri A,Betelgeuse,Sirius
+Chemistry,What is the atomic number of carbon?,6,8,12,14
+Biology,What is the primary function of white blood cells in the body?,Fight infection,Transport oxygen,Digest food,Store energy
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transferred or transformed,Force equals mass times acceleration,For every action| there is an equal and opposite reaction,An object in motion will remain in motion
+Astronomy,What is the name of the closest galaxy to our Milky Way?,Andromeda,Triangulum,Pinwheel,Large Magellanic Cloud
+Chemistry,What is the chemical symbol for sodium?,Na,K,Ca,Mg
+Biology,What is the function of the pancreas in the human body?,Help regulate blood sugar,Produce bile,Break down food,Produce insulin
+Physics,What is the formula for calculating force?,Force = mass x acceleration,Force = distance / time,Force = work / time,Force = velocity x momentum
+Astronomy,What causes a solar eclipse?,The Moon passing between the Earth and the Sun,The Earth passing between the Moon and the Sun,The alignment of the Earth| Moon and Sun,The Sun rotating on its axis
+Chemistry,What is the most abundant element in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Biology,What is the name of the process by which plants convert sunlight into food?,Photosynthesis,Cellular respiration,Fermentation,Oxidative phosphorylation
+Physics,What is the formula for calculating work?,Work = force x distance,Work = mass x velocity,Work = power x time,Work = momentum x velocity
+Astronomy,What is the name of the asteroid belt between Mars and Jupiter?,Main Belt,Kuiper Belt,Scattered Disk,Oort Cloud
+Chemistry,What is the chemical symbol for chlorine?,Cl,C,Co,Cr
+Biology,What is the largest organ in the human body?,Skin,Liver,Lungs,Heart
+Physics,What is the formula for calculating power?,Power = work / time,Power = force x distance,Power = voltage x current,Power = energy / mass
+Astronomy,What is the approximate age of the universe?,13.8 billion years,10 billion years,20 billion years,65 million years
+Chemistry,What is the chemical formula for water?,H2O,CO2,NACl,CH4
+Biology,What is the name of the smallest unit of life?,Cell,Atom,Molecule,Organism
+Physics,What is the formula for calculating voltage?,Voltage = current x resistance,Voltage = power / current,Voltage = work / charge,Voltage = energy / time
+Astronomy,What is the name of the largest volcano in our solar system?,Olympus Mons,Mauna Kea,Mount Everest,Mount Kilimanjaro
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,O2,CH4
+Biology,What is the name of the process by which organisms break down food to release energy?,Cellular respiration,Photosynthesis,Fermentation,Oxidation
+Physics,What is the formula for calculating acceleration?,Acceleration = change in velocity / time,Acceleration = force x mass,Acceleration = work / force,Acceleration = distance / time squared
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Triangulum,Pinwheel
+Chemistry,What is the chemical symbol for helium?,He,H,Li,Ne
+Biology,What is the name of the hormone that regulates sleep?,Melatonin,Growth hormone,Insulin,Serotonin
+Physics,What is the formula for calculating momentum?,Momentum = mass x velocity,Momentum = force x distance,Momentum = power / time,Momentum = work / force
+Astronomy,What is the name of the nearest star to the Earth other than the Sun?,Proxima Centauri,Alpha Centauri A,Betelgeuse,Sirius
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Pb
+Biology,What is the name of the process by which cells divide?,Mitosis,Meiosis,Photosynthesis,Cellular respiration
+Physics,What is the formula for calculating force in relation to pressure and area?,Force = pressure x area,Force = mass x acceleration,Force = work / time,Force = voltage x current
+Astronomy,What is the name of the phenomenon in which light is bent by gravity?,Gravitational lensing,Red shift,Black hole,Neutron star
+Chemistry,What is the chemical formula for methane?,CH4,CO2,H2O,O2
+Biology,What is the name of the fluid that circulates in the human cardiovascular system?,Blood,Lymph,Cerebrospinal fluid,Plasma
+Physics,What is the formula for calculating distance?,Distance = speed x time,Distance = weight / mass,Distance = energy / time,Distance = acceleration x time squared
+Astronomy,What is the name of the asteroid that caused the extinction of the dinosaurs?,Chicxulub,Vesta,Ceres,Eros
+Chemistry,What is the chemical symbol for potassium?,K,Na,Ca,Mg
+Biology,What is the name of the chemical that carries signals between neurons in the brain?,Neurotransmitter,Hormone,Adrenaline,Serotonin
+Physics,What is the formula for calculating potential energy?,Potential Energy = mass x gravity x height,Potential Energy = mass x velocity squared,Potential Energy = force x distance,Potential Energy = energy / time
+Astronomy,What is the name of the region of space just outside the Earth's atmosphere where small debris can be found?,Exosphere,Thermosphere,Mesosphere,Stratosphere
+Chemistry,What is the chemical formula for sodium hydroxide?,NaOH,H2SO4,HCl,KOH
+Biology,What is the name of the human body's largest artery?,Aorta,Pulmonary artery,Carotid artery,Coronary artery
+Physics,What is the formula for calculating velocity?,Velocity = distance / time,Velocity = acceleration x time,Velocity = energy / mass,Velocity = momentum / mass
+Astronomy,What is the name of one of the moons of Mars?,Phobos,Deimos,Tethys,Europa
+Chemistry,What is the chemical symbol for oxygen?,O,N,C,H
+Biology,What is the name of the structure that connects muscles to bones?,Tendons,Ligaments,Cartilage,Blood vessels
+Physics,What is the formula for calculating density?,Density = mass / volume,Density = force / mass,Density = power x time,Density = acceleration / distance
+Astronomy,What is the name of the phenomenon in which light is spread out into its constituent colors?,Diffraction,Refraction,Dispersion,Absorption
+Chemistry,What is the chemical formula for hydrochloric acid?,HCl,NaOH,H2SO4,KOH
+Biology,What is the name for the process by which plants shed their leaves?,Abcission,Transpiration,Photosynthesis,Cellular respiration
+Physics,What is the formula for calculating torque?,Torque = force x distance,Torque = mass x velocity,Torque = power x time,Torque = energy / time
+Astronomy,What is the name of the region in the solar system beyond the orbit of Neptune?,Kuiper Belt,Main Belt,Scattered Disk,Oort Cloud
+Chemistry,What is the chemical symbol for nitrogen?,N,O,C,H
+Biology,What is the name of the system in the human body that controls all other systems?,Nervous system,Endocrine system,Circulatory system,Respiratory system
+Physics,What is the formula for calculating pressure?,Pressure = force / area,Pressure = mass x acceleration,Pressure = work / time,Pressure = voltage / current
+Astronomy,What is the name of the phenomenon in which light waves are compressed or stretched depending on the motion of the observer?,Doppler effect,Red shift,Gravitational lensing,Black hole
+Chemistry,What is the chemical formula for sulfuric acid?,H2SO4,NaOH,HCl,KOH
+Biology,What is the name of the substance that gives plants their green color?,Chlorophyll,Carotene,Xanthophyll,Anthocyanin
+Physics,What is the formula for calculating volume?,Volume = length x width x height,Volume = mass / density,Volume = energy / time,Volume = distance x area

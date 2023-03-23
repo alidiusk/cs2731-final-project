@@ -1,0 +1,57 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the speed of light?,299|792|458 m/s,299|792 m/s,29|979|245 m/s,2|997|926|458 km/h
+Biology,What is the largest organ in the human body?,Skin,Lungs,Heart,Liver
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Hg,Fe
+Astronomy,What planet is closest to the sun?,Mercury,Venus,Mars,Jupiter
+Physics,What is the unit of force?,Newton,Watt,Joule,Volt
+Biology,What is the powerhouse of the cell?,Mitochondria,Ribosomes,Golgi apparatus,Nucleus
+Chemistry,What is the most abundant gas in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Astronomy,What is the name of the largest moon in our solar system?,Ganymede,Titan,Io,Europa
+Physics,What is the formula for force?,F=ma,F=mv,F=me,F=ml
+Biology,What is the smallest bone in the human body?,Stapes,Tibia,Femur,Radius
+Chemistry,What gas is produced during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen
+Astronomy,What is the name of the nearest star to our Sun?,Proxima Centauri,Sirius,Alpha Centauri A,Alpha Centauri B
+Physics,What is the SI unit of electric charge?,Coulomb,Ampere,Volt,Ohm
+Biology,What is the process by which a cell divides into two or more daughter cells?,Cell division,Mitosis,Meiosis,Cytokinesis
+Chemistry,What is the chemical formula for water?,H2O,CO2,NH3,CH4
+Astronomy,What is the name of the largest volcano in the solar system?,Olympus Mons,Mauna Kea,Mount Everest,Mount Kilimanjaro
+Physics,What is the formula for speed?,s=d/t,s=dxt,s=t/d,s=t-x/d
+Biology,What is the scientific name for the human knee-cap?,Patella,Femur,Tibia,Fibula
+Chemistry,What is the atomic number of oxygen?,8,6,10,12
+Astronomy,What is the name of the constellation that includes the North Star?,Ursa Major,Ursa Minor,Orion,Leo
+Physics,What is the principle of conservation of energy?,Energy cannot be created or destroyed| only transferred or converted,Energy can only be created,Energy can only be destroyed,Energy can only be transferred
+Biology,What is the largest species of shark?,Whale shark,Great white shark,Tiger shark,Hammerhead shark
+Chemistry,What is the pH scale used to measure?,Acidity,Temperature,Density,Pressure
+Astronomy,What is the name of the asteroid belt located between Mars and Jupiter?,Asteroid Belt,Kuiper Belt,Oort Cloud,Ort Cloud
+Physics,What is the formula for work?,W=fd,W=mat,W=me,W=ml
+Biology,What is another name for the windpipe?,Trachea,Bronchi,Larynx,Pharynx
+Chemistry,What is the chemical symbol for sodium?,Na,Ca,Cu,Ni
+Astronomy,What is the name of the first man to walk on the moon?,Neil Armstrong,Buzz Aldrin,Michael Collins,Jim Lovell
+Physics,What is the formula for power?,P=w/t,P=t/w,P=m/t,P=m/w
+Biology,What is the largest mammal in the world?,Blue whale,Elephant,Giraffe,Hippopotamus
+Chemistry,What is the chemical symbol for helium?,He,Ne,Be,Se
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Triangulum,Pinwheel
+Physics,What is the law of inertia?,An object at rest will stay at rest| and an object in motion will stay in motion with a constant velocity| unless acted upon by a net external force,An object in motion will come to a stop when acted upon by a force,An object at rest will start moving when acted upon by a force,An object in motion will stay in motion with an accelerating velocity| unless acted upon by a net external force
+Biology,What is the largest organ in the human brain?,Cerebrum,Cerebellum,Medulla oblongata,Brainstem
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Cu
+Astronomy,What is the name of the star closest to the Earth (other than the sun)?,Proxima Centauri,Sirius,Alpha Centauri A,Alpha Centauri B
+Physics,What is the formula for acceleration?,a=v/t,a=f/m,a=w/t,a=m/f
+Biology,What is the scientific name for the collarbone?,Clavicle,Humerus,Radius,Ulna
+Chemistry,What is the chemical symbol for carbon?,C,O,H,N
+Astronomy,What is the name of the phenomenon in which a black hole emits radiation?,Hawking radiation,Gravitational waves,Dark energy,Dark matter
+Physics,What is Newton's third law of motion?,For every action| there is an equal and opposite reaction,An object at rest will stay at rest| and an object in motion will stay in motion with a constant velocity| unless acted upon by a net external force,Force equals mass times acceleration,Energy cannot be created or destroyed| only transferred or converted
+Biology,What is the smallest unit of life?,Cell,Organ,System,Organism
+Chemistry,What is the chemical symbol for zinc?,Zn,Xe,Kr,Rb
+Astronomy,What is the name of the first satellite launched into orbit by the Soviet Union in 1957?,Sputnik,Explorer 1,Vanguard 1,Luna 1
+Physics,What is the formula for kinetic energy?,K=(1/2)mv^2,K=mv,K=m/t,K=f/d
+Biology,What is the largest organ in the human digestive system?,Liver,Small intestine,Large intestine,Stomach
+Chemistry,What is the chemical symbol for silver?,Ag,Au,Cu,Ni
+Astronomy,What is the name of the phenomenon in which a planet appears to move in the opposite direction?,Retrograde motion,Prograde motion,Conjunction,Opposition
+Physics,What is the formula for gravitational force?,F=Gm1m2/r^2,F=ma,F=w/d,F=p/t
+Biology,What is the largest organ in the human circulatory system?,Heart,Arteries,Veins,Capillaries
+Chemistry,What is the chemical symbol for mercury?,Hg,Ag,Au,Cu
+Astronomy,What is the name of the space telescope launched by NASA in 1990?,Hubble Space Telescope,Spitzer Space Telescope,Chandra X-ray Observatory,James Webb Space Telescope
+Physics,What is the formula for potential energy?,U=mgh,U=mv,U=f/d,U=p/t
+Biology,What is the largest organ in the human respiratory system?,Lungs,Nose,Trachea,Bronchi
+Chemistry,What is the chemical symbol for nitrogen?,N,O,H,C
+Astronomy,What is the name of the brightest star in the sky?,Sirius,Vega,Betelgeuse,Rigel

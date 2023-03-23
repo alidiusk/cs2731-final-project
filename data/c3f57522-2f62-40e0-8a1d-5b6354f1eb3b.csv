@@ -1,0 +1,51 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor,Distractor3
+Biology,What is the powerhouse of a cell?,Mitochondria,Ribosome,Nucleus,Golgi Apparatus
+Chemistry,What element's symbol is Fe?,Iron,Fluorine,Carbon,Zinc
+Physics,What is the unit of measurement for force?,Newton,Watt,Volt,Meter
+Biology,What is the smallest unit of life?,Cell,Atom,Gene,Organ
+Chemistry,What type of chemical bond involves the sharing of electrons?,Covalent,Ionic,Hydrogen,Van Der Waals
+Physics,What is the term for the distance traveled per unit of time?,Velocity,Speed,Acceleration,Deceleration
+Biology,What is the process by which plants make their own food called?,Photosynthesis,Respiration,Digestion,Assimilation
+Chemistry,What is the pH of a neutral solution?,7,2,10,14
+Physics,What is the formula for calculating work?,Force x Distance,Mass x Acceleration,Force x Acceleration,Mass x Velocity
+Biology,Which organ pumps blood throughout the body?,Heart,Lungs,Liver,Stomach
+Chemistry,What is the element most commonly found in organic molecules?,Carbon,Nitrogen,Oxygen,Hydrogen
+Physics,What law states that every action has an equal and opposite reaction?,Newton's Third Law,Ohm's Law,Boyle's Law,Charles's Law
+Biology,What is the name for the male reproductive cell?,Sperm,Egg,Zygote,Embryo
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Physics,What formula is used to calculate the force of gravity?,F=G(m1*m2/d^2),F=ma,F=PE+KE,x=ut+1/2at^2
+Biology,What is the process by which cells replicate?,Mitosis,Meiosis,Prophase,Interphase
+Chemistry,What is the term for a substance that cannot be broken down into simpler substances?,Element,Compound,Molecule,Atom
+Physics,What is the term for an object's resistance to change in motion?,Inertia,Friction,Velocity,Acceleration
+Biology,What is the name for the long| coiled structure that stores genetic information in cells?,DNA,RNA,Protein,Lipid
+Chemistry,What is the term for the combination of two or more elements in a fixed ratio?,Compound,Mixture,Molecule,Solution
+Physics,What is the term for the rate at which an object changes velocity?,Acceleration,Velocity,Speed,Distance
+Biology,What is the term for the process by which organisms convert glucose into energy?,Cellular Respiration,Photosynthesis,Fermentation,Assimilation
+Chemistry,What is the term for a substance that speeds up a chemical reaction without being consumed in the reaction?,Catalyst,Reactant,Product,Enzyme
+Physics,What is the term for the force that opposes motion between two surfaces in contact?,Friction,Gravity,Momentum,Tension
+Biology,What is the name for the female reproductive cell?,Egg,Sperm,Zygote,Embryo
+Chemistry,What is the term for a solution with a pH greater than 7?,Basic,Acidic,Neutral,Aqueous
+Physics,What law states that the pressure of a gas increases as its volume decreases and vice versa| at a constant temperature?,Boyle's Law,Charles's Law,Ohm's Law,Newton's Third Law
+Biology,What is the term for a change in DNA that is passed from parent to offspring?,Mutation,Allele,Phenotype,Genotype
+Chemistry,What is the term for a solution with a pH less than 7?,Acidic,Basic,Neutral,Aqueous
+Physics,What is the term for energy in motion?,Kinetic,Potential,Thermal,Electrical
+Biology,What is the process by which proteins are synthesized from RNA instructions?,Translation,Transcription,Replication,Recombination
+Chemistry,What is the term for the number of protons in the nucleus of an atom?,Atomic Number,Mass Number,Atomic Weight,Electronegativity
+Physics,What law states that the ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant for a given pair of media?,Snell's Law,Ohm's Law,Boyle's Law,Newton's Second Law
+Biology,What is the term for a molecule consisting of three fatty acids and one glycerol molecule?,Triglyceride,Monosaccharide,Polysaccharide,Amino Acid
+Chemistry,What is the term for a type of bond in which electrons are transferred from one atom to another?,Ionic,Covalent,Hydrogen,Van der Waals
+Physics,What is the term for force exerted by air molecules?,Air Pressure,Wind Speed,Temperature,Humidity
+Biology,What is the term for the process by which traits are passed from parent to offspring?,Heritability,Variation,Adaptation,Inheritance
+Chemistry,What is the term for a substance that has a pH of exactly 7?,Neutral,Basic,Acidic,Aqueous
+Physics,What law states that the pressure of a gas is directly proportional to its temperature| at a constant volume?,Charles's Law,Boyle's Law,Ohm's Law,Newton's Second Law
+Biology,What is the term for the process by which an organism's body maintains stability in its internal environment?,Homeostasis,Adaptation,Natural Selection,Evolution
+Chemistry,What is the term for the amount of heat required to raise the temperature of 1 gram of a substance by 1 degree Celsius?,Specific Heat,Heat Capacity,Molar Mass,Molar Heat
+Physics,What is the formula for calculating electric power?,P=IV,P=V^2/R,P=W/t,P=Fv
+Biology,What is the term for a diagram that shows the evolutionary history of a group of organisms?,Phylogenetic Tree,Population Graph,Interbreeding Chart,Fossil Record
+Chemistry,What is the term for a bond in which the electrons are shared equally between two atoms?,Nonpolar Covalent,Polar Covalent,Ionic,Hydrogen
+Physics,What is the term for the rate of flow of electric charge?,Current,Voltage,Resistance,Conductance
+Biology,What is the term for the process by which an organism's behavior is modified by its experiences?,Learning,Instinct,Innate Behavior,Classical Conditioning
+Chemistry,What is the term for the measure of the acidity or basicity of a solution?,pH,Enthalpy,Entropy,Gibbs Free Energy
+Physics,What is the term for the result of the division of power by current?,Resistance,Voltage,Conductance,Impedance
+Biology,What is the term for the variety of different species in a given ecosystem?,Biodiversity,Ecosystem Services,Habitat Diversity,Sustainability

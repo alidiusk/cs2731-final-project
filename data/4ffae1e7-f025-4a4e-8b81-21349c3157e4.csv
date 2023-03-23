@@ -1,0 +1,49 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Chloroplast
+Chemistry,What is the chemical symbol for silver?,Ag,Au,Al,Fe
+Physics,What is the formula for force?,F=ma,F=mv,F=md,F=me
+Biology,What causes malaria?,Parasites,Bacteria,Viruses,Fungi
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,NH4
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,300|000 m/s,30|000 m/s,300 m/s
+Biology,What are the four basic types of tissues found in animals?,Epithelial| Connective| Muscle| Nervous,Skin| Bone| Blood| Cartilage,Mucus| Fatty| Fibrous| Scar,Digestive| Respiratory| Reproductive| Circulatory
+Chemistry,What is the pH scale used to measure?,Acidity or Alkalinity,Temperature,Pressure,Volume
+Physics,What is Newton's first law of motion?,An object in motion tends to stay in motion unless acted upon by an outside force.,Force equals mass times acceleration.,For every action| there is an equal and opposite reaction.,An object at rest tends to stay at rest unless acted upon by an outside force.
+Biology,What is the largest organ in the human body?,Skin,Liver,Heart,Brain
+Chemistry,What is H2SO4 more commonly known as?,Sulfuric Acid,Hydrochloric Acid,Acetic Acid,Nitric Acid
+Physics,What is the formula for power?,P=W/t,P=mv^2/2,P=Fv,P=mg
+Biology,What is the process by which cells divide into new cells called?,Cell division,Cell differentiation,Mitosis,Meiosis
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Pt
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transferred or transformed.,Energy is always conserved in a closed system.,Energy can be destroyed| but not created.,Energy can be created or destroyed| but only in equal amounts.
+Biology,What is the smallest bone in the human body?,Stapes,Femur,Humerus,Radius
+Chemistry,What is the most abundant element in the universe?,Hydrogen,Oxygen,Carbon,Nitrogen
+Physics,What is the formula for acceleration?,a=(vf-vi)/t,a=F/m,a=gt,a=d/t
+Biology,What is the function of the pancreas?,Produce enzymes to aid in digestion,Produce insulin to regulate blood sugar,Pump blood through the body,Filter waste from the blood
+Chemistry,What is the chemical formula for methane?,CH4,CO2,H2O,NH3
+Physics,What is the formula for work?,W=F*d,W=mv^2/2,W=Fv,W=P/t
+Biology,What are the four types of biomolecules?,Carbohydrates| Lipids| Proteins| Nucleic Acids,Sugars| Fats| Amino Acids| DNA,Vitamins| Minerals| Fiber| Water,Sugars| Fats| Nucleotides| Peptides
+Chemistry,What type of reaction occurs when two or more substances combine to form a single product?,Synthesis,Decomposition,Single Replacement,Double Replacement
+Physics,What is the formula for momentum?,p=mv,p=F*t,p=F/d,p=P/V
+Biology,What is the function of the red blood cells?,To transport oxygen and carbon dioxide,To fight infection and foreign invaders,To filter waste and impurities,To produce and release hormones
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,NaCl,C6H12O6
+Physics,What is the formula for kinetic energy?,KE=mv^2/2,KE=F*d,KE=P/t,KE=mg
+Biology,What is the function of the white blood cells?,To fight infection and foreign invaders,To transport oxygen and carbon dioxide,To filter waste and impurities,To produce and release hormones
+Chemistry,What is the chemical formula for table salt?,NaCl,KCl,CuSO4,HCl
+Physics,What is the formula for gravitational force?,F=G(m1*m2)/d^2,F=ma,F=P/t,F=mg
+Biology,What is the function of the nervous system?,To transmit signals and control bodily functions,To pump blood through the body,To produce and release hormones,To filter waste and impurities
+Chemistry,What is the chemical formula for glucose?,C6H12O6,CO2,H2O,NaCl
+Physics,What is the formula for potential energy?,PE=mgh,PE=F*d,PE=P/t,PE=mv^2/2
+Biology,What are the three types of muscle tissue?,Skeletal| Cardiac| Smooth,Nervous| Epithelial| Connective,Pancreatic| Liver| Kidney,Endocrine| Exocrine| Adrenal
+Chemistry,What is the chemical formula for hydrochloric acid?,HCl,NaOH,HNO3,H2SO4
+Physics,What is the formula for centripetal force?,Fc=mv^2/r,Fc=Fcos(theta),Fc=P/t,Fc=Fsin(theta)
+Biology,What is the function of the circulatory system?,To transport blood and nutrients throughout the body,To filter waste and impurities,To transmit signals and control bodily functions,To produce and release hormones
+Chemistry,What is the chemical formula for ammonia?,NH3,H2SO4,NaCl,CO2
+Physics,What is the formula for torque?,T=F*d*sin(theta),T=P/t,T=mv^2/2,T=F*d*cos(theta)
+Biology,What is the function of the respiratory system?,To inhale oxygen and exhale carbon dioxide,To transport blood and nutrients throughout the body,To produce and release hormones,To filter waste and impurities
+Chemistry,What is the chemical formula for sulfuric acid?,H2SO4,HCl,NaOH,HNO3
+Physics,What is the formula for pressure?,P=F/A,P=mv^2/2,P=F*d,P=P0+rho*g*h
+Biology,What is the function of the digestive system?,To break down food and absorb nutrients,To pump blood through the body,To produce and release hormones,To filter waste and impurities
+Chemistry,What is the chemical formula for sodium hydroxide?,NaOH,HCl,HNO3,H2SO4
+Physics,What is the formula for density?,rho=m/v,rho=F/A,rho=F*d,rho=P/t
+Biology,What is the function of the musculoskeletal system?,To provide support and movement,To transport blood and nutrients throughout the body,To produce and release hormones,To filter waste and impurities
+Chemistry,What is the chemical formula for hydrofluoric acid?,HF,HCl,HNO3,H2SO4
+Physics,What is the formula for volume?,V=lwh,V=F/A,V=F*d,V=mt/P

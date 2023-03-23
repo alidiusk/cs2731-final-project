@@ -1,0 +1,53 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the formula for force?,F=ma,A=mv^2,P=mv,E=mc^2
+Chemistry,"Which element has the symbol ""Na""?",Sodium,Nitrogen,Carbon,Neon
+Biology,What is the powerhouse of the cell?,Mitochondria,Lysosome,Ribosome,Nucleus
+Physics,What is the acceleration due to gravity on Earth?,9.81 m/s^2,5.7 m/s^2,18.6 m/s^2,3.2 m/s^2
+Chemistry,What is the molecular formula for water?,H2O,CO2,NaCl,CaSO4
+Biology,What is the largest organ in the human body?,Skin,Liver,Brain,Lungs
+Physics,What is the SI unit for power?,Watt,Joule,Volt,Ampere
+Chemistry,What is the difference between an element and a compound?,An element is made of only one kind of atom| a compound is made of two or more different kinds of atoms,Molecules,Ions,An element is a type of molecule.
+Biology,What is the function of the pancreas?,Produces insulin,Pumps blood,Circulates oxygen,Digests food
+Physics,What is Ohm's Law?,V=IR,F=ma,P=IV,R=V/I
+Chemistry,What is the atomic number of carbon?,6,8,10,12
+Biology,What is the smallest unit of life?,Cell,Nucleus,Organism,DNA
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only converted from one form to another.,Energy is always decreasing.,Energy can be created or destroyed.,Energy can exist without matter.
+Chemistry,What is the atomic mass of helium?,4.003,12.011,15.999,40.078
+Biology,What is the function of the ribosomes?,Protein synthesis,Energy production,Waste removal,Cell division
+Physics,What is the formula for kinetic energy?,KE=1/2mv^2,F=ma,P=mv,E=mc^2
+Chemistry,What is the difference between a proton and a neutron?,A proton has a positive charge and a neutron has no charge.,A neutron has a positive charge and a proton has no charge.,A proton and a neutron have the same charge.,A proton and a neutron have opposite charges.
+Biology,What is the function of the mitochondria?,Produces ATP,Controls cell division,Stores genetic information,Transports nutrients
+Physics,What is the law of reflection?,The angle of incidence equals the angle of reflection.,The angle of incidence is greater than the angle of reflection.,The angle of incidence is smaller than the angle of reflection.,The angle of incidence and angle of reflection are unrelated.
+Chemistry,What is the difference between an acid and a base?,Acids have a pH less than 7 and bases have a pH greater than 7.,Acids have a pH greater than 7 and bases have a pH less than 7.,Acids and bases have the same pH.,Acids and bases are not related to pH.
+Biology,What is the function of the endoplasmic reticulum?,Transportation of materials throughout the cell.,Production of ATP,Storage of genetic information,Cell division
+Physics,What is the definition of work?,Force x Distance,Mass x Velocity,Acceleration x Time,Power x Time
+Chemistry,What is the difference between an exothermic and endothermic process?,Exothermic processes release energy| endothermic processes absorb energy.,Endothermic processes release energy| exothermic processes absorb energy.,Exothermic and endothermic processes are the same.,Exothermic processes occur in living organisms| endothermic processes occur in non-living things.
+Biology,What is the function of the nucleus?,Stores genetic information,Produces ATP,Digests food,Controls cell division
+Physics,What is the difference between speed and velocity?,Velocity includes direction| speed does not.,Speed includes direction| velocity does not.,Speed and velocity are the same.,Speed and velocity are not related.
+Chemistry,What is the difference between a molecule and a compound?,A molecule is made of two or more atoms| a compound is made of two or more different kinds of atoms.,A molecule and a compound are the same.,A molecule has a charge| a compound does not.,A molecule is found in living organisms| a compound is found in non-living things.
+Biology,What is the function of the cell membrane?,Controls what enters and leaves the cell.,Stores genetic information,Produces energy,Transports nutrients
+Physics,What is the definition of momentum?,Mass x Velocity,Force x Distance,Acceleration x Time,Power x Time
+Chemistry,What is the difference between an ionic bond and a covalent bond?,An ionic bond transfers electrons| a covalent bond shares electrons.,An ionic bond shares electrons| a covalent bond transfers electrons.,An ionic bond and a covalent bond are the same.,An ionic bond is found in living organisms| a covalent bond is found in non-living things.
+Biology,What is the function of the Golgi apparatus?,Processes and packages proteins,Stores genetic information,Produces energy,Digests food
+Physics,What is the definition of a wave?,A disturbance that travels through space and time.,A disturbance in a stationary object.,A solid object that moves through space.,A disturbance that does not travel through space and time.
+Chemistry,What is Avogadro's number?,6.022 x 10^23,3.1416,2.7183,9.8341
+Biology,What is the function of the lysosome?,Breaks down waste material,Stores genetic information,Produces energy,Transports nutrients
+Physics,What is the definition of frequency?,The number of cycles per second,The speed of light,The distance traveled divided by time,The change in velocity divided by time
+Chemistry,What is the difference between a physical change and a chemical change?,A physical change affects the form of a substance| a chemical change results in a new substance.,A physical change results in a new substance| a chemical change affects the form of a substance.,Physical and chemical changes are the same.,Physical changes occur in living organisms| chemical changes occur in non-living things.
+Biology,What is the function of the vacuole?,Storage of water and nutrients,Stores genetic information,Produces energy,Digests food
+Physics,What is the definition of pressure?,Force per unit area,Mass per unit volume,Velocity per unit time,Power per unit time
+Chemistry,What is the difference between oxidation and reduction?,Oxidation loses electrons| reduction gains electrons.,Oxidation gains electrons| reduction loses electrons.,Oxidation and reduction are the same.,Oxidation occurs in living organisms| reduction occurs in non-living things.
+Biology,What is the function of the centriole?,Aids in cell division,Controls the movement of the cell,Stores genetic information,Produces energy
+Physics,What is the definition of temperature?,The measure of the average kinetic energy of atoms or molecules in a substance.,The measure of the amount of heat in a substance.,The measure of the amount of energy in a substance.,The measure of the rate of change in a substance.
+Chemistry,What is the difference between an acid and a base?,Acids have a pH less than 7 and bases have a pH greater than 7.,Acids have a pH greater than 7 and bases have a pH less than 7.,Acids and bases have the same pH.,Acids and bases are not related to pH.
+Biology,What is the function of the nucleolus?,Produces ribosomes,Stores genetic information,Produces energy,Digests food
+Physics,What is the definition of a vector?,A physical quantity that has both magnitude and direction.,A physical quantity that has magnitude but no direction.,A physical quantity that has direction but no magnitude.,A physical quantity that has neither direction nor magnitude.
+Chemistry,What is the difference between a reactant and a product?,A reactant undergoes a chemical change| a product is the final result of a chemical change.,A product undergoes a chemical change| a reactant is the final result of a chemical change.,Reactants and products are the same.,Reactants and products are not related to chemical changes.
+Biology,What is the function of the cytoplasm?,Supports and suspends organelles,Stores genetic information,Produces energy,Digests food
+Physics,What is the definition of a scalar?,A physical quantity that has magnitude but no direction.,A physical quantity that has direction but no magnitude.,A physical quantity that has both magnitude and direction.,A physical quantity that has neither direction nor magnitude.
+Chemistry,What is the difference between polar and nonpolar molecules?,Polar molecules have an unequal distribution of electrons| nonpolar molecules have an equal distribution of electrons.,Nonpolar molecules have an unequal distribution of electrons| polar molecules have an equal distribution of electrons.,Polar and nonpolar molecules are the same.,Polar molecules are found in living organisms| nonpolar molecules are found in non-living things.
+Biology,What is the function of the cilia?,Aids in movement of the cell,Stores genetic information,Produces energy,Digests food
+Physics,What is the definition of a photon?,A particle of light,A particle of matter,A particle of heat,A particle of sound
+Chemistry,What is the difference between a molecule and a compound?,A molecule is made of two or more atoms| a compound is made of two or more different kinds of atoms.,A molecule and a compound are the same.,A molecule has a charge| a compound does not.,A molecule is found in living organisms| a compound is found in non-living things.
+Biology,What is the function of the flagella?,Aids in movement of the cell,Stores genetic information,Produces energy,Digests food
+Physics,What is the definition of a black hole?,A region in space with a gravitational pull so strong that nothing| not even light| can escape.,A region in space with no gravitational pull.,A region in space with a weak gravitational pull.,A region in space with a strong magnetic field.

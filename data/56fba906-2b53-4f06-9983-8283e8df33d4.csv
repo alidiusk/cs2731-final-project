@@ -1,0 +1,55 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is ATP?,Adenosine Triphosphate,Adenosine Monophosphate,Adenosine Diphosphate,Adenosine Tetraphosphate
+Biology,What is the function of mitochondria?,To produce energy,To store water,To produce hormones,To fight infections
+Biology,What is the correct order of levels of organization in an ecosystem| from least complex to most complex?,Organism| Population| Community| Ecosystem,Population| Ecosystem| Community| Organism,Organism| Ecosystem| Population| Community,Community| Population| Organism| Ecosystem
+Biology,What is the role of ribosomes in protein synthesis?,To create proteins,To store proteins,To break down proteins,To transport proteins
+Biology,Which of the following is a renewable resource?,Solar energy,Coal,Oil,Natural gas
+Biology,What is the function of the digestive system?,To break down food and absorb nutrients,To circulate blood,To process waste,To generate heat
+Biology,What is the largest organ in the human body?,Skin,Heart,Liver,Lungs
+Biology,What is a cell membrane made of?,Phospholipids,Proteins,Carbohydrates,Nucleic acids
+Biology,Which of the following is not a function of the liver?,Production of insulin,Detoxification of blood,Production of bile,Regulation of blood sugar levels
+Biology,What is the role of chloroplasts in photosynthesis?,To convert sunlight into energy,To store energy,To break down glucose,To transport nutrients
+Chemistry,What is the atomic number of carbon?,6,8,10,12
+Chemistry,What is the formula for water?,H2O,HO2,H3O,H2O2
+Chemistry,What is the name for a substance that speeds up a chemical reaction?,Catalyst,Reductant,Oxidant,Reactant
+Chemistry,Which of the following is a noble gas?,Argon,Oxygen,Carbon,Hydrogen
+Chemistry,What is the symbol for sodium?,Na,Ca,K,Fe
+Chemistry,What is the formula for table salt?,NaCl,CaCl2,MgCl2,KCl
+Chemistry,What is a pH of 7 considered?,Neutral,Acidic,Basic,Alkaline
+Chemistry,What is the term for a substance that dissolves in water?,Hydrophilic,Hydrophobic,Nonpolar,Polar
+Chemistry,What is the formula for methane?,CH4,CH3OH,C2H6,C2H4
+Chemistry,What is the process of turning a liquid into a gas called?,Evaporation,Condensation,Sublimation,Deposition
+Physics,What is the formula for acceleration?,a = (vf - vi)/t,a = vi/t,a = vf/t,a = vi + vf
+Physics,What is the formula for force?,F = ma,F = mv,F = pt,F = ke
+Physics,What is the formula for work?,W = Fd,W = Fa,W = mgh,W = ke
+Physics,What is the formula for power?,P = W/t,P = Fd/t,P = Fv/t,P = ma/t
+Physics,What is the formula for energy?,E = mc^2,E = Fd,E = mgh,E = ke
+Physics,What is the formula for momentum?,p = mv,p = Fd,p = ma,p = ke
+Physics,What is the formula for velocity?,v = d/t,v = at,v = f/m,v = p/m
+Physics,What is the formula for distance?,d = vt,d = at^2,d = vf^2-vi^2/2a,d = pi r^2
+Physics,What is the formula for time?,t = d/v,t = v/a,t = F/m,t = p/mv
+Physics,What is the formula for gravity?,F = G(m1m2/r^2),F = ma,F = mgh,F = ke
+Astronomy,What is the closest star to Earth?,Proxima Centauri,Alpha Centauri,Betelgeuse,Sirius
+Astronomy,What is the largest planet in our solar system?,Jupiter,Saturn,Mars,Venus
+Astronomy,What is the name of the galaxy we live in?,Milky Way,Andromeda,Sombrero,Pinwheel
+Astronomy,What is the term for the study of the universe as a whole?,Cosmology,Astrology,Astronomy,Meteorology
+Astronomy,What is a meteor?,A small piece of rock that burn up in Earth's atmosphere,A planet outside our solar system,A comet,A large asteroid
+Astronomy,What is a nebula?,A cloud of dust and gas in space,A star going through a supernova,A planet forming around a star,Matter that has been sucked into a black hole
+Astronomy,What is the speed of light (in a vacuum)?,299|792|458 meters per second,100|000 meters per second,1|000|000 meters per second,10|000 meters per second
+Astronomy,What is the Kuiper Belt?,A region of the solar system beyond Neptune,A region of the solar system between Mars and Jupiter,A region of the solar system between Earth and Mars,A region of the solar system beyond Uranus
+Geology,What is the hardest mineral on the Mohs scale?,Diamond,Quartz,Topaz,Corundum
+Geology,What is erosion?,The process of moving rock and sediment by wind or water,The process of rocks being broken down into smaller pieces,The process of compacting sediment into rock,The process of volcanic activity
+Geology,What is the Ring of Fire?,An area around the Pacific Ocean with a lot of volcanic and earthquake activity,A region in Antarctica with lots of glaciers,A section of the Atlantic Ocean with deep underwater trenches,An area of the Sahara Desert with lots of sand dunes
+Geology,What is the name for molten rock that has erupted from a volcano?,Lava,Magma,Obsidian,Pumice
+Geology,What is the difference between weathering and erosion?,Weathering breaks down rock| erosion moves it,Erosion breaks down rock| weathering moves it,Weathering is caused by glaciers| erosion is caused by rivers,Erosion is caused by wind| weathering is caused by rain
+Geology,What is a fault?,A crack in the Earth's crust where earthquakes occur,A type of rock that is formed from lava,A mountain range that has been eroded down,A geological feature that is formed by glaciation
+Geology,What is a mineral?,A naturally occurring inorganic substance with a crystalline structure,A type of rock that can be easily eroded,A type of fossil that is found in sedimentary rock,A type of volcanic rock that has a low viscosity
+Geology,What is the process of turning sediment into rock called?,Lithification,Compaction,Erosion,Weathering
+Ecology,What is the name of the process by which plants produce oxygen?,Photosynthesis,Respiration,Fermentation,Transpiration
+Ecology,What is an ecosystem?,A community of living and nonliving things in a specific area,A group of organisms that can interbreed,A group of organisms that live in the same habitat,A group of species that have a common ancestor
+Ecology,What is the difference between a food chain and a food web?,A food chain is a linear sequence of organisms| a food web is a more complex network of organisms,A food web is a linear sequence of organisms| a food chain is a more complex network of organisms,A food chain only involves producers| a food web involves producers and consumers,A food web only involves aquatic ecosystems| a food chain involves all ecosystems
+Ecology,What is biodiversity?,The variety of life in a given area,The availability of energy in an ecosystem,The number of different species in an ecosystem,The rate at which organisms reproduce
+Ecology,What is a keystone species?,A species that has a disproportionately large effect on its environment,A species that is often hunted for its fur,A species that is rarely seen in the wild,A species that has a low population density
+Ecology,What is a carbon footprint?,The amount of carbon dioxide and other greenhouse gases emitted by a person| organization| or activity,The amount of fossil fuels used in a given area,The amount of oxygen produced by a plant,The amount of carbon dioxide absorbed by the ocean
+Ecology,What is the process by which water returns to the atmosphere from plant leaves called?,Transpiration,Evaporation,Sublimation,Condensation
+Ecology,What is the difference between renewable and nonrenewable resources?,Renewable resources can be replenished| nonrenewable resources cannot,Nonrenewable resources can be replenished| renewable resources cannot,Renewable resources are always cleaner than nonrenewable resources,Nonrenewable resources are always cheaper than renewable resources

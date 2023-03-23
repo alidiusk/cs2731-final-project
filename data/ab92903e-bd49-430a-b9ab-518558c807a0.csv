@@ -1,0 +1,47 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newton,Watt,Joule,Pascal
+Physics,Which law states that every action has an equal and opposite reaction?,Newton's Third Law,Newton's First Law,Newton's Second Law,Archimedes' Principle
+Physics,What type of energy is stored in an object due to its position or height above the ground?,Potential energy,Kinetic energy,Thermal energy,Chemical energy
+Physics,Which law of motion states that an object at rest will remain at rest unless acted upon by an external force?,Newton's First Law,Newton's Second Law,Newton's Third Law,Law of Conservation of Energy
+Physics,What is the measure of the average kinetic energy of the particles in a substance?,Temperature,Pressure,Volume,Density
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,CaCO3
+Chemistry,What is the process called by which a solid changes directly to a gas without going through the liquid phase?,Sublimation,Evaporation,Boiling,Condensation
+Chemistry,What type of bond is formed when electrons are shared between two atoms?,Covalent bond,Ionic bond,Metallic bond,Hydrogen bond
+Chemistry,What is the pH range for acidic solutions on the pH scale?,0-6,7,8-14,It depends on the solution
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Lysosome
+Biology,Which structure controls the entry and exit of molecules into and out of the cell?,Cell membrane,Nucleus,Mitochondria,Ribosome
+Biology,What is the process called by which plants use sunlight to create food?,Photosynthesis,Respiration,Fermentation,Digestion
+Biology,What is the genetic material of cells called?,DNA,RNA,ATP,Lipids
+Biology,What is the name of the rod-shaped organelles that help cells divide?,Centrioles,Golgi body,Endoplasmic reticulum,Vesicles
+Geology,What type of rock is formed from solidified lava?,igneous,sedimentary,metamorphic,none of the above
+Geology,What is an earthquake's Richter scale measurement based on?,magnitude,depth,epicenter,intensity
+Geology,What is the name for underground natural storage areas that contain groundwater?,aquifers,reservoirs,estuaries,tides
+Geology,What is the name for the outermost solid shell of the Earth?,lithosphere,asthenosphere,mesosphere,troposphere
+Geology,What type of volcano is known for having very explosive eruptions?,composite,cinder cone,shield,none of the above
+Astronomy,What is the name of the closest star to Earth| other than our sun?,Proxima Centauri,Alpha Centauri,Sirius,Betelgeuse
+Astronomy,What is the term for a small body of frozen gas| rock and dust that orbits the sun?,Comet,Asteroid,Meteor,Meteorite
+Astronomy,What is the name of the brightest planet in our solar system?,Venus,Jupiter,Mars,Mercury
+Astronomy,What is the name of the process by which stars generate energy?,Nuclear fusion,Nuclear fission,Radioactivity,Electromagnetism
+Astronomy,What is the name of the galaxy in which we live?,Milky Way,Andromeda,Sombrero,Pinwheel
+Mathematics,Which type of number can be divided exactly by 2?,Even number,Odd number,Prime number,Composite number
+Mathematics,What is the formula to find the circumference of a circle?,2πr,πr^2,4πr,2r
+Mathematics,What is the name of the branch of mathematics that deals with angles and shapes?,Geometry,Trigonometry,Calculus,Algebra
+Mathematics,What is the name of the number system that uses only the digits 0 and 1?,Binary,Decimal,Hexadecimal,Rational
+Mathematics,What is the term for the numerical value of what is left when a number is divided by a divisor?,Remainder,Quotient,Product,Sum
+Computer Science,What is the term for a device or program that connects to the internet and requests a service or resource?,Client,Server,Router,Modem
+Computer Science,What is the name of the protocol that is used to transfer data between computers on the internet?,TCP/IP,HTTP,FTP,SMTP
+Computer Science,What is the process called by which a computer program is tested for errors or bugs?,Debugging,Compiling,Coding,Designing
+Computer Science,What is the name of the programming language that is used to create web pages and applications?,HTML,Java,Python,C++
+Computer Science,What is the name of the operating system that was developed by Apple Inc.?,macOS,Windows,Linux,iOS
+Environmental Science,What is the term for the trapping of heat in the Earth's atmosphere by gases such as carbon dioxide?,Greenhouse effect,Ozone depletion,Global warming,Deforestation
+Environmental Science,What is the name of the process by which water changes from a liquid to a gas?,Evaporation,Condensation,Precipitation,Runoff
+Environmental Science,What is the term for the amount of living matter in a given habitat?,Biomass,Biodiversity,Ecology,Ecosystem
+Environmental Science,What is the name of the process by which living organisms convert light energy into chemical energy?,Photosynthesis,Cellular respiration,Fermentation,Transpiration
+Environmental Science,What is the name of the group of chemicals that are responsible for the depletion of the Earth's ozone layer?,Chlorofluorocarbons,Carbon dioxide,Methane,Nitrous oxide
+Psychology,What is the name of the theory that suggests our behavior is determined by our environment?,Behaviorism,Psychoanalysis,Humanism,Cognitive psychology
+Psychology,What is the term for the process by which we form new memories?,Encoding,Storage,Retrieval,Forgetting
+Psychology,What is the name of the theory that suggests we are motivated by our need to fulfill certain basic physiological needs?,Maslow's hierarchy of needs,Drive reduction theory,Cannon-Bard theory,Two-factor theory
+Psychology,What is the term for the branch of psychology that deals with mental processes such as thinking| memory and perception?,Cognitive psychology,Behavioral psychology,Humanistic psychology,Biological psychology
+Psychology,What is the term for the mental process by which we try to change or control our thoughts| feelings and behaviors?,Self-regulation,Self-efficacy,Self-esteem,Self-actualization

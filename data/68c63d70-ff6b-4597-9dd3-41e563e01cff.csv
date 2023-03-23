@@ -1,0 +1,52 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Chemistry,What is the atomic symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the formula for force?,F=ma,F=mv,F=md,F=me
+Biology,What is the powerhouse of the cell?,Mitochondria,Chloroplast,Nucleus,Ribosome
+Chemistry,What is the most abundant gas in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,186|282 m/s,768 mph,1 mile/hour
+Biology,What is the name of the process by which plants convert sunlight into energy?,Photosynthesis,Respiration,Digestion,Diffusion
+Chemistry,What is the chemical formula for water?,H2O,HO,H3O,H
+Physics,What is the equation for work?,W=Fd,W=F/s,W=Fd/s,W=F*d/s
+Biology,What is the name for the smallest unit of life?,Cell,Organism,Atom,Molecule
+Chemistry,What is the atomic symbol for oxygen?,O,Os,Ob,Ok
+Physics,What is the SI unit for frequency?,Hertz,Newton,Watt,Joule
+Biology,What is the name of the muscle that separates the chest from the abdomen?,Diaphragm,Heart,Lungs,Stomach
+Chemistry,What is the formula for oxygen gas?,O2,O3,O,OH
+Physics,What is the unit of measurement for distance?,Meter,Kilogram,Second,Kelvin
+Biology,What is the name of the process by which blood cells are formed?,Hematopoiesis,Respiration,Digestion,Diffusion
+Chemistry,What is the atomic symbol for carbon?,C,Cr,Co,Cu
+Physics,What is the formula for acceleration?,a=F/m,a=F/d,a=F*d,a=F*s
+Biology,What is the name of the process by which DNA is replicated?,DNA Replication,Transcription,Translation,Mitosis
+Chemistry,What is the formula for glucose?,C6H12O6,C12H22O11,CH3OH,H2O
+Physics,What is the unit of measurement for time?,Second,Meter,Kilogram,Kelvin
+Biology,What is the name of the molecule that carries genetic information?,DNA,RNA,Protein,Enzyme
+Chemistry,What is the atomic symbol for helium?,He,H,Li,Be
+Physics,What is the formula for momentum?,p=mv,p=F/m,p=F/d,p=F*s
+Biology,What is the name of the process by which proteins are synthesized?,Translation,Transcription,DNA Replication,Mitosis
+Chemistry,What is the formula for sodium chloride?,NaCl,NaOH,CaCl2,KCl
+Physics,What is the equation for power?,P=W/t,P=Fd/s,P=F/s,P=F/s*t
+Biology,What is the name of the process by which food is broken down and absorbed?,Digestion,Respiration,Diffusion,Hematopoiesis
+Chemistry,What is the atomic symbol for iron?,Fe,Fr,F,Fl
+Physics,What is the formula for potential energy?,PE=mgh,PE=F*d,PE=F/s,PE=W/t
+Biology,What is the name of the process by which cells divide into two identical cells?,Mitosis,Meiosis,Transcription,Translation
+Chemistry,What is the formula for carbon dioxide?,CO2,CO,C2O,C3O2
+Physics,What is the equation for kinetic energy?,KE=1/2mv^2,KE=F*d/s,KE=F/s,KE=W/t
+Biology,What is the name of the process by which cells break down glucose to release energy?,Cellular Respiration,Photosynthesis,Diffusion,Hematopoiesis
+Chemistry,What is the atomic symbol for copper?,Cu,Co,Cr,C
+Physics,What is the formula for electric power?,P=VI,P=V/I,P=I/V,P=I^2R
+Biology,Which organelle is responsible for protein synthesis?,Ribosome,Mitochondria,Chloroplast,Nucleus
+Chemistry,What is the formula for sulfuric acid?,H2SO4,HCl,HNO3,H3PO4
+Physics,What is the formula for electric potential energy?,PE=qV,PE=F*d/s,PE=F/s,PE=W/t
+Biology,What is the name of the process by which the body eliminates waste?,Excretion,Digestion,Respiration,Hematopoiesis
+Chemistry,What is the formula for ethanoic acid?,CH3COOH,C6H12O6,HCl,NaCl
+Physics,What is the equation for electric current?,I=q/t,I=F/d,I=F/s,I=W/P
+Biology,What is the name of the process by which information is transferred from DNA to RNA?,Transcription,Translation,DNA Replication,Mitosis
+Chemistry,What is the atomic symbol for nitrogen?,N,Ni,Na,Nb
+Physics,What is the formula for electric resistance?,R=V/I,R=I/V,R=V*t/I,R=I*t/V
+Biology,What is the name of the process by which gametes are produced?,Meiosis,Mitosis,Transcription,Translation
+Chemistry,What is the formula for methane?,CH4,H2O,CO2,C3H8
+Physics,What is the formula for electric charge?,q=It,q=IV,q=V/I,q=F/s
+Biology,Which organelle is responsible for producing ATP?,Mitochondria,Ribosome,Chloroplast,Nucleus
+Chemistry,What is the formula for ammonium nitrate?,NH4NO3,NaCl,H2SO4,CaCO3
+Physics,What is the formula for electric power in circuits with resistance?,P=I^2R,P=IV,P=I/V,R=IV
+Biology,What is the name of the process by which traits are passed from parents to offspring?,Heredity,Transcription,Translation,Mitosis

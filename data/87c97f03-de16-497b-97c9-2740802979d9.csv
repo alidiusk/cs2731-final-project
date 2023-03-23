@@ -1,0 +1,57 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Astronomy,What is the largest planet in our solar system?,Jupiter,Mars,Venus,Saturn
+Chemistry,What is the chemical symbol for Iron?,Fe,Ir,In,Io
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Chloroplast,Ribosome
+Physics,What is Newton's second law of motion?,Force equals mass times acceleration,Every action has an equal and opposite reaction,An object in motion tends to stay in motion,Energy cannot be created or destroyed
+Geology,What type of rock is formed by the cooling of magma or lava?,Igneous rock,Sedimentary rock,Metamorphic rock,Phonolite
+Biology,What are the four types of macromolecules?,Carbohydrates| Lipids| Proteins| Nucleic Acids,Sugars| Fats| Amino acids| Vitamins,Cellulose| Starch| Enzymes| DNA,Phospholipids| Hormones| Glycogen| Peptides
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Triangulum,Sombrero
+Chemistry,What is the process of a solid changing directly to a gas called?,Sublimation,Evaporation,Condensation,Melting
+Physics,What causes an object in motion to stay in motion according to Newton's first law of motion?,Inertia,Gravity,Friction,Momentum
+Geology,What type of rock is formed from the accumulation of sediment over time?,Sedimentary rock,Igneous rock,Metamorphic rock,Limestone
+Biology,What is the basic unit of life?,Cell,Atom,Molecule,Protein
+Astronomy,What is the name of the dwarf planet that was demoted from the status of a planet in 2006?,Pluto,Ceres,Eris,Haumea
+Chemistry,What is the symbol for Helium?,He,H,Li,Be
+Physics,What is the force that keeps an object in circular motion?,Centripetal force,Gravity,Magnetic force,Friction
+Geology,What is the name for the boundary between two tectonic plates?,Fault,Mid-Atlantic Ridge,Subduction zone,Transform fault
+Biology,What is the process by which genetic material is passed down from parents to offspring?,Inheritance,Replication,Translation,Transcription
+Astronomy,What is the name of the rover that has been exploring Mars since 2012?,Curiosity,Opportunity,Pathfinder,Spirit
+Chemistry,What is the process by which a gas changes to a liquid?,Condensation,Evaporation,Sublimation,Melting
+Physics,What is the SI unit for force?,Newton,Joule,Watt,Pascal
+Geology,What is the name for the process by which rocks are broken down into smaller pieces?,Weathering,Erosion,Deposition,Metamorphism
+Biology,What is the name of the organelle where proteins are made?,Ribosome,Nucleus,Mitochondria,Lysosome
+Astronomy,What is the name of the star closest to our solar system?,Proxima Centauri,Sirius,Betelgeuse,Alpha Centauri A
+Chemistry,What is the symbol for Nitrogen?,N,Ne,Na,Ni
+Physics,What is the formula for acceleration?,Acceleration = (Final Velocity-Initial Velocity)/Time,Acceleration = Force/Mass,Acceleration = Velocity/Distance,Acceleration = Energy/Time
+Geology,What is the process by which rocks change due to heat and pressure?,Metamorphism,Erosion,Weathering,Deposition
+Biology,What is the name of the molecule that carries genetic information?,DNA,RNA,Protein,Lipid
+Astronomy,What is the name of the group of stars that form a recognizable pattern?,Constellation,Galaxy,Cluster,Nebula
+Chemistry,What is the process by which a liquid changes to a gas?,Evaporation,Condensation,Sublimation,Freezing
+Physics,What is the formula for work?,Work = Force x Distance,Work = Mass x Gravity,Work = Velocity x Time,Work = Energy x Time
+Geology,What is the name of the scale used to measure the hardness of minerals?,Mohs scale,Richter scale,Beaufort scale,Mercalli scale
+Biology,What is the name of the process by which plants make their own food?,Photosynthesis,Respiration,Fermentation,Digestion
+Astronomy,What is the name of the largest volcano in our solar system?,Olympus Mons,Mauna Loa,Mount St. Helens,Etna
+Chemistry,What is the symbol for Potassium?,K,P,Po,Kr
+Physics,What is the formula for pressure?,Pressure = Force/Area,Pressure = Mass x Gravity,Pressure = Velocity x Time,Pressure = Energy/Volume
+Geology,What type of rock is formed from the alteration of existing rock through heat and pressure?,Metamorphic rock,Igneous rock,Sedimentary rock,Granite
+Biology,What is the name of the sugar found in DNA?,Deoxyribose,Ribose,Glucose,Fructose
+Astronomy,What is the name of the theory that explains the origin of the universe?,Big Bang theory,Steady State theory,Pulsating universe theory,Cosmic inflation theory
+Chemistry,What is the process by which a solid changes to a liquid?,Melting,Freezing,Condensation,Sublimation
+Physics,What is the formula for power?,Power = Work/Time,Power = Force x Distance,Power = Mass x Velocity,Power = Energy x Time
+Geology,What is the name for the study of rocks and the earth's crust?,Geology,Astronomy,Biology,Chemistry
+Biology,What is the name of the molecule that carries oxygen in the blood?,Hemoglobin,Chlorophyll,Insulin,Glucagon
+Astronomy,What is the name of the spacecraft that has been exploring Saturn since 2004?,Cassini,Voyager,Pioneer,New Horizons
+Chemistry,What is the symbol for Silver?,Ag,Au,Cu,Pt
+Physics,What is the formula for potential energy?,Potential Energy = Mass x Gravity x Height,Potential Energy = Force x Distance,Potential Energy = Mass x Velocity^2,Potential Energy = Energy/Time
+Geology,What is the name of the process by which water is cleaned and purified?,Desalination,Filtration,Distillation,Decomposition
+Biology,What is the name of the molecule that provides energy for cellular processes?,ATP,ADP,NADP,FAD
+Astronomy,What is the name of the largest moon in our solar system?,Ganymede,Titan,Callisto,Europa
+Chemistry,What is the process by which a gas changes to a solid?,Deposition,Evaporation,Sublimation,Melting
+Physics,What is the formula for velocity?,Velocity = Distance/Time,Velocity = Acceleration x Time,Velocity = Force/Mass,Velocity = Energy/Time
+Geology,What is the name of the theory that describes the movement of the earth's tectonic plates?,Plate tectonics,Mantle convection,Continental drift,Seafloor spreading
+Biology,What is the name of the process by which cells convert glucose into energy?,Cellular respiration,Photosynthesis,Fermentation,Digestion
+Astronomy,What is the name of the phenomenon by which light is bent as it passes through a medium?,Refraction,Diffraction,Reflection,Interference
+Chemistry,What is the process by which a liquid changes to a solid?,Freezing,Melting,Condensation,Sublimation
+Physics,What is the formula for acceleration due to gravity?,Acceleration due to gravity = 9.8 m/s^2,Acceleration due to gravity = 6.67 x 10^-11 Nm^2/kg^2,Acceleration due to gravity = Force/Mass,Acceleration due to gravity = Velocity/Time
+Geology,What is the name of the scale used to measure the intensity of earthquakes?,Richter scale,Mercalli scale,Moment magnitude scale,Magnitude energy release scale
+Biology,What is the name of the molecule that provides the blueprint for making proteins?,DNA,RNA,ATP,NADH

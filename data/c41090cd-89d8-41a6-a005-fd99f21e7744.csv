@@ -1,0 +1,61 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the SI unit of force?,Newton,Watt,Joule,Ohm
+Biology,What is the powerhouse of the cell?,Mitochondria,Ribosome,Nucleus,Endoplasmic reticulum
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Astronomy,What is the largest planet in our solar system?,Jupiter,Saturn,Neptune,Uranus
+Geology,What type of rock is formed from cooled lava or magma?,Igneous,Sedimentary,Metamorphic,None of the above
+Physics,What is the law of inertia?,An object at rest will remain at rest| and an object in motion will remain in motion with a constant velocity| unless acted upon by a net external force.,For every action| there is an equal and opposite reaction.,The force acting on an object is equal to the mass of the object times its acceleration.,None of the above
+Biology,What system is responsible for carrying blood throughout the body?,Circulatory,Respiratory,Digestive,Reproductive
+Chemistry,What is the pH of a neutral solution?,7,1,14,0
+Astronomy,What is the name of the galaxy that contains our solar system?,Milky Way,Andromeda,Sombrero,Whirlpool
+Geology,What type of rock is formed from the accumulation of sediment?,Sedimentary,Igneous,Metamorphic,None of the above
+Physics,What is the formula for work?,W = Fd,W = F/a,W = ma,W = P/V
+Biology,What is the function of the red blood cells?,Transport oxygen,Produce insulin,Produce bile,Break down lipids
+Chemistry,What is the name of the process when a solid turns directly into a gas?,Sublimation,Deposition,Condensation,Melting
+Astronomy,What is the name of the closest star to our solar system?,Proxima Centauri,Alpha Centauri,Beta Centauri,Gamma Centauri
+Geology,What type of rock is formed from the alteration of existing rock through heat and pressure?,Metamorphic,Igneous,Sedimentary,None of the above
+Physics,What is the formula for acceleration?,a = (v2 - v1)/(t2 - t1),a = F/m,a = m/F,a = P/V
+Biology,What is the function of the liver?,Breaks down toxins,Produces bile,Stores glucose,All of the above
+Chemistry,What is the name of the process when a gas turns directly into a solid?,Deposition,Sublimation,Condensation,Melting
+Astronomy,What is the name of the planet with the longest day of any planet in our solar system?,Venus,Mercury,Jupiter,Mars
+Geology,What type of rock is formed from the cooling and solidification of lava or magma?,Igneous,Sedimentary,Metamorphic,None of the above
+Physics,What is the formula for momentum?,p = mv,p = Fd,p = ma,p = P/V
+Biology,What is the function of the kidneys?,Regulate water and salt balance,Filter the blood,Produce hormones,All of the above
+Chemistry,What is the process called when a metal reacts with oxygen to form rust?,Oxidation,Reduction,Combustion,Ionization
+Astronomy,What is the name of the asteroid belt located between Mars and Jupiter?,The Main Belt,The Kuiper Belt,The Oort Cloud,The Scattered Disk
+Geology,What type of rock is formed from the cooling and crystallization of magma below the surface of the Earth?,Intrusive Igneous,Extrusive Igneous,Metamorphic,None of the above
+Physics,What is the formula for electric power?,P = IV,P = I/R,P = V/R,P = RI2
+Biology,What is the largest organ in the human body?,Skin,Liver,Heart,Lungs
+Chemistry,What is the name of the process when a gas turns directly into a liquid?,Condensation,Deposition,Sublimation,Melting
+Astronomy,What is the name of the nearest dwarf planet to our solar system?,Eris,Pluto,Ceres,Haumea
+Geology,What type of rock is formed from the alteration of existing rock through heat and pressure| with partial melting?,Migmatite,Slate,Marble,Sandstone
+Physics,What is the formula for electric resistance?,R = V/I,R = P/V,R = I/V,R = V/P
+Biology,What is the function of the pancreas?,Produces insulin and digestive enzymes,Filters blood,Regulates water and salt balance,Produces bile
+Chemistry,What is the name of the process when a liquid turns into a gas?,Evaporation,Condensation,Sublimation,Melting
+Astronomy,What is the name of the spacecraft that landed on the surface of Mars in 2012?,Curiosity,Opportunity,Spirit,Sojourner
+Geology,What type of rock is formed from the alteration of existing rock through heat and pressure| without melting?,Metamorphic,Igneous,Sedimentary,None of the above
+Physics,What is the formula for electric current?,I = V/R,I = P/V,I = R/V,I = Q/t
+Biology,What is the function of the respiratory system?,Exchange gases,Pump blood,Digest food,Filter blood
+Chemistry,What is the name of the process when a gas turns into a liquid?,Condensation,Evaporation,Sublimation,Melting
+Astronomy,What is the name of the brightest star in the night sky?,Sirius,Canopus,Alpha Centauri,Vega
+Geology,What type of rock is formed from the accumulation of organic material| such as shells or plant matter?,Sedimentary,Igneous,Metamorphic,None of the above
+Physics,What is the formula for electric potential energy?,PE = qV,PE = Fd,PE = ma,PE = P/V
+Biology,What is the function of the nervous system?,Transmit signals between the brain and body,Filter blood,Digest food,Produce bile
+Chemistry,What is the name of the process when a solid turns into a liquid?,Melting,Evaporation,Condensation,Sublimation
+Astronomy,What is the name of the smallest planet in our solar system?,Mercury,Venus,Mars,Pluto
+Geology,What type of rock is formed from the accumulation of volcanic ash or dust?,Tuff,Breccia,Sandstone,Limestone
+Physics,What is the formula for electric charge?,Q = It,Q = V/R,Q = P/V,Q = ma
+Biology,What is the function of the skeletal system?,Provide support and protection,Exchange gases,Pump blood,Digest food
+Chemistry,What is the name of the process when a liquid turns directly into a gas| without passing through a solid phase?,Boiling,Evaporation,Sublimation,Condensation
+Astronomy,What is the name of the dwarf planet with a highly eccentric orbit that takes it farther from the Sun than Neptune?,Sedna,Haumea,Eris,Makemake
+Geology,What type of rock is formed from the alteration of existing rock through mechanical forces| such as pressure or friction?,Fault breccia,Mylonite,Quartzite,Arkose
+Physics,What is the formula for the force of gravity between two objects?,F = G(m1m2)/r^2,F = ma,F = P/V,F = IV
+Biology,What is the function of the muscular system?,Generate movement,Exchange gases,Pump blood,Digest food
+Chemistry,What is the name of the process when a solid turns directly into a gas| without passing through a liquid phase?,Sublimation,Deposition,Condensation,Melting
+Astronomy,What is the name of the planet with the highest average surface temperature in our solar system?,Venus,Mercury,Jupiter,Mars
+Geology,What type of rock is formed from the alteration of existing rock through chemical processes| such as dissolution or recrystallization?,Metamorphic,Igneous,Sedimentary,None of the above
+Physics,What is the formula for the frequency of a wave?,f = 1/T,f = v/d,f = Q/t,f = P/V
+Biology,What is the function of the circulatory system?,Transport blood throughout the body,Exchange gases,Digest food,Produce insulin
+Chemistry,What element is represented by the chemical symbol O?,Oxygen,Gold,Silver,Carbon
+Astronomy,What is the name of the spacecraft that has visited both Jupiter and Saturn?,Cassini,Voyager,New Horizons,Galileo
+Geology,What type of rock is formed from the accumulation of mineral crystals from a solution| usually in a body of water?,Chemical sedimentary,Organic sedimentary,Clastic sedimentary,None of the above

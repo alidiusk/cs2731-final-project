@@ -1,0 +1,62 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the formula for calculating velocity?,v = d/t,a = (vf - vi)/t,d = (vi + vf)t,d = vt + 1/2at^2
+Biology,What is the smallest unit of life?,cell,organism,tissue,DNA
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the formula for calculating work?,W = Fd,W = mgh,W = pt,W = v/t
+Biology,What is the process by which plants convert light energy into chemical energy?,photosynthesis,respiration,evaporation,condensation
+Chemistry,What is the chemical symbol for oxygen?,O,H,N,C
+Physics,What is Newton's First Law of Motion?,An object at rest will remain at rest| and an object in motion will remain in motion| with a constant velocity| unless acted upon by a net external force.,The force acting on an object is equal to the product of its mass and its acceleration.,Every action has an equal and opposite reaction.,None of the above.
+Biology,What is the name of the process by which cells divide?,mitosis,meiosis,replication,transcription
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,O2
+Physics,What is the formula for calculating acceleration?,a = (vf - vi)/t,v = d/t,F = ma,d = vt + 1/2at^2
+Biology,What is the name for a group of similar cells that work together to perform a specific function?,tissue,organ,organ system,organism
+Chemistry,What is the name for a substance composed of two or more different elements that can be separated by chemical means?,compound,element,mixture,solution
+Physics,What is Newton's Second Law of Motion?,The force acting on an object is equal to the product of its mass and its acceleration.,An object at rest will remain at rest| and an object in motion will remain in motion| with a constant velocity| unless acted upon by a net external force.,Every action has an equal and opposite reaction.,None of the above.
+Biology,What is the name for the process by which organisms obtain energy from food?,respiration,photosynthesis,evolution,reproduction
+Chemistry,What is the name for a homogeneous mixture of two or more substances?,solution,compound,mixture,element
+Physics,What is Newton's Third Law of Motion?,Every action has an equal and opposite reaction.,An object at rest will remain at rest| and an object in motion will remain in motion| with a constant velocity| unless acted upon by a net external force.,The force acting on an object is equal to the product of its mass and its acceleration.,None of the above.
+Biology,What is the name for the process by which DNA is copied?,replication,transcription,translation,mutation
+Chemistry,What is the name for a substance composed of only one type of atom?,element,compound,mixture,solution
+Physics,What is the formula for calculating momentum?,p = mv,W = Fd,d = vt + 1/2at^2,v = d/t
+Biology,What is the name for the process by which organisms produce offspring?,reproduction,evolution,respiration,photosynthesis
+Chemistry,What is the name for a type of chemical bond in which electrons are shared between atoms?,covalent bond,ionic bond,metallic bond,hydrogen bond
+Physics,What is the formula for calculating force?,F = ma,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the process by which genes are expressed?,transcription,translation,replication,mutation
+Chemistry,What is the name for a type of chemical bond in which electrons are transferred from one atom to another?,ionic bond,covalent bond,metallic bond,hydrogen bond
+Physics,What is the formula for calculating weight?,W = mg,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the process by which RNA is produced from DNA?,transcription,translation,replication,mutation
+Chemistry,What is the name for a type of substance that cannot be broken down into simpler substances by chemical means?,element,compound,mixture,solution
+Physics,What is the formula for calculating power?,P = W/t,P = Fv,P = pt,P = Wd
+Biology,What is the name for the process by which proteins are produced?,translation,transcription,replication,mutation
+Chemistry,What is the name for a type of bond that forms between two molecules due to an attraction between opposite charges?,ionic bond,covalent bond,metallic bond,hydrogen bond
+Physics,What is the formula for calculating gravitational potential energy?,U = mgh,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the process by which organisms change over time?,evolution,reproduction,respiration,photosynthesis
+Chemistry,What is the name for a type of bond in which electrons are free to move throughout the material?,metallic bond,ionic bond,covalent bond,hydrogen bond
+Physics,What is the formula for calculating kinetic energy?,K = 1/2mv^2,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for a heritable characteristic that increases an organism's chance of survival and reproduction?,adaptation,mutation,variation,hybridization
+Chemistry,What is the name for a type of mixture that is not uniform throughout?,heterogeneous mixture,homogeneous mixture,compound,molecule
+Physics,What is the formula for calculating potential energy?,U = mgh,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the collective group of all the genes in an organism?,genome,allele,chromosome,DNA
+Chemistry,What is the name for a type of mixture that is uniform throughout?,homogeneous mixture,heterogeneous mixture,compound,molecule
+Physics,What is the formula for calculating electric power?,P = IV,P = Fv,P = pt,P = Wd
+Biology,What is the name for the process by which organisms with favorable traits are more likely to survive and reproduce?,natural selection,artificial selection,hybridization,genetic engineering
+Chemistry,What is the name for the type of bond that forms when two atoms share electrons unequally?,polar covalent bond,nonpolar covalent bond,ionic bond,metallic bond
+Physics,What is the formula for calculating electric current?,I = Q/t,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the process by which desirable traits are selectively bred in plants and animals?,artificial selection,natural selection,hybridization,genetic engineering
+Chemistry,What is the name for the type of bond that forms when two atoms share electrons equally?,nonpolar covalent bond,polar covalent bond,ionic bond,metallic bond
+Physics,What is the formula for calculating electric charge?,Q = It,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the study of how organisms interact with each other and their environment?,ecology,evolution,microbiology,zoology
+Chemistry,What is the name for the attractive forces between molecules in a liquid or gas?,van der Waals forces,ionic bonds,covalent bonds,metallic bonds
+Physics,What is the formula for calculating electric potential?,V = W/Q,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the process by which cells break down glucose to produce ATP?,cellular respiration,photosynthesis,replication,transcription
+Chemistry,What is the name for the process by which an atom gains or loses electrons?,oxidation-reduction,ionization,polarization,acid-base neutralization
+Physics,What is the formula for calculating electrical resistance?,R = V/I,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the process by which a virus enters a host cell and takes over the cell's machinery to reproduce?,viral infection,lytic infection,lysogenic infection,transduction
+Chemistry,What is the name for the process by which light is absorbed and converted into chemical energy in plants?,photosynthesis,respiration,combustion,ionization
+Physics,What is the formula for calculating electrical power?,P = IV,W = Fd,p = mv,E = Pt
+Biology,What is the name for the process by which RNA is produced from DNA?,transcription,translation,replication,mutation
+Chemistry,What is the name for the type of chemical reaction that releases energy?,exothermic reaction,endothermic reaction,oxidation-reduction reaction,acid-base neutralization reaction
+Physics,What is the formula for calculating electrical work?,W = VIt,W = Fd,p = mv,a = (vf - vi)/t
+Biology,What is the name for the process by which organisms exchange gases with their environment?,respiration,photosynthesis,absorption,transpiration
+Chemistry,What is the name for the type of chemical reaction that absorbs energy?,endothermic reaction,exothermic reaction,oxidation-reduction reaction,acid-base neutralization reaction
+Physics,What is the formula for calculating electrical energy?,E = Pt,W = Fd,p = mv,a = (vf - vi)/t

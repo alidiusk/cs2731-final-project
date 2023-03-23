@@ -1,0 +1,55 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,What is the formula for work?,W=Fd,W=Ft,W=mv^2,W=ma
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Fe,Cu
+Biology,What is the function of the mitochondria?,To generate energy,To process waste,To synthesize proteins,To store DNA
+Physics,What is the formula for kinetic energy?,KE=1/2mv^2,KE=mgh,KE=Fd,KE=ma
+Chemistry,What is the chemical symbol for carbon?,C,O,H,N
+Biology,What is the function of the ribosomes?,To synthesize proteins,To generate energy,To process waste,To store DNA
+Physics,What is the formula for power?,P=W/t,P=Fv,P=F/d,P=mv^2
+Chemistry,What is the chemical symbol for iron?,Fe,Au,Ag,Cu
+Biology,What is the function of the nucleus?,To store DNA,To generate energy,To synthesize proteins,To process waste
+Physics,What is the formula for momentum?,p=mv,p=Ft,p=W/t,p=F/d
+Chemistry,What is the chemical symbol for hydrogen?,H,O,C,N
+Biology,What is the function of the cell membrane?,To control what enters and exits the cell,To generate energy,To process waste,To synthesize proteins
+Physics,What is the law of conservation of energy?,Energy cannot be created nor destroyed| only transferred,Energy is created when an object is moved,Energy can be both created and destroyed,Energy is only transferred when an object is at rest
+Chemistry,What is the chemical symbol for oxygen?,O,H,C,N
+Biology,What is the function of the Golgi apparatus?,To process and package proteins,To generate energy,To process waste,To store DNA
+Physics,What is the relationship between force| mass| and acceleration?,F=ma,F=mv,F=ma^2,F=md
+Chemistry,What is the chemical symbol for nitrogen?,N,O,H,C
+Biology,What is the function of the endoplasmic reticulum?,To synthesize and transport proteins,To generate energy,To process waste,To store DNA
+Physics,What is the formula for acceleration?,a=F/m,a=Ft,a=mv^2,a=W/t
+Chemistry,What is the chemical symbol for silver?,Ag,Au,Fe,Cu
+Biology,What is the function of the lysosomes?,To break down waste,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for gravitational force?,F=Gm1m2/d^2,F=ma,F=mv^2,F=W/t
+Chemistry,What is the chemical symbol for copper?,Cu,Au,Ag,Fe
+Biology,What is the function of the vacuole?,To store water and waste,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for density?,D=m/v,D=Ft,D=F/d,D=W/t
+Chemistry,What is the chemical symbol for helium?,He,O,H,C
+Biology,What is the function of the chloroplasts?,To conduct photosynthesis,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for electric power?,P=IV,P=V/R,P=IR,P=VI
+Chemistry,What is the chemical symbol for calcium?,Ca,Au,Ag,Cu
+Biology,What is the function of the cytoskeleton?,To provide structure and support,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for electric current?,I=V/R,I=P/V,I=P/R,I=V/P
+Chemistry,What is the chemical symbol for sodium?,Na,O,H,C
+Biology,What is the function of the centrioles?,To assist with cell division,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for Ohm's Law?,V=IR,V=I/R,V=P/I,V=P/R
+Chemistry,What is the chemical symbol for potassium?,K,Au,Ag,Cu
+Biology,What is the function of the flagella?,To aid in cell movement,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for electric resistance?,R=V/I,R=P/I,R=P/V,R=VI
+Chemistry,What is the chemical symbol for phosphorus?,P,O,H,C
+Biology,What is the function of the peroxisomes?,To remove toxic substances,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for capacitance?,C=Q/V,C=V/Q,C=IR,C=I/R
+Chemistry,What is the chemical symbol for sulfur?,S,Au,Ag,Cu
+Biology,What is the function of the centrosome?,To organize microtubules for cell division,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for electric charge?,Q=It,Q=Vt,Q=IR,Q=P/V
+Chemistry,What is the chemical symbol for chlorine?,Cl,O,H,C
+Biology,What is the function of the nucleolus?,To synthesize ribosomes,To generate energy,To process waste,To store DNA
+Physics,What is the formula for electric potential energy?,PE=qV,PE=mv^2,PE=W/t,PE=F/d
+Chemistry,What is the chemical symbol for neon?,Ne,Au,Ag,Cu
+Biology,What is the function of the microvilli?,To increase surface area for absorption,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for electric field strength?,E=F/q,E=Fd,E=mv^2,E=W/t
+Chemistry,What is the chemical symbol for magnesium?,Mg,O,H,C
+Biology,What is the function of the cilia?,To move fluid and debris,To generate energy,To synthesize proteins,To store DNA
+Physics,What is the formula for magnetic force?,F=qvB,F=ma,F=W/t,F=F/d
+Chemistry,What is the chemical symbol for neon?,Ne,Au,Ag,Cu
+Biology,What is the function of the nucleoid?,To store bacterial DNA,To generate energy,To process waste,To synthesize proteins

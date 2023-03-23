@@ -1,0 +1,58 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the smallest unit of life?,Cell,Gene,Organ,Atom
+Chemistry,What is the atomic number of oxygen?,8,16,10,18
+Physics,What is the formula for acceleration?,a = (v_f - v_i) / t,a = v_f * v_i / t,a = v_f + v_i / t,a = v_f - v_i * t
+Biology,What is the process by which plants convert sunlight into energy?,Photosynthesis,Respiration,Fermentation,Digestion
+Chemistry,What is the pH of a neutral solution?,7,1,14,0
+Physics,What is the SI unit for power?,Watt,Joule,Volt,Ampere
+Biology,What is the function of red blood cells?,Transport oxygen,Fight infections,Digest food,Produce energy
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Pt
+Physics,What is Newton's first law of motion?,An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.,Force equals mass times acceleration.,Every action has an equal and opposite reaction.,The total amount of energy in a closed system remains constant.
+Biology,What protein is responsible for muscle contraction?,Actin-Myosin,Collagen,Keratin,Elastin
+Chemistry,What is the chemical formula for water?,H2O,CO2,CH4,NaCl
+Physics,What is the formula for potential energy?,PE = mgh,PE = mv^2 / 2,PE = Fd,PE = kx^2 / 2
+Biology,What is the function of the pancreas?,Regulate blood sugar,Digest food,Produce bile,Filter blood
+Chemistry,What is the chemical formula for methane?,CH4,CO2,H2O,NaCl
+Physics,What is the formula for work?,W = Fd,W = mgh,W = PE + KE,W = mv^2 / 2
+Biology,What is the process by which animals convert glucose into energy?,Respiration,Photosynthesis,Fermentation,Digestion
+Chemistry,What is the chemical formula for glucose?,C6H12O6,H2O,CO2,NaCl
+Physics,What is the formula for force?,F = ma,F = PE / d,F = KE / v^2,F = pA
+Biology,What is the function of white blood cells?,Fight infections,Transport oxygen,Digest food,Produce energy
+Chemistry,What is the chemical symbol for sodium?,Na,K,Ca,Ba
+Physics,What is the velocity of an object if it travels 10 meters in 2 seconds?,5 m/s,2.5 m/s,20 m/s,50 m/s
+Biology,What is the function of the liver?,Produce bile,Filter blood,Digest food,Regulate blood sugar
+Chemistry,What is the chemical formula for hydrochloric acid?,HCl,H2SO4,HNO3,H3PO4
+Physics,What is the formula for impulse?,J = FΔt,J = mΔv,J = W / t,J = P / A
+Biology,What is the process by which food is broken down into simpler molecules in the body?,Digestion,Respiration,Photosynthesis,Fermentation
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,CH4,NaCl
+Physics,What is the formula for momentum?,p = mv,p = FΔt,p = W / t,p = KE + PE
+Biology,What is the function of the kidneys?,Filter blood,Digest food,Produce bile,Regulate blood sugar
+Chemistry,What is the chemical formula for table salt?,NaCl,KCl,CaCl2,MgCl2
+Physics,What is the formula for centripetal force?,Fc = mv^2 / r,Fc = Fg + Fn,Fc = kx,Fc = P / A
+Biology,What is the process by which cells divide?,Mitosis,Meiosis,Photosynthesis,Respiration
+Chemistry,What is the chemical formula for sulfuric acid?,H2SO4,HCl,HNO3,H3PO4
+Physics,What is the formula for density?,d = m / v,d = v / m,d = m + v,d = m * v
+Biology,What is the function of the heart?,Pump blood,Digest food,Produce bile,Filter blood
+Chemistry,What is the chemical formula for ammonia?,NH3,N2O,H2O2,Na2CO3
+Physics,What is the formula for period of a wave?,T = 1 / f,T = f / 2,T = λ / f,T = λ * f
+Biology,What is the process by which the body eliminates waste?,Excretion,Digestion,Respiration,Photosynthesis
+Chemistry,What is the chemical formula for sulfur dioxide?,SO2,CO2,NO2,Cl2
+Physics,What is the formula for torque?,τ = r x F,τ = F x d,τ = P / t,τ = W / t
+Biology,What is the function of the lungs?,Exchange gases,Digest food,Produce bile,Regulate blood sugar
+Chemistry,What is the chemical formula for hydrofluoric acid?,HF,HCl,H2SO4,H3PO4
+Physics,What is the formula for escape velocity?,Ve = sqrt(2GM / r),Ve = GM / r,Ve = Fg / m,Ve = PE / m
+Biology,What is the process by which DNA is copied?,Replication,Transcription,Translation,Mutation
+Chemistry,What is the chemical formula for calcium carbonate?,CaCO3,NaHCO3,Na2CO3,K2CO3
+Physics,What is the formula for resistance in a circuit?,R = V / I,R = I / V,R = P / I^2,R = P / V^2
+Biology,What is the function of the brain?,Control body functions,Digest food,Produce bile,Filter blood
+Chemistry,What is the chemical formula for acetic acid?,CH3COOH,HCl,H2SO4,H3PO4
+Physics,What is the formula for power in a circuit?,P = IV,P = I^2R,P = V^2 / R,P = R / I^2
+Biology,What is the process by which genetic information is used to make proteins?,Translation,Transcription,Replication,Mutation
+Chemistry,What is the chemical formula for sodium bicarbonate?,NaHCO3,CaCO3,Na2CO3,K2CO3
+Physics,What is the formula for capacitance in a circuit?,C = Q / V,C = V / Q,C = F / k,C = P / t
+Biology,What is the function of the stomach?,Digest food,Produce bile,Filter blood,Regulate blood sugar
+Chemistry,What is the chemical formula for sodium hydroxide?,NaOH,KOH,Ca(OH)2,Mg(OH)2
+Physics,What is the formula for total resistance in a circuit?,R = R1 + R2 + R3,1/R = 1/R1 + 1/R2 + 1/R3,R = V / I,R = I / V
+Biology,What is the process by which proteins are broken down into amino acids in the body?,Protein hydrolysis,Protein synthesis,Protein denaturation,Protein folding
+Chemistry,What is the chemical formula for sodium chloride?,NaCl,KCl,CaCl2,MgCl2
+Physics,What is the formula for magnetic force?,F = qvB,F = Gm1m2 / r^2,F = keq1q2 / r^2,F = ma

@@ -1,0 +1,47 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Astronomy,What is the name of the largest planet in our solar system?,Jupiter,Mars,Venus,Saturn
+Physics,What is Newton's second law?,F=ma,E=mc^2,F=G(m1m2)/r^2,P=rhogh
+Chemistry,What is the chemical symbol for potassium?,K,P,N,O
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Cell membrane
+Geology,What is the biggest layer of the Earth called?,Mantle,Crust,Core,Oceanic layer
+Physics,What is the unit of power?,Watt,Joule,Newton,Meters per second
+Astronomy,How long does it take the Earth to make one revolution around the sun?,365.24 days,24 hours,1 month,1 year
+Biology,What is the smallest unit of life?,Cell,Atom,Molecule,Gene
+Chemistry,What is the atomic number of carbon?,6,8,10,12
+Geology,What is the hardest mineral on earth?,Diamond,Quartz,Topaz,Corundum
+Physics,What is the formula for frequency?,f=1/T,T=1/f,f=T/2,T=f/2
+Astronomy,What is the name of the closest star to our solar system?,Proxima Centauri,Alpha Centauri,Sirius,Vega
+Biology,What are the four nitrogenous bases found in DNA?,A| C| G| T,U| C| G| A,A| C| T| U,G| T| A| U
+Chemistry,What is the molecular formula for water?,H2O,CO2,NH3,CH4
+Geology,What rock type is formed from solidified lava?,Igneous,Sedimentary,Metamorphic,Rhyolite
+Physics,What is the formula for the force of gravity?,F=G(m1m2)/r^2,F=ma,F=pv,F=mgh
+Astronomy,What is the dwarf planet in our solar system that was formerly known as the ninth planet?,Pluto,Eris,Ceres,Makemake
+Biology,What is the powerhouse of the cell in plant cells?,Chloroplasts,Cell wall,Nucleus,Ribosome
+Chemistry,What is the most abundant gas in Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Methane
+Geology,What type of rock is formed from the accumulation of organic debris?,Sedimentary,Igneous,Metamorphic,Granite
+Physics,What is the formula for work?,W=F*d,W=F/m,W=m*v,W=pv
+Astronomy,What is the name of the meteor shower that occurs in August?,Perseids,Geminids,Leonids,Orionids
+Biology,What is the name of the process by which plants make food?,Photosynthesis,Respiration,Digestion,Assimilation
+Chemistry,What is the balanced equation for the reaction between hydrogen and oxygen to form water?,2H2 + O2 → 2H2O,H2O + CO2 → H2CO3,2HCl + Na2CO3 → 2NaCl + H2O + CO2,CH4 + 2O2 → CO2 + 2H2O
+Geology,What is the name given to a fracture in Earth's crust where movement occurs?,Fault,Fissure,Crevasse,Crack
+Physics,What is the formula for power?,P=W/t,P=F*v,P=F/d,P=E/t
+Astronomy,What is the name of the largest moon in the solar system?,Ganymede,Titan,Io,Europa
+Biology,What is the name of the molecule that carries genetic information in cells?,DNA,RNA,ATP,ADP
+Chemistry,What is the atomic number of oxygen?,8,6,10,12
+Geology,What is the name of the major tectonic plates?,Pacific| North American| South American| African| Eurasian| Australian| Antarctic,Pacific| Atlantic| Indian| Antarctic| Eurasian| African| Australian,South American| North American| African| Asian| European| Oceanic| Antarctic,Indian| Atlantic| South American| African| Pacific| Antarctic| Eurasian
+Physics,What is the formula for acceleration?,a=F/m,a=v/t,a=d/t,a=v^2/r
+Astronomy,What is the name of the largest constellation in the night sky?,Hydra,Orion,Ursa Major,Virgo
+Biology,What is the process by which cells divide into two genetically identical daughter cells?,Mitosis,Meiosis,Photosynthesis,Respiration
+Chemistry,What is the name of the process by which substances pass through a membrane from high concentration to low concentration?,Diffusion,Osmosis,Active transport,Passive transport
+Geology,What is the name of the type of boundary where two tectonic plates move apart?,Divergent,Convergent,Transform,Transverse
+Physics,What is the formula for speed?,v=d/t,v=F/m,v=F*d,v=P/t
+Astronomy,What is the name of the nearest galaxy to ours?,Andromeda,Triangulum,Larger Magellanic Cloud,Small Magellanic Cloud
+Biology,What is the name of the molecule that stores and releases energy in cells?,ATP,DNA,RNA,ADP
+Chemistry,What is the formula weight of H2SO4?,98.1,76.1,72.1,82.1
+Geology,What is the name of the process by which rocks are broken down into smaller pieces by physical or chemical means?,Weathering,Erosion,Deposition,Lithification
+Physics,What is the formula for acceleration due to gravity?,g=9.8 m/s^2,g=F/m,g=d/t,g=P/t^2
+Astronomy,What is the name of the red planet?,Mars,Mercury,Venus,Jupiter
+Biology,What is the name of the molecule that carries oxygen in red blood cells?,Hemoglobin,Myoglobin,Chlorophyll,ATP
+Chemistry,What is the atomic number of iron?,26,28,24,30
+Geology,What is the name of the process by which sediment is transported and deposited by water| wind| or ice?,Erosion,Deposition,Weathering,Lithification
+Physics,What is the formula for potential energy?,PE=mgh,PE=1/2mv^2,PE=F*d,PE=mg

@@ -1,0 +1,50 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosomes,Golgi apparatus
+Chemistry,What is the main component of natural gas?,Methane,Ethane,Propane,Butane
+Physics,What is the SI unit of force?,Newton,Joule,Watt,Coulomb
+Biology,What is the largest organ in the human body?,Skin,Liver,Lungs,Heart
+Chemistry,What two elements make up water?,Hydrogen| Oxygen,Carbon| Nitrogen,Sodium| Chlorine,Iron| Zinc
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,300|000|000 m/s,250|000|000 m/s,350|000|000 m/s
+Biology,What type of blood cells are responsible for carrying oxygen?,Red Blood Cells,White Blood Cells,Platelets,Plasma
+Chemistry,What is the pH of a neutral solution?,7,5,9,12
+Physics,What is Newton's first law of motion?,An object at rest stays at rest| and an object in motion stays in motion with the same speed and in the same direction| unless acted upon by an unbalanced force.,For every action| there is an equal and opposite reaction.,Force equals mass times acceleration.,Acceleration is proportional to force.
+Biology,What is the smallest unit of life?,Cell,Atom,Molecule,Organelle
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the equation for calculating work?,Work = Force x Distance,Work = Force x Acceleration,Work = Mass x Velocity,Work = Power x Time
+Biology,What organ produces insulin?,Pancreas,Liver,Spleen,Kidney
+Chemistry,What process involves the change of a solid directly into a gas?,Sublimation,Condensation,Evaporation,Melting
+Physics,What is the unit for measuring potential difference?,Volt,Ampere,Ohm,Watt
+Biology,What is the name for the process by which cells divide?,Mitosis,Meiosis,Photosynthesis,Respiration
+Chemistry,What element has the symbol Ca?,Calcium,Carbon,Chlorine,Copper
+Physics,What is the acceleration due to gravity on Earth?,9.8 m/s^2,6.7 m/s^2,7.8 m/s^2,5.5 m/s^2
+Biology,What is the name for the smallest blood vessels in the body?,Capillaries,Veins,Arteries,Venules
+Chemistry,What is the name for a substance that speeds up a chemical reaction?,Catalyst,Reactant,Product,Enzyme
+Physics,What is Newton's second law of motion?,The acceleration of an object is directly proportional to the net force acting on it.,For every action| there is an equal and opposite reaction.,Every object in a state of uniform motion tends to remain in that state of motion unless an external force is applied to it.,None of the above.
+Biology,What organ is responsible for pumping blood?,Heart,Lungs,Liver,Brain
+Chemistry,What is the process by which a gas changes directly to a solid?,Deposition,Sublimation,Condensation,Evaporation
+Physics,What is the name for energy in motion?,Kinetic energy,Potential energy,Radiant energy,Thermal energy
+Biology,What is the name for the watery solution that fills the inside of a cell?,Cytoplasm,Nucleus,Plasma,Lysosome
+Chemistry,What element has the chemical symbol Na?,Sodium,Nitrogen,Neon,Nickel
+Physics,What is the equation for calculating momentum?,P=mv,M=pf,F=ma,W=Fd
+Biology,What type of joint allows for the greatest range of motion?,Ball and socket joint,Hinge joint,Pivot joint,Saddle joint
+Chemistry,What is the name for a negatively charged particle?,Electron,Proton,Neutron,Atom
+Physics,What is the name for the type of energy associated with motion or position?,Potential energy,Kinetic energy,Thermal energy,Radiant energy
+Biology,What is the name for the process by which plants make their own food?,Photosynthesis,Respiration,Digestion,Excretion
+Chemistry,What is the name for substances that cannot be broken down into simpler substances?,Elements,Compounds,Solutions,Molecules
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed| only transferred or transformed from one form to another.,For every action| there is an equal and opposite reaction.,The total momentum of a closed system of objects remains constant.,None of the above.
+Biology,What is the name for the tiny hairs that line the respiratory tract?,Cilia,Flagella,Microvilli,Villi
+Chemistry,What is the name for a homogeneous mixture of two or more substances?,Solution,Element,Compound,Molecule
+Physics,What is the name for the resistance of a fluid to flow?,Viscosity,Inertia,Friction,Gravitational force
+Biology,What is the name for the fluid that surrounds a fetus in the womb?,Amniotic fluid,Placental fluid,Umbilical fluid,Cervical fluid
+Chemistry,What element has the chemical symbol O?,Oxygen,Ozone,Osmium,Oxygenate
+Physics,What is the name for the force of attraction between any two objects in the universe?,Gravitational force,Magnetic force,Electric force,Nuclear force
+Biology,What is the name for the system of glands that produce hormones?,Endocrine system,Nervous system,Muscular system,Skeletal system
+Chemistry,What is the name for the model of the atom proposed by Niels Bohr?,Planetary model,Plum pudding model,Wave mechanical model,Electron cloud model
+Physics,What is the name for a wave that vibrates in the same direction as the direction in which it is traveling?,Longitudinal wave,Transverse wave,Sound wave,Electromagnetic wave
+Biology,What is the name for the hard outer layer of bone?,Cortical bone,Compact bone,Spongy bone,Osteoid
+Chemistry,What is the name for the tendency of an atom to attract shared electrons in a covalent bond?,Electronegativity,Ionization energy,Atomic radius,Molar mass
+Physics,What is the name for energy associated with the motion of atoms and molecules?,Thermal energy,Radiant energy,Potential energy,Kinetic energy
+Biology,What is the name for the largest part of the brain?,Cerebrum,Cerebellum,Brainstem,Hypothalamus
+Chemistry,What is the name for the process by which an atom gains or loses electrons?,Ionization,Oxidation,Reduction,Electron affinity
+Physics,What is Coulomb's law?,The force between charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them.,The total momentum of a closed system of objects remains constant.,Every object in a state of uniform motion tends to remain in that state of motion unless an external force is applied to it.,None of the above.

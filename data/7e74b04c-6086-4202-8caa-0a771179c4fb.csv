@@ -1,0 +1,50 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Biology,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Lysosome
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Pt
+Physics,What is the SI unit for force?,Newton,Joule,Watt,Hertz
+Biology,What is the largest organ in the human body?,Skin,Liver,Heart,Lungs
+Chemistry,What element is diamond made of?,Carbon,Hydrogen,Oxygen,Nitrogen
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,200|000|000 m/s,500|000|000 m/s,100|000|000 m/s
+Biology,What type of blood do people with type A have?,A,B,O,AB
+Chemistry,What gas is most abundant in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+Physics,What is the acceleration due to gravity on the Earth's surface?,9.81 m/s^2,8.88 m/s^2,10.00 m/s^2,9.50 m/s^2
+Biology,What is the name of the tube that carries urine from the bladder to the outside of the body?,Urethra,Ureter,Colon,Appendix
+Chemistry,What is the PH of pure water?,7,6,8,9
+Physics,What is the formula for force?,F = ma,F = mg,F = mv^2,F = p/t
+Biology,What is the smallest bone in the human body?,Stapes,Femur,Ulna,Radius
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,HCl
+Physics,What unit is used to measure electrical resistance?,Ohm,Watt,Volt,Ampere
+Biology,What is the function of the ribosome?,Protein synthesis,Energy production,Waste disposal,Cell division
+Chemistry,What is the chemical symbol for helium?,He,H,O,C
+Physics,What is the law of conservation of energy?,Energy cannot be created or destroyed,Energy can be created or destroyed,Energy can only be transferred,Energy can only be changed
+Biology,Which organ pumps blood around the body?,Heart,Lungs,Liver,Pancreas
+Chemistry,What gas is produced when a metal reacts with an acid?,Hydrogen,Carbon dioxide,Oxygen,Helium
+Physics,What is the formula for kinetic energy?,KE = 1/2mv^2,KE = mg,KE = p/t,KE = Fd
+Biology,What is the name of the tiny air sacs in the lungs where gas exchange takes place?,Alveoli,Bronchi,Trachea,Diaphragm
+Chemistry,What is the chemical formula for glucose?,C6H12O6,H2O,NaCl,CO2
+Physics,What is the formula for work done?,W = Fd,W = mg,W = p/t,W = KE + PE
+Biology,What is the name of the largest organ in the human body?,Skin,Liver,Heart,Lungs
+Chemistry,What is the chemical symbol for carbon?,C,Ca,Cr,Cu
+Physics,What is the formula for power?,P = W/t,P = Fd/t,P = mg,P = KE + PE
+Biology,What is the function of the red blood cells?,To carry oxygen,To carry carbon dioxide,To fight infection,To digest food
+Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,NaCl,C6H12O6
+Physics,What is the formula for pressure?,P = F/A,P = mg,P = W/t,P = KE + PE
+Biology,What is the name of the pigment that gives leaves their green color?,Chlorophyll,Melanin,Hemoglobin,Carotene
+Chemistry,What is the chemical symbol for sodium?,Na,N,O,F
+Physics,What is the formula for potential energy?,PE = mgh,PE = mg,PE = p/t,PE = KE + PE
+Biology,What is the name of the valve that separates the right atrium from the right ventricle?,Tricuspid,Bicuspid,Aortic,Pulmonary
+Chemistry,What is the chemical formula for hydrochloric acid?,HCl,CO2,NaCl,C6H12O6
+Physics,What is the formula for electric power?,P = IV,P = Fd/t,P = mg,P = KE + PE
+Biology,What is the name of the gland that produces insulin?,Pancreas,Adrenal,Thyroid,Parathyroid
+Chemistry,What is the chemical symbol for oxygen?,O,N,Na,Fe
+Physics,What is the formula for force of gravity between two objects?,F = Gm1m2/d^2,F = ma,F = mv/t,F = p/t
+Biology,What is the name of the waste product produced by the kidneys?,Urea,Carbon dioxide,Sweat,Saliva
+Chemistry,What is the chemical formula for sulfuric acid?,H2SO4,CO2,NaCl,C6H12O6
+Physics,What is the formula for the frequency of a wave?,f = 1/T,f = v/w,f = ma,f = p/t
+Biology,What is the name of the tube that connects the mouth to the stomach?,Esophagus,Trachea,Bronchi,Larynx
+Chemistry,What is the chemical symbol for iron?,Fe,Cu,Ag,Au
+Physics,What is the formula for acceleration?,a = (v2 - v1) / t,a = F/m,a = p/t,a = W/t
+Biology,What is the name of the hormone responsible for the fight or flight response?,Adrenaline,Insulin,Melatonin,Estrogen
+Chemistry,What is the chemical formula for sodium chloride?,NaCl,H2O,CO2,C6H12O6
+Physics,What is the formula for frequency of a simple harmonic motion?,f = 1/T,f = v/w,f = ma,f = p/t

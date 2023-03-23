@@ -1,0 +1,53 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Physics,Which force is responsible for holding the planets in orbit around the sun?,Gravity,Electromagnetism,Strong Nuclear Force,Weak Nuclear Force
+Biology,What is the term for a group of organisms that can interbreed and produce fertile offspring?,Species,Genus,Family,Order
+Chemistry,What is the most abundant gas in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon Dioxide,Argon
+Physics,What is the SI unit for measuring electric current?,Ampere,Volt,Ohm,Watt
+Biology,What is the name of the process by which plants convert sunlight into energy?,Photosynthesis,Aerobic Respiration,Fermentation,Anaerobic Respiration
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Physics,What is the formula for calculating speed?,Speed = Distance / Time,Speed = Time / Distance,Speed = Force x Distance,Speed = Mass x Velocity
+Biology,What is the name of the part of the brain responsible for regulating body temperature| hunger| and thirst?,Hypothalamus,Amygdala,Hippocampus,Cerebellum
+Chemistry,What is the name for a substance that cannot be broken down into simpler substances by chemical means?,Element,Compound,Mixture,Solution
+Physics,What is the formula for calculating work?,Work = Force x Distance,Work = Mass x Velocity,Work = Power x Time,Work = Energy / Time
+Biology,What is the name of the process by which a single cell divides into two identical daughter cells?,Mitosis,Meiosis,Fertilization,Ejaculation
+Chemistry,What is the name for a substance that changes color in the presence of an acid or a base?,Indicator,Catalyst,Reagent,Buffer
+Physics,What is the name for an object in motion that is not acted upon by any external forces?,Inertial Reference Frame,Non-Inertial Reference Frame,Free Body,Applied Force
+Biology,What is the name of the process by which RNA is synthesized from DNA?,Transcription,Translation,Replication,Codonization
+Chemistry,What is the name for a chemical bond formed between two atoms by sharing a pair of electrons?,Covalent Bond,Ionic Bond,Metallic Bond,Hydrogen Bond
+Physics,What is the formula for calculating velocity?,Velocity = Distance / Time,Velocity = Time / Distance,Velocity = Acceleration x Time,Velocity = Force x Time
+Biology,What is the name of the process by which RNA is used to synthesize proteins?,Translation,Transcription,Replication,Codonization
+Chemistry,What is the name for a substance that speeds up a chemical reaction without being consumed by the reaction?,Catalyst,Enzyme,Reagent,Buffer
+Physics,What is the formula for calculating kinetic energy?,Kinetic Energy = (1/2) x Mass x Velocity^2,Kinetic Energy = Mass x Velocity,Kinetic Energy = Force x Distance,Kinetic Energy = Potential Energy - Work
+Biology,What is the name of the nerve cell that carries signals away from the central nervous system?,Motor Neuron,Sensory Neuron,Interneuron,Epithelial Cell
+Chemistry,What is the name for a substance that dissolves in water to create a solution with a pH less than 7?,Acid,Base,Neutral,Buffer
+Physics,What is the formula for calculating potential energy?,Potential Energy = Mass x Gravity x Height,Potential Energy = (1/2) x Mass x Velocity^2,Potential Energy = Force x Distance,Potential Energy = Kinetic Energy + Work
+Biology,What is the name of the process by which two gametes (sperm and egg) fuse to form a zygote?,Fertilization,Meiosis,Mitosis,Ejaculation
+Chemistry,What is the name for a substance that dissolves in water to create a solution with a pH greater than 7?,Base,Acid,Neutral,Buffer
+Physics,What is the formula for calculating acceleration?,Acceleration = (Final Velocity - Initial Velocity) / Time,Acceleration = Force / Mass,Acceleration = Distance / Time,Acceleration = Velocity / Time
+Biology,What is the name of the tube that connects the mouth to the stomach?,Esophagus,Trachea,Bronchi,Larynx
+Chemistry,What is the name for a reaction in which two or more substances combine to form a single| more complex substance?,Synthesis Reaction,Decomposition Reaction,Single Replacement Reaction,Double Replacement Reaction
+Physics,What is the name of the force that opposes motion between two surfaces in contact?,Friction,Gravity,Applied Force,Tension
+Biology,What is the name of the stiff| fibrous protein that makes up hair and nails?,Keratin,Collagen,Elastin,Fibrin
+Chemistry,What is the name for a compound that consists of only carbon and hydrogen atoms?,Hydrocarbon,Carbohydrate,Protein,Lipid
+Physics,What is the formula for calculating force?,Force = Mass x Acceleration,Force = Distance x Time,Force = Kinetic Energy / Velocity,Force = Work / Time
+Biology,What is the name of the hormone that regulates blood sugar levels in the body?,Insulin,Glucagon,Estrogen,Testosterone
+Chemistry,What is the name for a substance that donates a proton in a chemical reaction?,Acid,Base,Neutral,Buffer
+Physics,What is the law that states that every action has an equal and opposite reaction?,Newton's Third Law of Motion,Newton's First Law of Motion,Newton's Second Law of Motion,The Law of Inertia
+Biology,What is the name of the process by which unused or excess neurotransmitters are reabsorbed by the presynaptic neuron?,Reuptake,Transduction,Integration,Synaptic Plasticity
+Chemistry,What is the name for a reaction in which a single substance breaks down into two or more simpler substances?,Decomposition Reaction,Synthesis Reaction,Single Replacement Reaction,Double Replacement Reaction
+Physics,What is the formula for calculating pressure?,Pressure = Force / Area,Pressure = Density x Volume,Pressure = Work / Time,Pressure = Velocity / Acceleration
+Biology,What is the name of the hormone that regulates calcium levels in the body?,Parathyroid Hormone,Calcitonin,Thyroid Hormone,Insulin
+Chemistry,What is the name for a reaction in which two elements swap places to form two new compounds?,Double Replacement Reaction,Single Replacement Reaction,Synthesis Reaction,Combustion Reaction
+Physics,What is the formula for calculating power?,Power = Work / Time,Power = Force x Distance / Time,Power = Mass x Velocity / Time,Power = Potential Energy / Time
+Biology,What is the name of the hormone that regulates sleep-wake cycles in the body?,Melatonin,Serotonin,Dopamine,Norepinephrine
+Chemistry,What is the name for a substance that can act as both an acid and a base?,Amphiprotic,Neutral,Buffer,Salt
+Physics,What is the formula for calculating momentum?,Momentum = Mass x Velocity,Momentum = Force x Time,Momentum = Work / Time,Momentum = Kinetic Energy + Potential Energy
+Biology,What is the name of the hormone that stimulates milk production in the mammary glands?,Prolactin,Oxytocin,Thyroid-Stimulating Hormone,Growth Hormone
+Chemistry,What is the name for a compound that contains both a metal and a non-metal?,Ionic Compound,Molecular Compound,Covalent Compound,Hydrocarbon
+Physics,What is the formula for calculating resistance in an electrical circuit?,Resistance = Voltage / Current,Resistance = Current / Voltage,Resistance = Power / Current,Resistance = Time x Current
+Biology,What is the name of the hormone that regulates the body's response to stress?,Cortisol,Epinephrine,Norepinephrine,Testosterone
+Chemistry,What is the name for a reaction that requires energy to proceed?,Endothermic Reaction,Exothermic Reaction,Oxidation-Reduction Reaction,Acid-Base Reaction
+Physics,What is the formula for calculating electric power?,Electric Power = Voltage x Current,Electric Power = Current / Voltage,Electric Power = Resistance x Current,Electric Power = Work / Time
+Biology,What is the name of the hormone that stimulates ovulation in females?,Luteinizing Hormone,Follicle-Stimulating Hormone,Estrogen,Progesterone
+Chemistry,What is the name for a solution that resists changes in pH when small amounts of acid or base are added?,Buffer Solution,Acidic Solution,Basic Solution,Neutral Solution
+Physics,What is the formula for calculating electric current?,Electric Current = Charge / Time,Electric Current = Voltage x Resistance,Electric Current = Power / Voltage,Electric Current = Work / Time

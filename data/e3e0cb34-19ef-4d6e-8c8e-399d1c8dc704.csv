@@ -1,0 +1,49 @@
+Topic,Question,Answer,Distractor1,Distractor2,Distractor3
+Chemistry,What is the chemical symbol for gold?,Au,Ag,Cu,Fe
+Biology,What is the smallest unit of life?,Cell,Atom,Molecule,Organ
+Physics,What is the speed of light in a vacuum?,299|792|458 m/s,300|000 m/s,3|000|000 m/s,29|979|245 m/s
+Anatomy,What is the largest organ in the human body?,Skin,Liver,Brain,Heart
+Botany,What gas do plants absorb during photosynthesis?,Carbon dioxide,Oxygen,Nitrogen,Hydrogen
+Geology,What type of rock is formed from cooling magma or lava?,Igneous,Sedimentary,Metamorphic,Plutonic
+Astronomy,What is the name for a group of stars that form a recognizable pattern?,Constellation,Galaxy,Nebula,Quasar
+Zoology,What is the scientific name for the domestic dog?,Canis lupus familiaris,Felis catus,Equus caballus,Bos taurus
+Chemistry,What is the chemical formula for water?,H2O,CO2,NaCl,O2
+Biology,What is the purpose of DNA?,Store genetic information,Regulate metabolism,Produce ATP,Transport nutrients
+Physics,What is the force of gravity on Earth's surface?,9.8 m/s^2,6.7 m/s^2,3.3 m/s^2,12.2 m/s^2
+Anatomy,What is the name for the upper arm bone?,Humerus,Radius,Ulna,Femur
+Botany,What is the name for the process by which plants release water from their leaves?,Transpiration,Respiration,Photosynthesis,Evaporation
+Geology,What type of rock is formed from layers of sediment?,Sedimentary,Igneous,Metamorphic,Plutonic
+Astronomy,What is the name of the largest planet in our solar system?,Jupiter,Saturn,Uranus,Neptune
+Zoology,What is the name for the study of birds?,Ornithology,Ichthyology,Herpetology,Entomology
+Chemistry,What is the atomic number for carbon?,6,7,8,5
+Biology,What is the process by which a cell divides into two new daughter cells?,Mitosis,Meiosis,Photosynthesis,Respiration
+Physics,What is the unit of measurement for electric current?,Ampere,Volt,Watt,Ohm
+Anatomy,What is the name for the muscle that separates the chest cavity from the abdominal cavity?,Diaphragm,Abdominal oblique,Pectoralis major,Biceps femoris
+Botany,What is the name for the structure in a plant that produces seeds?,Flower,Fruit,Stem,Root
+Geology,What type of rock is formed from heat and pressure?,Metamorphic,Igneous,Sedimentary,Plutonic
+Astronomy,What is the name of the closest star to our solar system?,Proxima Centauri,Alpha Centauri A,Alpha Centauri B,Barnard's Star
+Zoology,What is the name for the study of insects?,Entomology,Ornithology,Ichthyology,Herpetology
+Chemistry,What is the atomic number for oxygen?,8,6,7,9
+Biology,What is the name for the process by which organisms produce offspring?,Reproduction,Respiration,Photosynthesis,Digestion
+Physics,What is the formula for calculating work?,Force x Distance,Acceleration x Mass,Velocity x Time,Pressure x Area
+Anatomy,What is the name for the joint that connects the upper arm bone to the shoulder blade?,Glenohumeral,Elbow,Wrist,Hip
+Botany,What is the name for the process by which pollen is transferred from the male to the female reproductive organs in plants?,Pollination,Fertilization,Germination,Photosynthesis
+Geology,What type of rock is formed from the cooling and solidification of magma beneath Earth's surface?,Plutonic,Igneous,Sedimentary,Metamorphic
+Astronomy,What is the name of the asteroid belt between Mars and Jupiter?,Main Belt,Kuiper Belt,Oort Cloud,Scattered Disc
+Zoology,What is the name for the study of reptiles and amphibians?,Herpetology,Ichthyology,Ornithology,Entomology
+Chemistry,What element has the symbol Na?,Sodium,Magnesium,Potassium,Chlorine
+Biology,What is the name for the process by which cells convert glucose into ATP?,Cellular respiration,Photosynthesis,Fermentation,Oxidative phosphorylation
+Physics,What is the formula for calculating density?,Mass/Volume,Distance/Time,Force/Area,Energy/Time
+Anatomy,What is the name for the bone that connects the elbow to the shoulder?,Humerus,Radius,Ulna,Femur
+Botany,What is the name for the process by which water moves through a plant from the roots to the leaves?,Transpiration,Absorption,Photosynthesis,Respiration
+Geology,What type of rock is formed from the alteration of existing rocks through heat and pressure?,Metamorphic,Igneous,Sedimentary,Plutonic
+Astronomy,What is the name of the Kuiper Belt object that was reclassified as a dwarf planet in 2006?,Pluto,Eris,Haumea,Makemake
+Zoology,What is the name for the study of fish?,Ichthyology,Herpetology,Ornithology,Entomology
+Chemistry,What is the formula for calculating pH?,-log[H+],-log[OH-],[H+]/[OH-],[OH-]/[H+]
+Biology,What is the name for the structure in a plant cell that is responsible for photosynthesis?,Chloroplast,Mitochondria,Nucleus,Ribosome
+Physics,What is the formula for calculating force?,Mass x Acceleration,Distance x Time,Velocity x Mass,Pressure x Area
+Anatomy,What is the name for the bone in the upper leg?,Femur,Tibia,Fibula,Patella
+Botany,What is the name for the process by which plants convert light energy into chemical energy?,Photosynthesis,Respiration,Transpiration,Germination
+Geology,What type of rock is formed from the accumulation of organic materials| such as shells?,Sedimentary,Igneous,Metamorphic,Plutonic
+Astronomy,What is the name of the process by which a star uses nuclear fusion to create heavier elements?,Stellar nucleosynthesis,Supernova explosion,Black hole formation,Red giant expansion
+Zoology,What is the name for the study of mammals?,Mammalogy,Herpetology,Ichthyology,Ornithology
