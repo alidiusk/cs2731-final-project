@@ -1,121 +1,121 @@
-Index,Topic,Question,Answer,Distractor1,Distractor2,Distractor3,Topic Relevance,Correctness,Difficulty,Clarity,Distractor Relevance
+index,topic,question,answer,distractor1,distractor2,distractor3,topic_relevance,correctness,difficulty,clarity,distractor_relevance
 485,Biology,What is the process of cells dividing called?,Mitosis,Meiosis,Replication,Fertilization,7,7,5,7,7
-3193,Biology,What is the process by which DNA makes a copy of itself?,Replication,Transcription,Translation,Mutation,7,7,5,7,7
-1251,Earth Science,What is the name of the supercontinent that existed millions of years ago?,Pangaea,Laurasia,Gondwana,Eurasia,7,7,5,7,7
-306,Physics,What is the first law of motion?,"An object at rest will stay at rest, and an object in motion will stay in motion with a constant velocity, unless acted upon by a net external force",Force equals mass times acceleration,"For every action, there is an equal and opposite reaction",None of the above,7,7,5,7,7
+3193,Biology,What is the process by which DNA makes a copy of itself?,Replication,Transcription,Translation,Mutation,7,7,7,7,7
+1251,Earth Science,What is the name of the supercontinent that existed millions of years ago?,Pangaea,Laurasia,Gondwana,Eurasia,7,7,5,7,5
+306,Physics,What is the first law of motion?,"An object at rest will stay at rest, and an object in motion will stay in motion with a constant velocity, unless acted upon by a net external force",Force equals mass times acceleration,"For every action, there is an equal and opposite reaction",None of the above,7,7,5,5,7
 952,Geology,Which is the hardest mineral on the Mohs hardness scale?,Diamond,Quartz,Topaz,Corundum,7,7,5,7,7
-392,Physics,What is the unit of resistance in an electric circuit?,Ohm,Ampere,Volt,Watt,7,7,5,7,7
-2,Biology,What is the name for the smallest particle of an element?,Atom,Molecule,Ion,Electron,7,7,5,7,7
+392,Physics,What is the unit of resistance in an electric circuit?,Ohm,Ampere,Volt,Watt,7,7,7,7,7
+2,Biology,What is the name for the smallest particle of an element?,Atom,Molecule,Ion,Electron,5,7,5,7,7
 148,Anatomy,What is the name for the upper arm bone?,Humerus,Radius,Ulna,Femur,7,7,5,7,7
-2682,Earth Science,What is the process by which sediment is moved from one location to another?,Erosion,Weathering,Deposition,Compaction,7,7,5,7,7
-1280,Chemistry,What is the most abundant gas in the earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon,7,7,5,7,7
-1234,Chemistry,Which gas is known as laughing gas?,Nitrous Oxide,Carbon Dioxide,Hydrogen,Oxygen,7,7,5,7,7
-916,Biology,What is the name of the long| coiled structures that carry genes?,DNA,RNA,Ribosomes,Lysosomes,7,7,5,7,7
+2682,Earth Science,What is the process by which sediment is moved from one location to another?,Erosion,Weathering,Deposition,Compaction,7,7,7,7,7
+1280,Chemistry,What is the most abundant gas in the earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon,7,7,7,7,7
+1234,Chemistry,Which gas is known as laughing gas?,Nitrous Oxide,Carbon Dioxide,Hydrogen,Oxygen,7,7,7,7,7
+916,Biology,What is the name of the long| coiled structures that carry genes?,DNA,RNA,Ribosomes,Lysosomes,7,7,5,3,3
 2131,Chemistry,Which element has the symbol Pb?,Lead,Lithium,Beryllium,Copper,7,7,5,7,7
 3170,Physics,Which of the following is a measure of how much force is applied per unit area?,Pressure,Temperature,Volume,Density,7,7,5,7,7
-2785,Physics,What is the acceleration due to gravity on Earth's surface?,9.8 m/s^2,1 m/s^2,0.1 m/s^2,100 m/s^2,7,7,5,7,7
-2411,Biology,What is the name for the long| coiled structure that stores genetic information in cells?,DNA,RNA,Protein,Lipid,7,7,5,7,7
-1597,Geology,What is the process by which sediments are compacted and cemented together?,Lithification,Erosion,Weathering,Metamorphism,7,7,5,7,7
-2646,Physics,What is the bending of a wave as it passes from one medium to another called?,Refraction,Reflection,Interference,Diffraction,7,7,5,7,7
-279,Chemistry,What is the molecular weight of carbon dioxide?,44 g/mol,12 g/mol,32 g/mol,28 g/mol,7,7,5,7,7
-2809,Biology,What type of tissue is responsible for transporting nutrients and oxygen throughout the body?,Blood,Muscle,Nerve,Connective,7,7,5,7,7
+2785,Physics,What is the acceleration due to gravity on Earth's surface?,9.8 m/s^2,1 m/s^2,0.1 m/s^2,100 m/s^2,7,7,5,7,3
+2411,Biology,What is the name for the long| coiled structure that stores genetic information in cells?,DNA,RNA,Protein,Lipid,7,7,5,7,5
+1597,Geology,What is the process by which sediments are compacted and cemented together?,Lithification,Erosion,Weathering,Metamorphism,7,7,7,7,7
+2646,Physics,What is the bending of a wave as it passes from one medium to another called?,Refraction,Reflection,Interference,Diffraction,7,7,7,7,7
+279,Chemistry,What is the molecular weight of carbon dioxide?,44 g/mol,12 g/mol,32 g/mol,28 g/mol,7,7,5,7,5
+2809,Biology,What type of tissue is responsible for transporting nutrients and oxygen throughout the body?,Blood,Muscle,Nerve,Connective,6,2,5,2,7
 754,Chemistry,What is the element most commonly found in organic molecules?,Carbon,Nitrogen,Oxygen,Hydrogen,7,7,5,7,7
 2492,Astronomy,What is the name of the second planet from the sun?,Venus,Mercury,Earth,Mars,7,7,5,7,7
-2540,Physics,What is the unit of electric current?,Ampere,Volt,Watt,Ohm,7,7,5,7,7
+2540,Physics,What is the unit of electric current?,Ampere,Volt,Watt,Ohm,6,7,5,7,7
 1314,Chemistry,What is the term for the process by which an atom loses or gains electrons?,Oxidation-reduction reaction,Ionization,Combustion,Hydration,7,7,5,7,7
 1372,Biology,What is the name for the pigment responsible for giving skin its color?,Melanin,Hemoglobin,Chlorophyll,Keratin,7,7,5,7,7
 269,Physics,What is the name of the law that states that every action has an equal and opposite reaction?,Newton's third law of motion,Newton's first law of motion,Newton's second law of motion,Law of conservation of momentum,7,7,5,7,7
-1500,Physics,What is the formula for electric energy?,Electric Energy = Voltage x Charge,Electric Energy = Power x Time,Electric Energy = Work / Voltage,Electric Energy = Momentum / Time,7,7,5,7,7
-2363,Chemistry,What type of reaction is the burning of gasoline in an engine?,Combustion,Synthesis,Decomposition,Single replacement,7,7,5,7,7
-1872,Biology,What is the study of life called?,Biology,Geology,Physics,Chemistry,7,7,5,7,7
+1500,Physics,What is the formula for electric energy?,Electric Energy = Voltage x Charge,Electric Energy = Power x Time,Electric Energy = Work / Voltage,Electric Energy = Momentum / Time,6,1,5,7,7
+2363,Chemistry,What type of reaction is the burning of gasoline in an engine?,Combustion,Synthesis,Decomposition,Single replacement,7,7,5,6,2
+1872,Biology,What is the study of life called?,Biology,Geology,Physics,Chemistry,7,7,3,7,7
 2878,Biology,Which of the following is not part of the digestive system?,Kidney,Stomach,Intestines,Mouth,7,7,5,7,7
 822,Chemistry,What is the chemical formula for calcium carbonate?,CaCO3,CO2,NaCl,H2O,7,7,5,7,7
-428,Biology,What is the process of turning RNA into a protein called?,Translation,Transcription,Replication,Recombination,7,7,5,7,7
-2081,Earth Science,What is the name for the process by which rocks are chemically broken down into new minerals?,Chemical weathering,Mechanical weathering,Erosion,Deposition,7,7,5,7,7
+428,Biology,What is the process of turning RNA into a protein called?,Translation,Transcription,Replication,Recombination,7,7,7,7,7
+2081,Earth Science,What is the name for the process by which rocks are chemically broken down into new minerals?,Chemical weathering,Mechanical weathering,Erosion,Deposition,7,7,7,5,7
 3225,Physics,What is the name for the energy of motion?,Kinetic energy,Potential energy,Thermal energy,Electrical energy,7,7,5,7,7
-25,Biology,What is the name of the innermost layer of the skin?,Subcutis,Dermis,Epidermis,Stratum Corneum,7,7,5,7,7
-914,Chemistry,What is the formula for calculating pH?,-log[H+],-log[OH-],[H+]/[OH-],[OH-]/[H+],7,7,5,7,7
-674,Chemistry,What is the bond formed between atoms when they share electrons?,Covalent bond,Ionic bond,Hydrogen bond,Metallic bond,7,7,5,7,7
+25,Biology,What is the name of the innermost layer of the skin?,Subcutis,Dermis,Epidermis,Stratum Corneum,5,5,6,7,7
+914,Chemistry,What is the formula for calculating pH?,-log[H+],-log[OH-],[H+]/[OH-],[OH-]/[H+],7,5,5,5,7
+674,Chemistry,What is the bond formed between atoms when they share electrons?,Covalent bond,Ionic bond,Hydrogen bond,Metallic bond,7,7,7,7,7
 527,Physics,What is the rate at which work is done called?,Power,Energy,Force,Momentum,7,7,5,7,7
-1252,Biology,What is the process by which a cell divides into two new cells?,Mitosis,Meiosis,Fertilization,Apoptosis,7,7,5,7,7
-409,Chemistry,What is the atomic number for helium?,2,3,11,15,7,7,5,7,7
+1252,Biology,What is the process by which a cell divides into two new cells?,Mitosis,Meiosis,Fertilization,Apoptosis,7,7,7,7,7
+409,Chemistry,What is the atomic number for helium?,2,3,11,15,7,7,3,7,7
 424,Chemistry,What is the name of the process by which a liquid turns into a gas?,Evaporation,Condensation,Sublimation,Deposition,7,7,5,7,7
-1253,Biology,Which of the following is not a component of DNA?,Lipid,Phosphate,Deoxyribose,Nitrogenous Base,7,7,5,7,7
-2346,Chemistry,What is the chemical formula for hydrogen peroxide?,H2O2,CO2,CH4,N2,7,7,5,7,7
-729,Biology,Which system is responsible for breaking down food?,Digestive System,Circulatory System,Respiratory System,Endocrine System,7,7,5,7,7
-2981,Biology,What is the science of classifying and naming organisms?,Taxonomy,Biology,Ecology,Genetics,7,7,5,7,7
-1722,Earth Science,What is the term for a frozen mixture of snow and ice?,glacier,avalanche,frost,permafrost,7,7,5,7,7
-2546,Physics,What is the measure of an object's motion| calculated by dividing the distance traveled by the time it takes to travel it?,Speed,Force,Acceleration,Momentum,7,7,5,7,7
+1253,Biology,Which of the following is not a component of DNA?,Lipid,Phosphate,Deoxyribose,Nitrogenous Base,7,7,7,7,7
+2346,Chemistry,What is the chemical formula for hydrogen peroxide?,H2O2,CO2,CH4,N2,7,7,5,7,5
+729,Biology,Which system is responsible for breaking down food?,Digestive System,Circulatory System,Respiratory System,Endocrine System,5,7,5,7,7
+2981,Biology,What is the science of classifying and naming organisms?,Taxonomy,Biology,Ecology,Genetics,7,7,6,7,7
+1722,Earth Science,What is the term for a frozen mixture of snow and ice?,glacier,avalanche,frost,permafrost,7,7,7,7,7
+2546,Physics,What is the measure of an object's motion| calculated by dividing the distance traveled by the time it takes to travel it?,Speed,Force,Acceleration,Momentum,7,7,5,3,7
 832,Physics,What is the name for the quantity of matter in an object?,Mass,Weight,Density,Volume,7,7,5,7,7
 3172,Physics,What do we call the force that keeps objects in circular motion?,Centripetal force,Centrifugal force,Magnetic force,Electrostatic force,7,7,5,7,7
-3296,Biology,What is the function of a neuron?,To produce hormones,To protect the brain,To transmit electrical signals,To contract muscle tissue,7,7,5,7,7
-1140,Physics,What is the equation for calculating acceleration?,a=(Vf - Vi)/t,a=F/m,a=P/t,a=Wt,7,7,5,7,7
+3296,Biology,What is the function of a neuron?,To produce hormones,To protect the brain,To transmit electrical signals,To contract muscle tissue,5,1,5,2,7
+1140,Physics,What is the equation for calculating acceleration?,a=(Vf - Vi)/t,a=F/m,a=P/t,a=Wt,7,7,5,7,6
 2338,Biology,What is the name of the structure that connects bones to muscles?,Tendon,Ligament,Cartilage,Bone Marrow,7,7,5,7,7
-2383,Physics,What is the formula used to calculate force?,F=ma,E=mc²,P=mv,W=Fd,7,7,5,7,7
-1266,Physics,What type of force is responsible for the gravitational attraction between objects?,Gravity,Electromagnetic force,Weak force,Strong force,7,7,5,7,7
+2383,Physics,What is the formula used to calculate force?,F=ma,E=mc²,P=mv,W=Fd,7,7,5,7,2
+1266,Physics,What type of force is responsible for the gravitational attraction between objects?,Gravity,Electromagnetic force,Weak force,Strong force,7,7,1,3,3
 213,Chemistry,What is the name for the measure of the amount of matter in an object?,Mass,Weight,Density,Volume,7,7,5,7,7
-2341,Chemistry,What is the name of the particle that carries a positive charge?,Proton,Electron,Neutron,Photon,7,7,5,7,7
-1925,Astronomy,What is the name of the brightest star in the night sky?,Sirius,Canopus,Vega,Betelgeuse,7,7,5,7,7
-953,Biology,What is the name for the soft tissue found inside bones that produces red and white blood cells?,Bone marrow,Cartilage,Ligament,Tendon,7,7,5,7,7
-1621,Biology,What is the name of the process by which plants release water through tiny pores in their leaves?,Transpiration,Photosynthesis,Cellular respiration,Germination,7,7,5,7,7
+2341,Chemistry,What is the name of the particle that carries a positive charge?,Proton,Electron,Neutron,Photon,7,7,4,7,7
+1925,Astronomy,What is the name of the brightest star in the night sky?,Sirius,Canopus,Vega,Betelgeuse,7,7,5,6,7
+953,Biology,What is the name for the soft tissue found inside bones that produces red and white blood cells?,Bone marrow,Cartilage,Ligament,Tendon,5,7,5,7,7
+1621,Biology,What is the name of the process by which plants release water through tiny pores in their leaves?,Transpiration,Photosynthesis,Cellular respiration,Germination,5,7,6,7,7
 1784,Geology,What is the process by which rocks change due to heat and pressure?,Metamorphism,Erosion,Weathering,Deposition,7,7,5,7,7
-2644,Biology,Which organ produces insulin in the body?,Pancreas,Liver,Kidney,Stomach,7,7,5,7,7
-2321,Chemistry,Which of the following is a strong acid?,Hydrochloric acid,Vinegar,Lemon juice,Baking soda,7,7,5,7,7
-2264,Biology,Which system in the body is responsible for removing waste and excess water?,Urinary,Circulatory,Respiratory,Nervous,7,7,5,7,7
-2568,Geology,What type of rock is formed from existing rock that undergoes heat and pressure?,Metamorphic,Sedimentary,Igneous,Mineral,7,7,5,7,7
-628,Astronomy,What is the name of the planet known for its ring system?,Saturn,Jupiter,Uranus,Neptune,7,7,5,7,7
-1825,Biology,What is the name of the protein molecule that carries oxygen in the blood?,Hemoglobin,Enzyme,Antibody,Chlorophyll,7,7,5,7,7
-1004,Geology,What is the study of the physical properties of rocks and minerals?,Mineralogy,Geophysics,Petrology,Sedimentology,7,7,5,7,7
-2879,Chemistry,What is the name of the scale used to measure the acidity or basicity of a solution?,pH scale,Kelvin scale,Celsius scale,Fahrenheit scale,7,7,5,7,7
-1846,Physics,What type of simple machine is a seesaw?,Lever,Pulley,Wheel & Axle,Inclined Plane,7,7,5,7,7
-1276,Meteorology,What is the name for the boundary between two air masses?,Front,Cold front,Warm front,Occluded front,7,7,5,7,7
-2371,Physics,What type of energy is produced by the vibration of matter| such as air molecules?,Sound energy,Mechanical energy,Thermal energy,Radiant energy,7,7,5,7,7
-2686,Geology,What type of volcano is broad and flat| with gently sloping sides?,Shield,Cinder cone,Composite,Caldera,7,7,5,7,7
-159,Biology,What is the process by which cells divide into two identical daughter cells?,Mitosis,Meiosis,Fertilization,Differentiation,7,7,5,7,7
-1408,Biology,What is the function of the vacuole?,Storage,Energy production,To synthesize proteins,To store DNA,7,7,5,7,7
-1904,Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,NaCl,C6H12O6,7,7,5,7,7
-2829,Geology,What type of rock is formed from compressed sediment?,Sedimentary,Metamorphic,Igneous,Basalt,7,7,5,7,7
-1071,Physics,What is the definition of momentum?,Mass times velocity,Force times velocity,Displacement over time,Energy in a given direction,7,7,5,7,7
-1141,Physics,What type of force causes objects to float in water?,Buoyant force,Electromagnetic force,Weak force,Strong force,7,7,5,7,7
-454,Biology,What is the name of the system in the body that is responsible for protection against disease?,Immune system,Nervous system,Endocrine system,Cardiovascular system,7,7,5,7,7
-3304,Geology,What is the term for the shaking of the Earth's surface caused by the sudden release of energy in the Earth's crust?,Earthquake,Volcanic eruption,Tsunami,Landslide,7,7,5,7,7
-592,Biology,What is the process by which cells convert food into usable energy?,Cellular respiration,Fermentation,Anaerobic respiration,Photosynthesis,7,7,5,7,7
+2644,Biology,Which organ produces insulin in the body?,Pancreas,Liver,Kidney,Stomach,5,7,4,7,6
+2321,Chemistry,Which of the following is a strong acid?,Hydrochloric acid,Vinegar,Lemon juice,Baking soda,7,7,2,5,3
+2264,Biology,Which system in the body is responsible for removing waste and excess water?,Urinary,Circulatory,Respiratory,Nervous,5,7,3,7,6
+2568,Geology,What type of rock is formed from existing rock that undergoes heat and pressure?,Metamorphic,Sedimentary,Igneous,Mineral,7,7,7,7,7
+628,Astronomy,What is the name of the planet known for its ring system?,Saturn,Jupiter,Uranus,Neptune,7,7,6,6,7
+1825,Biology,What is the name of the protein molecule that carries oxygen in the blood?,Hemoglobin,Enzyme,Antibody,Chlorophyll,7,7,7,7,7
+1004,Geology,What is the study of the physical properties of rocks and minerals?,Mineralogy,Geophysics,Petrology,Sedimentology,7,7,7,7,7
+2879,Chemistry,What is the name of the scale used to measure the acidity or basicity of a solution?,pH scale,Kelvin scale,Celsius scale,Fahrenheit scale,7,7,3,7,3
+1846,Physics,What type of simple machine is a seesaw?,Lever,Pulley,Wheel & Axle,Inclined Plane,7,7,6,6,7
+1276,Meteorology,What is the name for the boundary between two air masses?,Front,Cold front,Warm front,Occluded front,7,7,5,3,7
+2371,Physics,What type of energy is produced by the vibration of matter| such as air molecules?,Sound energy,Mechanical energy,Thermal energy,Radiant energy,7,7,7,6,7
+2686,Geology,What type of volcano is broad and flat| with gently sloping sides?,Shield,Cinder cone,Composite,Caldera,7,7,7,7,7
+159,Biology,What is the process by which cells divide into two identical daughter cells?,Mitosis,Meiosis,Fertilization,Differentiation,7,7,6,7,7
+1408,Biology,What is the function of the vacuole?,Storage,Energy production,To synthesize proteins,To store DNA,7,7,7,3,7
+1904,Chemistry,What is the chemical formula for carbon dioxide?,CO2,H2O,NaCl,C6H12O6,7,7,5,7,5
+2829,Geology,What type of rock is formed from compressed sediment?,Sedimentary,Metamorphic,Igneous,Basalt,7,7,7,7,7
+1071,Physics,What is the definition of momentum?,Mass times velocity,Force times velocity,Displacement over time,Energy in a given direction,7,7,7,7,7
+1141,Physics,What type of force causes objects to float in water?,Buoyant force,Electromagnetic force,Weak force,Strong force,7,7,1,7,1
+454,Biology,What is the name of the system in the body that is responsible for protection against disease?,Immune system,Nervous system,Endocrine system,Cardiovascular system,7,7,5,7,5
+3304,Geology,What is the term for the shaking of the Earth's surface caused by the sudden release of energy in the Earth's crust?,Earthquake,Volcanic eruption,Tsunami,Landslide,7,7,7,7,7
+592,Biology,What is the process by which cells convert food into usable energy?,Cellular respiration,Fermentation,Anaerobic respiration,Photosynthesis,7,7,7,7,7
 891,Physics,What is Newton's Third Law?,"For every action, there is an equal and opposite reaction",The force applied equals the mass times the acceleration,An object in motion will stay in motion unless acted upon by a force,Acceleration is directly proportional to the net force acting on an object and inversely proportional to its mass,7,7,5,7,7
-2092,Biology,What type of tissue connects bones to other bones?,Ligaments,Tendons,Muscles,Cartilage,7,7,5,7,7
-3388,Physics,What is the equation for Ohm's law?,Voltage equals current times resistance,Resistance equals current times voltage,Current equals voltage times resistance,Voltage equals resistance divided by current,7,7,5,7,7
-2736,Earth Science,What is the layer of Earth's atmosphere that contains the ozone layer?,Stratosphere,Troposphere,Mesosphere,Thermosphere,7,7,5,7,7
-2774,Astronomy,"Which planet is nicknamed the ""Red Planet""?",Mars,Venus,Jupiter,Saturn,7,7,5,7,7
-11,Astronomy,What is the name of the largest volcano on Mars?,Olympus Mons,Mount Everest,Mount Kilimanjaro,Mount Rainier,7,7,5,7,7
-1652,Meteorology,What is the name given to a disturbance in the atmosphere that moves across the Earth's surface and causes weather changes?,Front,Tropical cyclone,Cold wave,Heat wave,7,7,5,7,7
-880,Chemistry,Which type of chemical bond involves the transfer of electrons?,Ionic,Covalent,Hydrogen,Van der Waals,7,7,5,7,7
-3249,Anatomy,What is the part of the eye that controls how much light enters?,Pupil,Iris,Lens,Retina,7,7,5,7,7
-389,Chemistry,What is the formula for sulfur dioxide?,SO3,S2O3,SO2,H2SO4,7,7,5,7,7
-1183,Earth Science,What type of cloud is tall and cylindrical| often associated with thunderstorms?,Cumulonimbus,Cirrus,Stratus,Cumulus,7,7,5,7,7
-352,Zoology,What is the name for the process by which animals produce offspring?,Reproduction,Metabolism,Respiration,Digestion,7,7,5,7,7
-923,Physics,What is the SI unit for measuring energy?,Joule,Watt,Volt,Ohm,7,7,5,7,7
-2909,Chemistry,What is the atomic number of hydrogen?,1,2,3,4,7,7,5,7,7
-1868,Biology,What is the process by which proteins are broken down into amino acids in the body?,Protein hydrolysis,Protein synthesis,Protein denaturation,Protein folding,7,7,5,7,7
-223,Biology,Which of these is not a macromolecule?,Lipid,Acid,Protein,Carbohydrate,7,7,5,7,7
-760,Biology,What is the name of the process by which proteins are made from RNA?,Translation,Transcription,Replication,Fertilization,7,7,5,7,7
-606,Astronomy,What causes the change of seasons on Earth?,The tilt of the Earth's axis,The shape of the Earth's orbit around the sun,The Earth's distance from the sun,The rotation of the Earth on its axis,7,7,5,7,7
-1764,Biology,What is the name for the process by which chromosomes are copied?,Replication,Transcription,Translation,Mitosis,7,7,5,7,7
-1218,Biology,Which food group provides the most energy to the body?,Carbohydrates,Proteins,Fats,Vitamins,7,7,5,7,7
+2092,Biology,What type of tissue connects bones to other bones?,Ligaments,Tendons,Muscles,Cartilage,5,7,7,7,7
+3388,Physics,What is the equation for Ohm's law?,Voltage equals current times resistance,Resistance equals current times voltage,Current equals voltage times resistance,Voltage equals resistance divided by current,7,7,7,7,7
+2736,Earth Science,What is the layer of Earth's atmosphere that contains the ozone layer?,Stratosphere,Troposphere,Mesosphere,Thermosphere,7,7,7,7,7
+2774,Astronomy,"Which planet is nicknamed the ""Red Planet""?",Mars,Venus,Jupiter,Saturn,7,7,3,7,7
+11,Astronomy,What is the name of the largest volcano on Mars?,Olympus Mons,Mount Everest,Mount Kilimanjaro,Mount Rainier,7,7,1,7,1
+1652,Meteorology,What is the name given to a disturbance in the atmosphere that moves across the Earth's surface and causes weather changes?,Front,Tropical cyclone,Cold wave,Heat wave,7,3,5,2,7
+880,Chemistry,Which type of chemical bond involves the transfer of electrons?,Ionic,Covalent,Hydrogen,Van der Waals,7,7,6,7,7
+3249,Anatomy,What is the part of the eye that controls how much light enters?,Pupil,Iris,Lens,Retina,7,1,5,7,7
+389,Chemistry,What is the formula for sulfur dioxide?,SO3,S2O3,SO2,H2SO4,7,1,5,7,7
+1183,Earth Science,What type of cloud is tall and cylindrical| often associated with thunderstorms?,Cumulonimbus,Cirrus,Stratus,Cumulus,6,7,5,7,6
+352,Zoology,What is the name for the process by which animals produce offspring?,Reproduction,Metabolism,Respiration,Digestion,7,7,2,7,2
+923,Physics,What is the SI unit for measuring energy?,Joule,Watt,Volt,Ohm,7,7,6,3,7
+2909,Chemistry,What is the atomic number of hydrogen?,1,2,3,4,7,7,5,7,3
+1868,Biology,What is the process by which proteins are broken down into amino acids in the body?,Protein hydrolysis,Protein synthesis,Protein denaturation,Protein folding,7,3,7,2,7
+223,Biology,Which of these is not a macromolecule?,Lipid,Acid,Protein,Carbohydrate,7,1,6,6,6
+760,Biology,What is the name of the process by which proteins are made from RNA?,Translation,Transcription,Replication,Fertilization,7,6,6,6,6
+606,Astronomy,What causes the change of seasons on Earth?,The tilt of the Earth's axis,The shape of the Earth's orbit around the sun,The Earth's distance from the sun,The rotation of the Earth on its axis,7,7,7,7,7
+1764,Biology,What is the name for the process by which chromosomes are copied?,Replication,Transcription,Translation,Mitosis,7,7,7,7,7
+1218,Biology,Which food group provides the most energy to the body?,Carbohydrates,Proteins,Fats,Vitamins,5,7,5,7,7
 473,Earth Science,What is the name of the process when water vapor turns back into a liquid?,Condensation,Evaporation,Freezing,Melting,7,7,5,7,7
-1523,Biology,What is the process of breaking down glucose called?,Cellular respiration,Photosynthesis,Fermentation,Digestion,7,7,5,7,7
+1523,Biology,What is the process of breaking down glucose called?,Cellular respiration,Photosynthesis,Fermentation,Digestion,7,7,6,7,7
 3041,Chemistry,What is the process by which a solid turns into a gas without going through the liquid phase?,Sublimation,Vaporization,Deposition,Condensation,7,7,5,7,7
-814,Biology,What part of the respiratory system are tiny air sacs where gas exchange takes place?,Alveoli,Bronchi,Trachea,Larynx,7,7,5,7,7
-1273,Earth Science,What is the largest layer in the Earth's atmosphere?,Stratosphere,Troposphere,Mesosphere,Thermosphere,7,7,5,7,7
-2925,Biology,What is the name for the process by which a virus enters a host cell and takes over the cell's machinery to reproduce?,viral infection,lytic infection,lysogenic infection,transduction,7,7,5,7,7
-2743,Biology,Which process involves the conversion of nitrogen into a usable form by plants?,Nitrogen Fixation,Photosynthesis,Cellular Respiration,Fermentation,7,7,5,7,7
+814,Biology,What part of the respiratory system are tiny air sacs where gas exchange takes place?,Alveoli,Bronchi,Trachea,Larynx,5,7,5,7,7
+1273,Earth Science,What is the largest layer in the Earth's atmosphere?,Stratosphere,Troposphere,Mesosphere,Thermosphere,7,2,5,7,7
+2925,Biology,What is the name for the process by which a virus enters a host cell and takes over the cell's machinery to reproduce?,viral infection,lytic infection,lysogenic infection,transduction,6,7,7,7,6
+2743,Biology,Which process involves the conversion of nitrogen into a usable form by plants?,Nitrogen Fixation,Photosynthesis,Cellular Respiration,Fermentation,7,7,6,7,7
 1103,Chemistry,What is the process of a solid changing directly to a gas called?,Sublimation,Evaporation,Condensation,Melting,7,7,5,7,7
-2506,Ecology,What is the process by which plants and animals store carbon?,Carbon Sequestration,Photosynthesis,Respiration,Burning,7,7,5,7,7
+2506,Ecology,What is the process by which plants and animals store carbon?,Carbon Sequestration,Photosynthesis,Respiration,Burning,7,7,3,7,3
 1000,Chemistry,What is the state of matter in which the molecules have the most energy?,Plasma,Gas,Liquid,Solid,7,7,5,7,7
-1551,Biology,Which system in the human body is responsible for producing and releasing hormones?,Endocrine system,Nervous system,Muscular system,Reproductive system,7,7,5,7,7
-123,Zoology,What is the name for the study of fish?,Ichthyology,Herpetology,Ornithology,Entomology,7,7,5,7,7
+1551,Biology,Which system in the human body is responsible for producing and releasing hormones?,Endocrine system,Nervous system,Muscular system,Reproductive system,7,7,7,7,5
+123,Zoology,What is the name for the study of fish?,Ichthyology,Herpetology,Ornithology,Entomology,7,7,7,7,7
 324,Chemistry,What is the name of the process by which a gas transforms into a liquid?,Condensation,Evaporation,Melting,Solidification,7,7,5,7,7
-2402,Chemistry,What element has the symbol Hg?,Mercury,Gold,Iron,Copper,7,7,5,7,7
-2548,Biology,Which part of the human brain is responsible for regulating basic autonomic functions such as breathing and heart rate?,Medulla oblongata,Cerebrum,Cerebellum,Hypothalamus,7,7,5,7,7
-927,Physics,What is the name for the force that opposes motion between two surfaces in contact?,Friction,Gravity,Magnetic force,Electrical force,7,7,5,7,7
-1959,Geology,What type of rock is formed from the weathering and erosion of other rocks?,Sedimentary,Igneous,Metamorphic,None of the above,7,7,5,7,7
-1444,Physics,What is the unit for measuring power?,Watt,Joule,Ampere,Volt,7,7,5,7,7
-2709,Chemistry,What is the chemical formula for ammonia?,NH3,CO2,NaCl,H2O,7,7,5,7,7
+2402,Chemistry,What element has the symbol Hg?,Mercury,Gold,Iron,Copper,7,7,5,7,5
+2548,Biology,Which part of the human brain is responsible for regulating basic autonomic functions such as breathing and heart rate?,Medulla oblongata,Cerebrum,Cerebellum,Hypothalamus,2,7,6,7,7
+927,Physics,What is the name for the force that opposes motion between two surfaces in contact?,Friction,Gravity,Magnetic force,Electrical force,7,7,5,7,5
+1959,Geology,What type of rock is formed from the weathering and erosion of other rocks?,Sedimentary,Igneous,Metamorphic,None of the above,7,7,6,7,3
+1444,Physics,What is the unit for measuring power?,Watt,Joule,Ampere,Volt,5,7,5,7,7
+2709,Chemistry,What is the chemical formula for ammonia?,NH3,CO2,NaCl,H2O,7,7,5,7,4

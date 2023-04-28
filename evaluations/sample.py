@@ -10,7 +10,7 @@ RANDOM_STATE = 2731
 NUMBER_SHUFFLES = 4
 
 
-SYNTHETIC_PATH = 'https://raw.githubusercontent.com/alidiusk/cs2731-final-project/main/data/sorted-questions.csv?token=GHSAT0AAAAAAB6T4654GM2APAJNT77F5VCEZA6AJPA'
+SYNTHETIC_PATH = 'https://raw.githubusercontent.com/alidiusk/cs2731-final-project/main/data/synth_cleaned.csv?token=GHSAT0AAAAAAB6T4654GM2APAJNT77F5VCEZA6AJPA'
 SHUFFLE_DIR = './shuffles'
 
 

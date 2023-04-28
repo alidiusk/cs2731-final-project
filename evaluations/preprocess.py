@@ -28,30 +28,45 @@ def main():
         outfilename = f"{OUT_DIR}/{filename}"
         if is_synth(infilename):
             df = pd.read_csv(infilename)
-            df = df.rename(columns={'The topic and question are related' : 'Topic Relevance',
-                                    'The marked answer is correct' : 'Correctness',
-                                    'The question is difficult' : 'Difficulty',
-                                    'The meaning of the question is clear' : 'Clarity',
-                                    'The distractor answers are relavant to the question' : 'Distractor Relevance'})
-            df = df.loc[:, ['Index', 'Topic', 'Question', 'Answer', 
-                            'Distractor1', 'Distractor2', 'Distractor3',
-                            'Topic Relevance', 'Correctness', 'Difficulty', 'Clarity', 'Distractor Relevance']]
-            df[['Topic Relevance', 'Correctness', 'Difficulty', 'Clarity', 'Distractor Relevance']] = \
-                df[['Topic Relevance', 'Correctness', 'Difficulty', 'Clarity', 'Distractor Relevance']].apply(lambda s: int(s[0][0]))
+            df = df.rename(columns={'Index' : 'index',
+                                    'Topic' : 'topic',
+                                    'Question' : 'question',
+                                    'Answer' : 'answer',
+                                    'Distractor1' : 'distractor1',
+                                    'Distractor2' : 'distractor2',
+                                    'Distractor3' : 'distractor3',
+                                    'The topic and question are related' : 'topic_relevance',
+                                    'The marked answer is correct' : 'correctness',
+                                    'The question is difficult' : 'difficulty',
+                                    'The meaning of the question is clear' : 'clarity',
+                                    'The distractor answers are relavant to the question' : 'distractor_relevance'})
+            df = df.loc[:, ['index', 'topic', 'question', 'answer', 
+                            'distractor1', 'distractor2', 'distractor3',
+                            'topic_relevance', 'correctness', 'difficulty', 'clarity', 'distractor_relevance']]
+            for column in ['topic_relevance', 'correctness', 'difficulty', 'clarity', 'distractor_relevance']:
+                df[column] = df[column].map(lambda s: int(s[0]), na_action = 'ignore')
+                # df[column] = df[column].map(lambda s: s[4:], na_action = 'ignore')
             df.to_csv(outfilename, index=False)
         else:
             df = pd.read_csv(infilename)
-            df = df.rename(columns={'The topic and question are related' : 'Topic Relevance',
-                                    'The marked answer is correct' : 'Correctness',
-                                    'The question is difficult' : 'Difficulty',
-                                    'The meaning of the question is clear' : 'Clarity',
-                                    'The distractor answers are relavant to the question' : 'Distractor Relevance'})
+            df = df.rename(columns={'Index' : 'index',
+                                    'Question' : 'question',
+                                    'Answer' : 'answer',
+                                    'Distractor1' : 'distractor1',
+                                    'Distractor2' : 'distractor2',
+                                    'Distractor3' : 'distractor3',
+                                    'The topic and question are related' : 'topic_relevance',
+                                    'The marked answer is correct' : 'correctness',
+                                    'The question is difficult' : 'difficulty',
+                                    'The meaning of the question is clear' : 'clarity',
+                                    'The distractor answers are relavant to the question' : 'distractor_relevance'})
             # Remove Topic, Topic Relevance
-            df = df.loc[:, ['Index', 'Question', 'Answer', 
-                            'Distractor1', 'Distractor2', 'Distractor3',
-                            'Correctness', 'Difficulty', 'Clarity', 'Distractor Relevance']]
-            df[['Correctness', 'Difficulty', 'Clarity', 'Distractor Relevance']] = \
-                df[['Correctness', 'Difficulty', 'Clarity', 'Distractor Relevance']].apply(lambda s: int(s[0][0]))
+            df = df.loc[:, ['index', 'question', 'answer', 
+                            'distractor1', 'distractor2', 'distractor3',
+                            'correctness', 'difficulty', 'clarity', 'distractor_relevance']]
+            for column in ['correctness', 'difficulty', 'clarity', 'distractor_relevance']:
+                df[column] = df[column].map(lambda s: int(s[0]), na_action = 'ignore')
+                # df[column] = df[column].map(lambda s: s[4:], na_action = 'ignore')
             df.to_csv(outfilename, index=False)
 
 

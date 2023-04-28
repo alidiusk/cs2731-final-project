@@ -1,0 +1,221 @@
+---
+title: "Human Evaluations Analysis"
+author: "Maya Woodward (low21)"
+date: "2023-04-19"
+output: html_document
+---
+
+# Introduction
+
+TODO
+
+# Loading Data
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, load_libraries}
+library(tidyverse)
+library(agreement)
+```
+
+```{r, data}
+sciq1_df <- readr::read_csv("./data/maya-sciq.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(1))
+sciq2_df <- readr::read_csv("./data/simon-sciq.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(2))
+sciq3_df <- readr::read_csv("./data/dan-sciq.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(3))
+sciq4_df <- readr::read_csv("./data/bob-sciq.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(4))
+
+synth1_df <-readr::read_csv( "./data/maya-synth.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(1))
+synth2_df <-readr::read_csv( "./data/simon-synth.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(2))
+synth3_df <-readr::read_csv( "./data/dan-synth.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(3))
+synth4_df <-readr::read_csv( "./data/bob-synth.csv", col_names = TRUE) %>%
+    mutate(evaluator = as.character(4))
+
+sciq_df = bind_rows(sciq1_df, sciq2_df, sciq3_df, sciq4_df)
+synth_df = bind_rows(synth1_df, synth2_df, synth3_df, synth4_df)
+```
+
+```{r, bar_charts}
+# synth_df %>%
+#     select(c(correctness, difficulty, clarity, distractor_relevance)) %>%
+#     pivot_longer(cols = everything()) %>%
+#     ggplot() +
+#     geom_bar(mapping = aes(x = name, fill = factor(value, levels = c("Strongly Disagree", "Disagree", "Somewhat Disagree", "Neither Agree nor Disagree", "Somewhat Agree", "Agree", "Strongly Agree"))), position="stack") +
+#     coord_flip() +
+#     # ggtitle
+#     ylab("Count") +
+#     xlab("Metric") +
+#     scale_fill_brewer(name = "Agreement", palette="PRGn") +
+#     theme(legend.position="bottom") +
+#     guides(fill=guide_legend(nrow=3, byrow = TRUE))
+# 
+# sciq_df %>%
+#     select(c(correctness, difficulty, clarity, distractor_relevance)) %>%
+#     pivot_longer(cols = everything()) %>%
+#     ggplot() +
+#     geom_bar(mapping = aes(x = name, fill = factor(value, levels = c("Strongly Disagree", "Disagree", "Somewhat Disagree", "Neither Agree nor Disagree", "Somewhat Agree", "Agree", "Strongly Agree"))), position="stack") +
+#     coord_flip() +
+#     # ggtitle
+#     ylab("Count") +
+#     xlab("Metric") +
+#     scale_fill_brewer(name = "Agreement", palette="PRGn") +
+#     theme(legend.position="bottom") +
+#     guides(fill=guide_legend(nrow=3, byrow = TRUE))
+```
+
+```{r, metrics}
+# get_diff <- function(df1, df2) {
+#     x <- c(
+#         mean(df1$correctness) - mean(df2$correctness),
+#         mean(df1$difficulty) - mean(df2$difficulty),
+#         mean(df1$clarity) - mean(df2$clarity),
+#         mean(df1$distractor_relevance) - mean(df2$distractor_relevance)
+#     )
+# 
+#     x
+# }
+# 
+# get_diff(synth1_df, sciq1_df)
+# get_diff(synth2_df, sciq2_df)
+# get_diff(synth3_df, sciq3_df)
+# get_diff(synth4_df, sciq4_df)
+# 
+# get_metric <- function(df, f) {
+#     x <- c(
+#         f(df$correctness),
+#         f(df$difficulty),
+#         f(df$clarity),
+#         f(df$distractor_relevance)
+#     )
+# 
+#     x
+# }
+# 
+# get_metric(synth_df, mean)
+# get_metric(sciq_df, mean)
+# 
+# get_metric(synth_df, median)
+# get_metric(sciq_df, median)
+# 
+# getmode <- function(v) {
+#    uniqv <- unique(v)
+#    uniqv[which.max(tabulate(match(v, uniqv)))]
+# }
+# 
+# get_metric(synth_df, getmode)
+# get_metric(sciq_df, getmode)
+```
+
+```{r, agreement}
+synth_results <- synth_df %>%
+    select(c(evaluator, index, topic_relevance)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(synth_results, ci = TRUE, type = "bca")
+
+synth_results <- synth_df %>%
+    select(c(evaluator, index, correctness)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(synth_results, ci = TRUE, type = "bca")
+
+synth_results <- synth_df %>%
+    select(c(evaluator, index, difficulty)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(synth_results, ci = TRUE, type = "bca")
+
+synth_results <- synth_df %>%
+    select(c(evaluator, index, clarity)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(synth_results, ci = TRUE, type = "bca")
+
+synth_results <- synth_df %>%
+    select(c(evaluator, index, distractor_relevance)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(synth_results, ci = TRUE, type = "bca")
+
+sciq_results <- sciq_df %>%
+    select(c(evaluator, index, correctness)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(sciq_results, ci = TRUE, type = "bca")
+
+sciq_results <- sciq_df %>%
+    select(c(evaluator, index, difficulty)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(sciq_results, ci = TRUE, type = "bca")
+
+sciq_results <- sciq_df %>%
+    select(c(evaluator, index, clarity)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(sciq_results, ci = TRUE, type = "bca")
+
+sciq_results <- sciq_df %>%
+    select(c(evaluator, index, distractor_relevance)) %>%
+    pivot_longer(cols = -c(evaluator, index)) %>%
+    rename(Rater = evaluator, Object = index, Score = value) %>%
+    cat_specific()
+
+summary(sciq_results, ci = TRUE, type = "bca")
+
+# synth_results <- synth_df %>%
+#     select(c(evaluator, topic_relevance, correctness, difficulty, clarity, distractor_relevance)) %>%
+#     pivot_longer(!evaluator) %>%
+#     rename(Rater = evaluator, Object = name, Score = value) %>%
+#     cat_specific()
+# 
+# summary(synth_results, ci = TRUE, type = "bca")
+# 
+# synth_results_sp <- synth_df %>%
+#     select(c(evaluator, topic_relevance, correctness, difficulty, clarity, distractor_relevance)) %>%
+#     pivot_longer(!evaluator) %>%
+#     rename(Rater = evaluator, Object = name, Score = value) %>%
+#     cat_specific()
+# 
+# summary(synth_results_sp, ci = TRUE, type = "bca")
+# 
+# sciq_results <- sciq_df %>%
+#     select(c(evaluator, correctness, difficulty, clarity, distractor_relevance)) %>%
+#     pivot_longer(!evaluator) %>%
+#     rename(Rater = evaluator, Object = name, Score = value) %>%
+#     cat_specific()
+# 
+# summary(sciq_results, ci = TRUE, type = "bca")
+# 
+# sciq_results_sp <- sciq_df %>%
+#     select(c(evaluator, correctness, difficulty, clarity, distractor_relevance)) %>%
+#     pivot_longer(!evaluator) %>%
+#     rename(Rater = evaluator, Object = name, Score = value) %>%
+#     cat_specific()
+# 
+# summary(sciq_results_sp, ci = TRUE, type = "bca")
+```
